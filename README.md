@@ -1,7 +1,5 @@
 # Awesome-Multimodal-Large-Language-Models
 
-1
-
 # Awesome Papers
 
 ## Jailbreak of Multimodal LLM-based Models
