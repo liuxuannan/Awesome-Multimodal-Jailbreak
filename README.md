@@ -1,4 +1,4 @@
-# Awesome-Multimodal-Large-Language-Models
+# Awesome-Jailbreak-against-Multimodal-Generative-Models
 
 # Awesome Papers
 
