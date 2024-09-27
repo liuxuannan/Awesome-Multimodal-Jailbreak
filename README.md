@@ -22,7 +22,6 @@
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 |[**Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models**](https://openreview.net/forum?id=plmBsXHxgR&trk=public_post_comment-text) | ICLR 2024 Spotlight | 2024/01/16 | [Github](https://github.com/erfanshayegani/Jailbreak-In-Pieces) | Encoder Level |
-
 |[**FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts**](https://arxiv.org/abs/2311.05608) | Arxiv 2023 | 2023/11/09 | [Github](https://github.com/ThuCCSLab/FigStep) | Encoder Level |
 |[**Jailbreaking Attack against Multimodal Large Language Model**](https://arxiv.org/abs/2402.02309) | Arxiv 2024 | 2024/02/04 | None| Encoder Level |
 |[**Images are Achilles' Heel of Alignment: Exploiting Visual Vulnerabilities for Jailbreaking Multimodal Large Language Models**](https://arxiv.org/abs/2403.09792) | ECCV 2024 | 2024/05/14 | [Github](https://github.com/RUCAIBox/HADES)| Encoder Level |
@@ -32,9 +31,7 @@
 |[**Arondight: Red Teaming Large Vision Language Models with Auto-generated Multi-modal Jailbreak Prompts**](https://arxiv.org/abs/2407.15050) | ACM MM 2024 | 2024/07/21 | None | Encoder Level |
 |[**Visual Adversarial Examples Jailbreak Aligned Large Language Models**](https://arxiv.org/abs/2306.13213) | AAAI 2024 | 2023/06/22 | [Github](https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models) | Encoder Level |
 |[**Are aligned neural networks adversarially aligned?**](https://arxiv.org/abs/2306.15447) | Arxiv 2023 | 2023/06/26 | None | Encoder Level |
-
 |[**Voice Jailbreak Attacks Against GPT-4o**](https://arxiv.org/abs/2405.19103) | Arxiv 2024 | 2024/05/29 | [Github](https://github.com/TrustAIRLab/VoiceJailbreakAttack) | Encoder Level |
-
 |[**Efficient LLM-Jailbreaking by Introducing Visual Modality**](https://arxiv.org/abs/2405.20015) | Arxiv 2024 | 2024/05/30 | None | Encoder Level |
 |[**ImgTrojan: Jailbreaking Vision-Language Models with ONE Image**](https://arxiv.org/abs/2403.02910) | Arxiv 2024 | 2024/05/05 | [Github](https://github.com/xijia-tao/ImgTrojan) | Encoder Level |
 |[**Jailbreaking GPT-4V via Self-Adversarial Attacks with System Prompts**](https://arxiv.org/abs/2311.09127) | Arxiv 2023 | 2023/11/15 | None | Encoder Level |
