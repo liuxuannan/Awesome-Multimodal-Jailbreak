@@ -2,6 +2,11 @@
 
 # Awesome Papers
 
+# Related Survey
+|  Title  |   Venue  |   Date   |   Code   | Taxonomy |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+|[**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**](https://arxiv.org/pdf/2407.07403) | Arxiv | 2024 | [Github](https://github.com/liudaizong/Awesome-LVLM-Attack) | MLLM |
+
 ## Jailbreak of Multimodal LLM-based Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy |
 |:--------|:--------:|:--------:|:--------:|:--------:|
@@ -25,7 +30,6 @@
 |[**From LLMs to MLLMs: Exploring the Landscape of Multimodal Jailbreaking**](https://arxiv.org/pdf/2406.14859v1) | Arxiv | 2024 | None | Encoder Level |
 |[**Image-to-Text Logic Jailbreak: Your Imagination can Help You Do Anything**](https://arxiv.org/pdf/2407.02534) | Arxiv | 2024 | None | Encoder Level |
 |[**Can Large Language Models Automatically Jailbreak GPT-4V?**](https://arxiv.org/pdf/2407.16686v2) | Arxiv | 2024 | None | Encoder Level |
-|[**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**](https://arxiv.org/pdf/2407.07403) | Arxiv | 2024 | [Github](https://github.com/liudaizong/Awesome-LVLM-Attack) | Encoder Level |
 
 ## Jailbreak of Multimodal Diffusion-based Models
 
