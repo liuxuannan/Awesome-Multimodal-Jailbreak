@@ -7,7 +7,12 @@
 |:--------|:--------:|:--------:|:--------:|:--------:|
 |[**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**](https://arxiv.org/pdf/2407.07403) | Arxiv | 2024 | [Github](https://github.com/liudaizong/Awesome-LVLM-Attack) | MLLM |
 
-## Jailbreak of Multimodal LLM-based Models
+# Attack Bench of Multimodal Generative Models
+|  Title  |   Venue  |   Date   |   Code   | Taxonomy |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+
+
+## Jailbreak Attack of Multimodal LLM-based Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 |[**Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models**](https://openreview.net/forum?id=plmBsXHxgR&trk=public_post_comment-text) | ICLR 2024 Spotlight | 2024-01-16 | [Github](https://github.com/erfanshayegani/Jailbreak-In-Pieces) | Encoder Level |
@@ -31,7 +36,7 @@
 |[**Image-to-Text Logic Jailbreak: Your Imagination can Help You Do Anything**](https://arxiv.org/pdf/2407.02534) | Arxiv | 2024 | None | Encoder Level |
 |[**Can Large Language Models Automatically Jailbreak GPT-4V?**](https://arxiv.org/pdf/2407.16686v2) | Arxiv | 2024 | None | Encoder Level |
 
-## Jailbreak of Multimodal Diffusion-based Models
+## Jailbreak Attack of Multimodal Diffusion-based Models
 
 
-## Jailbreak of Any-to-Any Models
+## Jailbreak Attack of Any-to-Any Models
