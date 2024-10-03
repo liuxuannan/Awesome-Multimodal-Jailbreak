@@ -36,7 +36,7 @@
 |[**Are aligned neural networks adversarially aligned?**](https://arxiv.org/abs/2306.15447) | Arxiv 2023 | 2023/06/26 | None | Encoder Level |
 |[**Voice Jailbreak Attacks Against GPT-4o**](https://arxiv.org/abs/2405.19103) | Arxiv 2024 | 2024/05/29 | [Github](https://github.com/TrustAIRLab/VoiceJailbreakAttack) | Encoder Level |
 |[**Efficient LLM-Jailbreaking by Introducing Visual Modality**](https://arxiv.org/abs/2405.20015) | Arxiv 2024 | 2024/05/30 | None | Encoder Level |
-|[**ImgTrojan: Jailbreaking Vision-Language Models with ONE Image**](https://arxiv.org/abs/2403.02910) | Arxiv 2024 | 2024/05/05 | [Github](https://github.com/xijia-tao/ImgTrojan) | Encoder Level |
+|[**✳ImgTrojan: Jailbreaking Vision-Language Models with ONE Image**](https://arxiv.org/abs/2403.02910) | Arxiv 2024 | 2024/05/05 | [Github](https://github.com/xijia-tao/ImgTrojan) | Encoder Level |
 |[**Jailbreaking GPT-4V via Self-Adversarial Attacks with System Prompts**](https://arxiv.org/abs/2311.09127) | Arxiv 2023 | 2023/11/15 | None | Encoder Level |
 |[**White-box Multimodal Jailbreaks Against Large Vision-Language Models**](https://arxiv.org/abs/2405.17894) | Arxiv 2023 | 2024/05/28 | None | Encoder Level |
 |[**From LLMs to MLLMs: Exploring the Landscape of Multimodal Jailbreaking**](https://arxiv.org/pdf/2406.14859v1) | Arxiv 2024 | 2024/06/21 | None | Encoder Level |
@@ -63,6 +63,7 @@
 |[**Automatic Jailbreaking of the Text-to-Image Generative AI Systems**](https://arxiv.org/abs/2405.16567) | Arxiv 2024 | 2024/05/28 | None | Encoder Level |
 |[**Jailbreaking Text-to-Image Models with LLM-Based Agents**](https://arxiv.org/abs/2405.16567) | Arxiv 2024 | 2024/09/09 | None | Encoder Level |
 |[**✳VA3: Virtually Assured Amplification Attack on Probabilistic Copyright Protection for Text-to-Image Generative Models**](https://arxiv.org/abs/2312.00057) | CVPR 2024 | 2024/08/02 | [Github](https://github.com/South7X/VA3) | Encoder Level |
+|[**✳RT-Attack: Jailbreaking Text-to-Image Models via Random Token**](https://arxiv.org/abs/2408.13896) | Arxiv 2024 | 2024/08/27 | None | Encoder Level |
 
 
 ## Jailbreak Attack of Any-to-Any Models
