@@ -44,6 +44,8 @@
 |[**Can Large Language Models Automatically Jailbreak GPT-4V?**](https://arxiv.org/pdf/2407.16686v2) | Arxiv 2024 | 2024/07/23 | None | Encoder Level |
 
 ## Jailbreak Attack of Multimodal Diffusion-based Models
+|  Title  |   Venue  |   Date   |   Code   | Taxonomy |
+|:--------|:--------:|:--------:|:--------:|:--------:|
 |[**MMA-Diffusion: MultiModal Attack on Diffusion Models**](https://arxiv.org/abs/2311.17516) | CVPR 2024 | 2023/11/29 | [Github](https://github.com/cure-lab/MMA-Diffusion) | Encoder Level |
 |[**Ring-A-Bell! How Reliable are Concept Removal Methods for Diffusion Models?**](https://arxiv.org/abs/2310.10012) | ICLR 2024 | 2023/10/16 | [Github]( https://github.com/chiayi-hsu/Ring-A-Bell) | Encoder Level |
 |[**Jailbreaking Prompt Attack: A Controllable Adversarial Attack against Diffusion Models**](https://arxiv.org/abs/2404.02928) | Arxiv 2024 | 2024/08/02 | None | Encoder Level |
