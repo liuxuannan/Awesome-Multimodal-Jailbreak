@@ -6,8 +6,10 @@
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 |[**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**](https://arxiv.org/pdf/2407.07403) | Arxiv 2024 | 2024/07/10 | [Github](https://github.com/liudaizong/Awesome-LVLM-Attack) | MLLM |
-|[**Safety of Multimodal Large Language Models on Images and Texts**](https://arxiv.org/abs/2402.00357) | Arxiv 2024 | 2024/02/01 | [Github](https://github.com/isXinLiu/Awesome-MLLM-Safety) | MLLM |
+|[**Safety of Multimodal Large Language Models on Images and Texts**](https://arxiv.org/abs/2402.00357) | Arxiv 2024 | 2024/06/20 | [Github](https://github.com/isXinLiu/Awesome-MLLM-Safety) | MLLM |
 |[**Unbridled Icarus: A Survey of the Potential Perils of Image Inputs in Multimodal Large Language Model Security**](https://arxiv.org/abs/2404.05264) | Arxiv 2024 | 2024/08/08 | None | MLLM |
+|[**JailbreakZoo: Survey, Landscapes, and Horizons in Jailbreaking Large Language and Vision-Language Models**](https://arxiv.org/abs/2407.01599) | Arxiv 2024 | 2024/07/25 | [Github]( https://github.com/Allen-piexl/JailbreakZoo) | MLLM |
+
 
 
 # Attack Bench of Multimodal Generative Models
@@ -16,6 +18,7 @@
 |[**JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks**](https://arxiv.org/abs/2404.03027) | Arxiv 2024 | 2024/04/03 | [Github](https://eddyluo1232.github.io/JailBreakV28K/) | Encoder Level |
 |[**MM-SafetyBench: A Benchmark for Safety Evaluation of Multimodal Large Language Models**](https://arxiv.org/abs/2311.09127) | ECCV 2024 | 2024/11/29 | None | Encoder Level |
 |[**How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs**](https://arxiv.org/abs/2311.16101) | Arxiv 2023 | 2023/11/27 | [Github](https://github.com/UCSC-VLAA/vllm-safety-benchmark) | Encoder Level |
+|[**✳Multimodal Pragmatic Jailbreak on Text-to-image Models**](https://www.arxiv.org/abs/2409.19149) | Arxiv 2024 | 2024/09/27 | [Github](https://github.com/multimodalpragmatic/multimodalpragmatic/tree/main) | Encoder Level |
 
 ## Jailbreak Attack of Multimodal LLM-based Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy |
