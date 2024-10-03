@@ -62,7 +62,7 @@
 |[**SurrogatePrompt: Bypassing the Safety Filter of Text-To-Image Models via Substitution**](https://arxiv.org/abs/2309.14122) | Arxiv 2024 | 2024/07/31 | [Github](https://github.com/researchcode001/Divide-and-Conquer-Attack) | Encoder Level |
 |[**Automatic Jailbreaking of the Text-to-Image Generative AI Systems**](https://arxiv.org/abs/2405.16567) | Arxiv 2024 | 2024/05/28 | None | Encoder Level |
 |[**Jailbreaking Text-to-Image Models with LLM-Based Agents**](https://arxiv.org/abs/2405.16567) | Arxiv 2024 | 2024/09/09 | None | Encoder Level |
-|[**VA3: Virtually Assured Amplification Attack on Probabilistic Copyright Protection for Text-to-Image Generative Models**](https://arxiv.org/abs/2312.00057) | CVPR 2024 | 2024/08/02 | [Github](https://github.com/South7X/VA3) | Encoder Level |
+|[**✳VA3: Virtually Assured Amplification Attack on Probabilistic Copyright Protection for Text-to-Image Generative Models**](https://arxiv.org/abs/2312.00057) | CVPR 2024 | 2024/08/02 | [Github](https://github.com/South7X/VA3) | Encoder Level |
 
 
 ## Jailbreak Attack of Any-to-Any Models
