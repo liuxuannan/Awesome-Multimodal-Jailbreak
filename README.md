@@ -20,6 +20,7 @@
 |[**MM-SafetyBench: A Benchmark for Safety Evaluation of Multimodal Large Language Models**](https://arxiv.org/abs/2311.09127) | ECCV 2024 | 2024/11/29 | None | Encoder Level |
 |[**How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs**](https://arxiv.org/abs/2311.16101) | Arxiv 2023 | 2023/11/27 | [Github](https://github.com/UCSC-VLAA/vllm-safety-benchmark) | Encoder Level |
 |[**✳Multimodal Pragmatic Jailbreak on Text-to-image Models**](https://www.arxiv.org/abs/2409.19149) | Arxiv 2024 | 2024/09/27 | [Github](https://github.com/multimodalpragmatic/multimodalpragmatic/tree/main) | Encoder Level |
+|[**✳SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision Language Model**](https://arxiv.org/abs/2406.12030) | Arxiv 2024 | 2024/06/17 | [Github](https://github.com/EchoseChen/SPA-VL-RLHF) | Encoder Level |
 
 ## Jailbreak Attack of Multimodal LLM-based Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy |
