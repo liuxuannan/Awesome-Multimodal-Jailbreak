@@ -42,7 +42,7 @@
 |[**Are aligned neural networks adversarially aligned?**](https://arxiv.org/abs/2306.15447) | Arxiv 2023 | 2023/06/26 | None | Model Level |
 |[**Voice Jailbreak Attacks Against GPT-4o**](https://arxiv.org/abs/2405.19103) | Arxiv 2024 | 2024/05/29 | [Github](https://github.com/TrustAIRLab/VoiceJailbreakAttack) | Input Level |
 |[**Efficient LLM-Jailbreaking by Introducing Visual Modality**](https://arxiv.org/abs/2405.20015) | Arxiv 2024 | 2024/05/30 | None | Model Level |
-|[**✳ImgTrojan: Jailbreaking Vision-Language Models with ONE Image**](https://arxiv.org/abs/2403.02910) | Arxiv 2024 | 2024/05/05 | [Github](https://github.com/xijia-tao/ImgTrojan) | Model Level |
+|[**ImgTrojan: Jailbreaking Vision-Language Models with ONE Image**](https://arxiv.org/abs/2403.02910) | Arxiv 2024 | 2024/05/05 | [Github](https://github.com/xijia-tao/ImgTrojan) | Model Level |
 |[**Jailbreaking GPT-4V via Self-Adversarial Attacks with System Prompts**](https://arxiv.org/abs/2311.09127) | Arxiv 2023 | 2023/11/15 | None | Input Level |
 |[**White-box Multimodal Jailbreaks Against Large Vision-Language Models**](https://arxiv.org/abs/2405.17894) | Arxiv 2023 | 2024/05/28 | None | Model Level |
 |[**From LLMs to MLLMs: Exploring the Landscape of Multimodal Jailbreaking**](https://arxiv.org/pdf/2406.14859v1) | Arxiv 2024 | 2024/06/21 | None | Encoder Level |
@@ -72,4 +72,20 @@
 |[**✳RT-Attack: Jailbreaking Text-to-Image Models via Random Token**](https://arxiv.org/abs/2408.13896) | Arxiv 2024 | 2024/08/27 | None | Encoder Level |
 
 
-## Jailbreak Attack of Any-to-Any Models
+## Jailbreak Defense of Multimodal Diffusion-based Models
+|  Title  |   Venue  |   Date   |   Code   | Taxonomy |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+|[**EIUP: A Training-Free Approach to Erase Non-Compliant Concepts Conditioned on Implicit Unsafe Prompts**](https://arxiv.org/abs/2408.01014) | Arxiv 2024 | 2024/08/02 | None | Encoder Level |
+|[**Direct Unlearning Optimization for Robust and Safe Text-to-Image Models**](https://arxiv.org/abs/2407.21035) | Arxiv 2024 | 2024/07/17 | None | Encoder Level |
+|[**Reliable and Efficient Concept Erasure of Text-to-Image Diffusion Models**](https://arxiv.org/abs/2407.12383) | ECCV 2024 | 2024/07/17 | [Github](https://github.com/CharlesGong12/RECE) | Encoder Level |
+|[**Pruning for Robust Concept Erasing in Diffusion Models**](https://arxiv.org/abs/2405.16534) | Arxiv 2024 | 2024/05/26 | None | Encoder Level |
+|[**SafeGen: Mitigating Sexually Explicit Content Generation in Text-to-Image Models**](https://arxiv.org/abs/2404.06666) | ACM CCS 2024 | 2024/04/10 | [Github](https://github.com/LetterLiGo/SafeGen_CCS2024) | Encoder Level |
+|[**GuardT2I: Defending Text-to-Image Models from Adversarial Prompts**](https://arxiv.org/abs/2403.01446) | Arxiv 2024 | 2024/03/03 | None | Encoder Level |
+|[**Safe-CLIP: Removing NSFW Concepts from Vision-and-Language Models**](https://arxiv.org/abs/2403.01446) | ECCV 2024 | 2024/11/27 | [Github](https://github.com/aimagelab/safe-clip) | Encoder Level |
+|[**Forget-Me-Not: Learning to Forget in Text-to-Image Diffusion Models**](https://arxiv.org/abs/2303.17591) | CVPR 2024 | 2023/05/30 | [Github](https://github.com/SHI-Labs/Forget-Me-Not) | Encoder Level |
+|[**Latent Guard: a Safety Framework for Text-to-image Generation**](https://arxiv.org/abs/2404.08031) | ECCV 2024 | 2024/04/11 | [Github](https://github.com/rt219/LatentGuard) | Encoder Level |
+|[**Safe Latent Diffusion: Mitigating Inappropriate Degeneration in Diffusion Models**](https://arxiv.org/abs/2211.05105) | CVPR 2023 | 2022/11/09 | [Github](https://github.com/ml-research/safe-latent-diffusion) | Encoder Level |
+|[**Information-Theoretical Principled Trade-off between Jailbreakability and Stealthiness on Vision Language Models**](https://arxiv.org/abs/2410.01438) | Arxiv 2024 | 2024/10/02 | None | Encoder Level |
+|[**GuardT2I: Defending Text-to-Image Models from Adversarial Prompts**](https://arxiv.org/html/2403.01446v1) | Arxiv 2024 | 2024/03/03 | None | Encoder Level |
+|[**Espresso: Robust Concept Filtering in Text-to-Image Models**](https://arxiv.org/abs/2404.19227) | Arxiv 2024 | 2024/04/30 | None | Encoder Level |
+
