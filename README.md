@@ -69,7 +69,7 @@
 |[**Automatic Jailbreaking of the Text-to-Image Generative AI Systems**](https://arxiv.org/abs/2405.16567) | Arxiv 2024 | 2024/05/28 | None | Input Level |
 |[**Jailbreaking Text-to-Image Models with LLM-Based Agents**](https://arxiv.org/abs/2405.16567) | Arxiv 2024 | 2024/09/09 | None | Input Level |
 |[**✳VA3: Virtually Assured Amplification Attack on Probabilistic Copyright Protection for Text-to-Image Generative Models**](https://arxiv.org/abs/2312.00057) | CVPR 2024 | 2024/08/02 | [Github](https://github.com/South7X/VA3) | Encoder Level |
-|[**✳RT-Attack: Jailbreaking Text-to-Image Models via Random Token**](https://arxiv.org/abs/2408.13896) | Arxiv 2024 | 2024/08/27 | None | Encoder Level |
+|[**RT-Attack: Jailbreaking Text-to-Image Models via Random Token**](https://arxiv.org/abs/2408.13896) | Arxiv 2024 | 2024/08/27 | None | Encoder Level |
 
 
 ## Jailbreak Defense of Multimodal Diffusion-based Models
