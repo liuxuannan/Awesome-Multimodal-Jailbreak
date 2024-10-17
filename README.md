@@ -85,7 +85,6 @@
 |[**Forget-Me-Not: Learning to Forget in Text-to-Image Diffusion Models**](https://arxiv.org/abs/2303.17591) | CVPR 2024 | 2023/05/30 | [Github](https://github.com/SHI-Labs/Forget-Me-Not) | Model Level |
 |[**Latent Guard: a Safety Framework for Text-to-image Generation**](https://arxiv.org/abs/2404.08031) | ECCV 2024 | 2024/04/11 | [Github](https://github.com/rt219/LatentGuard) | Encoder Level |
 |[**Safe Latent Diffusion: Mitigating Inappropriate Degeneration in Diffusion Models**](https://arxiv.org/abs/2211.05105) | CVPR 2023 | 2022/11/09 | [Github](https://github.com/ml-research/safe-latent-diffusion) | Model Level |
-|[**Information-Theoretical Principled Trade-off between Jailbreakability and Stealthiness on Vision Language Models**](https://arxiv.org/abs/2410.01438) | Arxiv 2024 | 2024/10/02 | None | Encoder Level |
 |[**Espresso: Robust Concept Filtering in Text-to-Image Models**](https://arxiv.org/abs/2404.19227) | Arxiv 2024 | 2024/04/30 | None | Output Level |
 |[**Self-discovering interpretable diffusion latent directions for responsible text-to-image generation**](https://arxiv.org/abs/2311.17216) | CVPR 2024 | 2024/05/28 | [Github](https://github.com/hangligit/InterpretDiffusion) | Input Level |
 |[**Implicit concept removal of diffusion models**](https://arxiv.org/abs/2310.05873) | Arxiv 2024 | 2024/10/08 | None | Input Level |
