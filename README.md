@@ -91,7 +91,7 @@
 |[**Defensive unlearning with adversarial training for robust concept erasure in diffusion models**](https://arxiv.org/abs/2405.15234) | Nips 2024 | 2024/10/09 | [Github](https://github.com/OPTML-Group/AdvUnlearn) | Encoder Level |
 |[**Unlearning concepts in diffusion model via concept domain correction and concept preserving gradient**](https://arxiv.org/abs/2405.15304) | Arxiv 2024 | 2024/05/24 | None | Encoder Level |
 |[**Erasediff: Erasing data influence in diffusion models**](https://arxiv.org/abs/2401.05779) | Arxiv 2024 | 2024/07/28 | None | Model Level |
-|[**Salun: Empowering machine unlearning via gradient-based weight saliency in both image classification and generation**](https://arxiv.org/abs/2310.12508) | ICLR 2024 | 2024/04/04 | [Github](https://github.com/OPTML-Group/Unlearn-Saliency) | Model Level |
+|[**Salun: Empowering machine unlearning via gradient-based weight saliency in both image classification and generation**](https://arxiv.org/abs/2310.12508) | ICLR 2024 | 2024/04/04 | [Github](https://github.com/OPTML-Group/Unlearn-Saliency) | Model Level |
 |[**Mace: Mass concept erasure in diffusion models**](https://arxiv.org/abs/2403.06135) | CVPR 2024 | 2024/05/10 | [Github](https://github.com/Shilin-LU/MACE) | Model Level |
 |[**Unified concept editing in diffusion models**](https://arxiv.org/abs/2308.14761) | CVPR 2024 | 2023/08/25 | [Github](https://github.com/rohitgandikota/unified-concept-editing) | Model Level |
 |[**Receler: Reliable concept erasing of text-to-image diffusion models via lightweight erasers**](https://arxiv.org/abs/2311.17717) | Arxiv 2024 | 2024/07/18 | None | Model Level |
