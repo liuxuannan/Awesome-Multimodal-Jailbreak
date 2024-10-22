@@ -98,7 +98,7 @@ All the papers related to jailbreak attacks can be found in both [Jailbreak Atta
 
 ### 📑Papers
 
-All the papers related to jailbreak attacks can be found in both [Jailbreak Defense of Multimodal LLM-based Models](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/Jailbreak%20Defense%20of%20Multimodal%20LLM-based%20Models.md) and [Jailbreak Defense of Multimodal Diffusion-based Models](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/Jailbreak%20Attack%20of%20Multimodal%20Diffusion-based%20Models.md) files
+All the papers related to jailbreak attacks can be found in both [Jailbreak Defense of Multimodal LLM-based Models](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/Jailbreak%20Defense%20of%20Multimodal%20LLM-based%20Models.md) and [Jailbreak Defense of Multimodal Diffusion-based Models](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/Jailbreak%20Defense%20of%20Multimodal%20Diffusion-based%20Models.md) files
 
 
 # Awesome Papers
