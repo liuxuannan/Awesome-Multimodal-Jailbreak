@@ -1,6 +1,6 @@
 
 # 🛡️Awesome-Jailbreak-against-Multimodal-Generative-Models
-!(https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/survey_model_00.png)
+![survey model](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/survey_model_00.png)
 ## 🤗Introduction
 
 
