@@ -99,7 +99,7 @@ All the papers related to jailbreak attacks can be found in [Jailbreak Attack](h
 
 ### 📑Papers
 
-All the papers related to jailbreak attacks can be found in [Jailbreak Defense]().
+All the papers related to jailbreak attacks can be found in [Jailbreak Defense](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/Jailbreak%20Defense.md).
 
 
 ## 💯Resources
