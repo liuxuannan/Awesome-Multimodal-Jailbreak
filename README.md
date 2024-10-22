@@ -55,8 +55,8 @@ Our thorough compilation and careful selection are time-savers for you.
     - [📚Detectors](#detectors)
       - [Used to Any-to-Text Models](#Used-to-Any-to-Text-Models)
       - [Used to Any-to-Text Models](#Used-to-Any-to-Vision-Models)
-  - [🧑‍🏫 Scholars 👩‍🏫](#-scholars-)
-  - [🧑‍🎓Author](#author)
+  - [📑Other Survey and Bench]
+
 
 
 ## 🔥Multimodal Generative Models
@@ -151,6 +151,10 @@ All the papers related to jailbreak attacks can be found in both [Jailbreak Defe
 |**Imgcensor** | [Github](https://github.com/lucasxlu/XCloud/tree/master/research/imgcensor) |
 |**Multi-headed Safety Classifier** | [Github](https://github.com/YitingQu/unsafe-diffusion) |
 
+
+## 📑Other Survey and Bench
+
+Related surveys and benchmarks can be found in [Related survey](), []() and []()
 
 # Awesome Papers
 
