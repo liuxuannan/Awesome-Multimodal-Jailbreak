@@ -55,7 +55,6 @@ Our thorough compilation and careful selection are time-savers for you.
     - [📚Detectors](#detectors)
       - [Used to Any-to-Text Models](#Used-to-Any-to-Text-Models)
       - [Used to Any-to-Text Models](#Used-to-Any-to-Vision-Models)
-  - [📑Other Survey and Bench](#Other-Survey-and-Bench)
 
 
 
@@ -85,7 +84,7 @@ Our thorough compilation and careful selection are time-savers for you.
 
 
 ### 📑Papers
-All the papers related to jailbreak attacks can be found in both [Jailbreak Attack of Multimodal LLM-based Models](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/Jailbreak%20Attack%20of%20Multimodal%20LLM-based%20Models.md) and [Jailbreak Attack of Multimodal Diffusion-based Models](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/Jailbreak%20Attack%20of%20Multimodal%20Diffusion-based%20Models.md) files.
+All the papers related to jailbreak attacks can be found in [Jailbreak Attack]().
 
 
 ## 🛡️Jailbreak Defense
@@ -100,7 +99,7 @@ All the papers related to jailbreak attacks can be found in both [Jailbreak Atta
 
 ### 📑Papers
 
-All the papers related to jailbreak attacks can be found in both [Jailbreak Defense of Multimodal LLM-based Models](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/Jailbreak%20Defense%20of%20Multimodal%20LLM-based%20Models.md) and [Jailbreak Defense of Multimodal Diffusion-based Models](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/Jailbreak%20Defense%20of%20Multimodal%20Diffusion-based%20Models.md) files.
+All the papers related to jailbreak attacks can be found in [Jailbreak Defense]().
 
 
 ## 💯Resources
@@ -152,7 +151,4 @@ All the papers related to jailbreak attacks can be found in both [Jailbreak Defe
 |**Multi-headed Safety Classifier** | [Github](https://github.com/YitingQu/unsafe-diffusion) |
 
 
-## 📑Other Survey and Bench
-
-Related survey and benchmark can be found in [Related survey](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/Related%20Survey.md), [Attack Bench of Multimodal Generative Models](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/Attack%20Bench%20of%20Multimodal%20Generative%20Models.md) and [Defense Bench of Multimodal Generative Models](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/Defense%20Bench%20of%20Multimodal%20Generative%20Models.md).
 
