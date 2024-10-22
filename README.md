@@ -86,8 +86,11 @@ For encoder-level attacks, attackers are restricted to accessing modality encode
 ![jailbreak_attack_decoder](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_attack_decoder_00.png)
 For decoder-level attacks, attackers have unrestricted access to the generative model’s architecture and checkpoint empowers attackers to conduct thorough investigations and manipulations, thus enabling sophisticated attacks.
 ### 📰Input Level
+![jailbreak_attack_input](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_attack_input_00.png)
+For input-level attacks, attackers are compelled to develop more sophisticated input templates capable of bypassing the model’s safeguards, thereby making the models more susceptible to executing prohibited instructions.
+### 🤖Output Level
 ![]()
-For input-level attacks, attackers are compelled to develop more sophisticated input templates capable of bypassing the model’s safeguards, thereby making the models more susceptible to executing prohibited instructions.
+Due to the black-box nature of generative models, which restricts direct access to internal gradients, attackers can engage in iterative probing and analysis of the model’s outputs to refine input prompts.
 
 # Awesome Papers
 
