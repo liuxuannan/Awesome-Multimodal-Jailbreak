@@ -50,11 +50,11 @@ Our thorough compilation and careful selection are time-savers for you.
     - [📑Papers](#Papers)
   - [💯Resources](#Resources)
     - [⭐️Datasets](#datasets)
-      - [Used to Any-to-Text Models]
-      - [Used to Any-to-Vision Models]
+      - [Used to Any-to-Text Models](#Used-to-Any-to-Text-Models)
+      - [Used to Any-to-Vision Models](#Used-to-Any-to-Vision-Models)
     - [📚Detectors](#detectors)
-      - [Used to Any-to-Text Models]
-      - [Used to Any-to-Text Models]
+      - [Used to Any-to-Text Models](#Used-to-Any-to-Text-Models)
+      - [Used to Any-to-Text Models](#Used-to-Any-to-Vision-Models)
   - [🧑‍🏫 Scholars 👩‍🏫](#-scholars-)
   - [🧑‍🎓Author](#author)
 
