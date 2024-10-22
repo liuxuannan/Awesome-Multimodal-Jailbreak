@@ -68,7 +68,7 @@ Our thorough compilation and careful selection are time-savers for you.
 
 ## 🔥Multimodal Generative Models
 ### 📑Any-to-Text
-
+**Any-to-Text Models integrate inputs from multiple modalities, encode them, and utilize an LLM as afoundational model for generating textual outputs.**
 
 # Awesome Papers
 
