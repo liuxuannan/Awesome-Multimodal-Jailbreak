@@ -69,6 +69,18 @@ Our thorough compilation and careful selection are time-savers for you.
 ## 🔥Multimodal Generative Models
 ### 📑Any-to-Text
 **Any-to-Text Models integrate inputs from multiple modalities, encode them, and utilize an LLM as afoundational model for generating textual outputs.**
+|  Title  |   Venue  |   Date   |   Code   | Taxonomy |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+
+### 📖Any-to-Vision (Diffusion Backbone)
+**Any-to-Vision Models encode inputs across different modalities as guided information and leverage diffusion models to generate visual outputs.**
+|  Title  |   Venue  |   Date   |   Code   | Taxonomy |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+
+### 📰Any-to-Any (Unified Backbone)
+**Any-to-Any models perceive inputs and generate outputs in arbitrary combinations of text, image, video, and audio.**
+|  Title  |   Venue  |   Date   |   Code   | Taxonomy |
+|:--------|:--------:|:--------:|:--------:|:--------:|
 
 # Awesome Papers
 
