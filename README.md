@@ -38,7 +38,7 @@ Our thorough compilation and careful selection are time-savers for you.
 - [🛡️Awesome-Jailbreak-against-Multimodal-Generative-Models🛡️](#️Awesome-Jailbreak-against-Multimodal-Generative-Models)
   - [🤗Introduction](#introduction)
   - [🚀Table of Contents](#table-of-contents)
-  - [🔥Multimodal Generative Models](#Multimodal Generative Models)
+  - [🔥Multimodal Generative Models](#Multimodal-Generative-Models)
     - [📑Any-to-Text (LLM Backbone)](#Any-to-Text (LLM Backbone))
     - [📖Any-to-Vision (Diffusion Backbone)](#Any-to-Vision (Diffusion Backbone))
     - [📰Any-to-Any (Unified Backbone)](#Any-to-Any (Unified Backbone))
