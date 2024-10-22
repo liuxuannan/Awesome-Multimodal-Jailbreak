@@ -18,6 +18,16 @@ Our repository is constantly updated to ensure you have the most current informa
 2. We establish a detailed taxonomy of attack vectors, defense mechanisms, and evaluation frameworks specific to multimodal generative models.<br>
 3. Our review encompasses a wide array of input-output configurations, offering a nuanced examination of jailbreak tactics and defenses applicable to any-to-text, any-to-vision, and any-to-any modalities within generative systems.<br>
 
+**✔️ Perfect for Majority**
+- For beginners curious about jailbreak attack and defense, our repository serves as a compass for grasping the big picture and diving into the details. 
+The brief introductions to papers in different fields retained in the README provide a beginner-friendly navigation through interesting directions in the field;
+- For seasoned researchers, this repository is a tool to keep you informed and fill any gaps in your knowledge. 
+Within each subtopic, we are diligently updating all the latest content and continuously backfilling with previous work. 
+Our thorough compilation and careful selection are time-savers for you.
+
+**🧭 How to Use this Guide**
+- Quick Start: In the README, users can find a curated list of select information, along with links to various consultations.
+- In-Depth Exploration: If you have a special interest in a particular area of the paper, delve into the markdown file for more information.
 # Awesome Papers
 
 # Related Survey
