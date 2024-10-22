@@ -5,16 +5,16 @@
 
 
 **Welcome to our Awesome-Jailbreak-against-Multimodal-Generative-Models!** 🥰🥰🥰
-
-**🧑‍💻 Our Work**<br>
-1.Leveraging the layered structure of generative models, we systematically examine jailbreak attacks and corresponding defense strategies across the input, encoding, decoding, and output layers.<br>
-2.we establish a detailed taxonomy of attack vectors, defense mechanisms, and evaluation frameworks specific to multimodal generative models.<br>
-3.Our review encompasses a wide array of input-output configurations, offering a nuanced examination of jailbreak tactics and defenses applicable to any-to-text, any-to-vision, and any-to-any modalities within generative systems.<br>
 We've curated a collection of the latest 😋, most comprehensive 😎, and most valuable 🤩 resources on Jailbreak Attack and Defense Multimodel Generative Models. 
 But we don't stop there; included are also relevant talks, tutorials, conferences, news, and articles. 
 Our repository is constantly updated to ensure you have the most current information at your fingertips.
 
-> If a resource is relevant to multiple subcategories, we place it under each applicable section. For instance, the "Awesome-LLM-Safety" repository will be listed under each subcategory to which it pertains🤩!.
+> If a resource is relevant to multiple subcategories, we place it under each applicable section.
+**🧑‍💻 Our Work**<br>
+1. Leveraging the layered structure of generative models, we systematically examine jailbreak attacks and corresponding defense strategies across the input, encoding, decoding, and output layers.<br>
+2. We establish a detailed taxonomy of attack vectors, defense mechanisms, and evaluation frameworks specific to multimodal generative models.<br>
+3.vOur review encompasses a wide array of input-output configurations, offering a nuanced examination of jailbreak tactics and defenses applicable to any-to-text, any-to-vision, and any-to-any modalities within generative systems.<br>
+
 # Awesome Papers
 
 # Related Survey
