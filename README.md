@@ -42,12 +42,12 @@ Our thorough compilation and careful selection are time-savers for you.
     - [📑Any-to-Text (LLM Backbone)](#Any-to-Text (LLM Backbone))
     - [📖Any-to-Vision (Diffusion Backbone)](#Any-to-Vision (Diffusion Backbone))
     - [📰Any-to-Any (Unified Backbone)](#Any-to-Any (Unified Backbone))
-  - [😈JailBreak Attacks](#jailbreak-attacks)
+  - [😈Jailbreak Attack](#jailbreak-attack)
     - [📖Introduction](#Introduction)
     - [📑Papers](#Papers)
-  - [🛡️Defenses & Mitigation](#️defenses & mitigation)
-    - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks-4)
-    - [Other](#other-4)
+  - [🛡️Jailbreak Defense](#️jailbreak-defense)
+    - [📖Introduction](#Introduction)
+    - [📑Papers](#Papers)
   - [💯Datasets \& Benchmark](#datasets--benchmark)
     - [📑Papers](#papers-4)
     - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks-5)
@@ -74,7 +74,7 @@ Our thorough compilation and careful selection are time-savers for you.
 |:--------|:--------:|:--------:|:--------:|:--------:|
 
 
-## 😈JailBreak Attacks
+## 😈JailBreak Attack
 
 ### 📖Introduction
 <img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_attack_all_00.png" alt="jailbreak_attack_overview" width="600" />
@@ -83,7 +83,18 @@ Our thorough compilation and careful selection are time-savers for you.
 
 
 ### 📑Papers
-All the papers related to jailbreak attacks can be found in both [Jailbreak Attack of Multimodal LLM-based Models](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/Jailbreak%20Attack%20of%20Multimodal%20Diffusion-based%20Models.md) and [Jailbreak Attack of Multimodal Diffusion-based Models](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/Jailbreak%20Attack%20of%20Multimodal%20Diffusion-based%20Models.md) files
+All the papers related to jailbreak attacks can be found in both [Jailbreak Attack of Multimodal LLM-based Models](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/Jailbreak%20Attack%20of%20Multimodal%20LLM-based%20Models.md) and [Jailbreak Attack of Multimodal Diffusion-based Models](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/Jailbreak%20Attack%20of%20Multimodal%20Diffusion-based%20Models.md) files
+
+
+## 🛡️Jailbreak Defense
+
+### 📖Introduction
+
+<img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_attack_all_00.png" alt="jailbreak_attack_overview" width="600" />
+**In order to cope with jailbreak attacks and improve the security of multimodal foundation models, existing work makes efforts in both Transformative defense and Discriminative defense**
+
+
+### 📑Papers
 
 # Awesome Papers
 
