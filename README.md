@@ -154,7 +154,7 @@ All the papers related to jailbreak attacks can be found in both [Jailbreak Defe
 
 ## 📑Other Survey and Bench
 
-Related survey and benchmark can be found in [Related survey](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/Related%20Survey.md), []() and []()
+Related survey and benchmark can be found in [Related survey](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/Related%20Survey.md), [Attack Bench of Multimodal Generative Models](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/Attack%20Bench%20of%20Multimodal%20Generative%20Models.md) and []()
 
 # Awesome Papers
 
