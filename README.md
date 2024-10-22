@@ -130,6 +130,28 @@ All the papers related to jailbreak attacks can be found in both [Jailbreak Defe
 |**MACE** | Defense | Human curation | Diffusion Generation | 200 | [Github](https://github.com/Shilin-LU/MACE)  |
 
 
+### 📚Detectors
+
+
+#### Used to Any-to-Text Models
+|  Toxicity detector  |   Access  | 
+|:--------|:--------:|
+|**LLama-Guard** | [Huggingface](https://huggingface.co/meta-llama) |
+|**LLama-Guard2** | [Huggingface](https://huggingface.co/meta-llama) |
+|**Detoxify** | [Github](https://github.com/unitaryai/detoxify) |
+|**GPTFUZZER** | [Huggingface](https://huggingface.co/hubert233/GPTFuzz/tree/main) |
+|**Perspective API** | [Website](https://perspectiveapi.com/) |
+
+#### Used to Any-to-Vision Models
+|  Toxicity detector  |   Access  | 
+|:--------|:--------:|
+|**NudeNet** | [Github](https://github.com/platelminto/NudeNetClassifier) |
+|**Q16** | [Github](https://github.com/ml-research/Q16) |
+|**Safety Checker** | [Huggingface](https://huggingface.co/CompVis/stable-diffusion-safety-checker) |
+|**Imgcensor** | [Github](https://github.com/lucasxlu/XCloud/tree/master/research/imgcensor) |
+|**Multi-headed Safety Classifier** | [Github](https://github.com/YitingQu/unsafe-diffusion) |
+
+
 # Awesome Papers
 
 # Related Survey
