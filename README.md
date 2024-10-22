@@ -30,6 +30,42 @@ Our thorough compilation and careful selection are time-savers for you.
 **🧭 How to Use this Guide**
 - Quick Start: In the README, users can find a curated list of select information, along with links to various consultations.
 - In-Depth Exploration: If you have a special interest in a particular area of the paper, delve into the markdown file for more information.
+
+
+
+## 🚀Table of Contents
+
+- [🛡️Awesome-Jailbreak-against-Multimodal-Generative-Models🛡️](#️Awesome-Jailbreak-against-Multimodal-Generative-Models)
+  - [🤗Introduction](#introduction)
+  - [🚀Table of Contents](#table-of-contents)
+  - [🔐Security & Discussion](#security & discussion)
+    - [📑Papers](#papers)
+    - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks)
+    - [Other](#other)
+  - [🔏Privacy](#privacy)
+    - [📑Papers](#papers-1)
+    - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks-1)
+    - [Other](#other-1)
+  - [📰Truthfulness \& Misinformation](#truthfulness--misinformation)
+    - [📑Papers](#papers-2)
+    - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks-2)
+    - [Other](#other-2)
+  - [😈JailBreak \& Attacks](#jailbreak--attacks)
+    - [📑Papers](#papers-3)
+    - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks-3)
+    - [Other](#other-3)
+  - [🛡️Defenses & Mitigation](#️defenses & mitigation)
+    - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks-4)
+    - [Other](#other-4)
+  - [💯Datasets \& Benchmark](#datasets--benchmark)
+    - [📑Papers](#papers-4)
+    - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks-5)
+    - [📚Resource📚](#resource)
+    - [Other](#other-5)
+  - [🧑‍🏫 Scholars 👩‍🏫](#-scholars-)
+  - [🧑‍🎓Author](#author)
+
+
 # Awesome Papers
 
 # Related Survey
