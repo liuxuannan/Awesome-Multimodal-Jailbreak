@@ -5,8 +5,9 @@
 
 
 **Welcome to our Awesome-Jailbreak-against-Multimodal-Generative-Models!** 🥰🥰🥰<br>
-We've curated a collection of the latest 😋, most comprehensive 😎, and most valuable 🤩 resources on Jailbreak Attack and Defense Multimodel Generative Models. 
-But we don't stop there; included are also relevant talks, tutorials, conferences, news, and articles. 
+<br>
+We've curated a collection of the latest 😋, most comprehensive 😎, and most valuable 🤩 resources on Jailbreak Attack and Defense Multimodel Generative Models.<br> 
+But we don't stop there; included are also relevant talks, tutorials, conferences, news, and articles.<br> 
 Our repository is constantly updated to ensure you have the most current information at your fingertips.
 
 > If a resource is relevant to multiple subcategories, we place it under each applicable section.<br>
