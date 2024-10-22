@@ -59,20 +59,29 @@ Our thorough compilation and careful selection are time-savers for you.
 
 
 ## 🔥Multimodal Generative Models
+
+**Below are tables of model short name and representative generative models used for jailbreak. For input/output modalities, I: Image, T: Text, V: Video, A: Audio.**
+
 ### 📑Any-to-Text (LLM Backbone)
-**Any-to-Text Models integrate inputs from multiple modalities, encode them, and utilize an LLM as afoundational model for generating textual outputs.**
-|  Title  |   Venue  |   Date   |   Code   | Taxonomy |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|  Short Name  |   Modality  |   Representative Model   |  
+|:--------|:--------:|:--------:|
+| IT2T | I + T -> T |[LLaVA](https://arxiv.org/abs/2304.08485), [MiniGPT4](https://arxiv.org/abs/2304.10592), [InstructBLIP](https://arxiv.org/abs/2305.06500) |
+| VT2T | V + T -> T |[Video-LLaVA](https://arxiv.org/abs/2311.10122), [Video-LLaMA](https://arxiv.org/abs/2306.02858) |
+| AT2T | A + T -> T |[Audio Flamingo](https://arxiv.org/abs/2402.01831), [Audiopalm](https://arxiv.org/abs/2306.12925) |
 
 ### 📖Any-to-Vision (Diffusion Backbone)
-**Any-to-Vision Models encode inputs across different modalities as guided information and leverage diffusion models to generate visual outputs.**
-|  Title  |   Venue  |   Date   |   Code   | Taxonomy |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|  Short Name  |   Modality  |   Representative Model   |  
+|:--------|:--------:|:--------:|
+| T2T | T -> I |[Stable Diffusion](https://arxiv.org/abs/2112.10752), [Midjourney](https://www.midjourney.com/), [DALLE](https://platform.openai.com/docs/guides/moderation/overview) |
+| IT2I | I + T -> I |[DreamBooth](https://arxiv.org/abs/2208.12242), [InstructP2P](https://arxiv.org/abs/2306.07154) |
+| T2V | T -> V |[Open-Sora](https://github.com/hpcaitech/Open-Sora), [Stable Video Diffusion](https://arxiv.org/abs/2311.15127) |
+| IT2V | I + T -> V |[VideoPoet](https://arxiv.org/abs/2312.14125), [CogVideoX](https://arxiv.org/abs/2408.06072) |
 
 ### 📰Any-to-Any (Unified Backbone)
-**Any-to-Any models perceive inputs and generate outputs in arbitrary combinations of text, image, video, and audio.**
-|  Title  |   Venue  |   Date   |   Code   | Taxonomy |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|  Short Name  |   Modality  |   Representative Model   |  
+|:--------|:--------:|:--------:|
+| IT2IT | I + T -> I + T |[Next-GPT](https://arxiv.org/abs/2309.05519), [Chameleon](https://arxiv.org/abs/2304.09842) |
+| A2A | A -> A |[GPT-4o](https://openai.com/index/gpt-4o-system-card/) |
 
 
 ## 😈JailBreak Attack
