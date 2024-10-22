@@ -98,7 +98,7 @@ For input-level attacks, attackers are compelled to develop more sophisticated i
 Due to the black-box nature of generative models, which restricts direct access to internal gradients, attackers can engage in iterative probing and analysis of the model’s outputs to refine input prompts.
 
 ### Papers
-All the papers related to jailbreak attacks can be found in both A and B files
+All the papers related to jailbreak attacks can be found in both [Jailbreak](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/Jailbreak%20Attack%20of%20Multimodal%20Diffusion-based%20Models.md) and B files
 
 # Awesome Papers
 
