@@ -42,18 +42,11 @@ Our thorough compilation and careful selection are time-savers for you.
     - [📑Any-to-Text (LLM Backbone)](#Any-to-Text (LLM Backbone))
     - [📖Any-to-Vision (Diffusion Backbone)](#Any-to-Vision (Diffusion Backbone))
     - [📰Any-to-Any (Unified Backbone)](#Any-to-Any (Unified Backbone))
-  - [🔏Privacy](#privacy)
-    - [📑Papers](#papers-1)
-    - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks-1)
-    - [Other](#other-1)
-  - [📰Truthfulness \& Misinformation](#truthfulness--misinformation)
-    - [📑Papers](#papers-2)
-    - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks-2)
-    - [Other](#other-2)
-  - [😈JailBreak \& Attacks](#jailbreak--attacks)
-    - [📑Papers](#papers-3)
-    - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks-3)
-    - [Other](#other-3)
+  - [😈JailBreak Attacks](#jailbreak-attacks)
+    - [📑Encoder Level](#Encoder-Level)
+    - [📖Decoder Level](#Decoder-Level)
+    - [📰Input Level](#Input-Level)
+    - [🤖Output Level](#Output-Level)
   - [🛡️Defenses & Mitigation](#️defenses & mitigation)
     - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks-4)
     - [Other](#other-4)
@@ -81,6 +74,10 @@ Our thorough compilation and careful selection are time-savers for you.
 **Any-to-Any models perceive inputs and generate outputs in arbitrary combinations of text, image, video, and audio.**
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+
+
+## 😈JailBreak Attacks
+###
 
 # Awesome Papers
 
