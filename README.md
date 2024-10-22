@@ -108,7 +108,9 @@ All the papers related to jailbreak attacks can be found in both [Jailbreak Defe
 ### ⭐️Datasets
 
 #### Used to Any-to-Text Models
-
+|  Dataset  |   Task  |   Text Source   |   Image Source   | Volume |  Access  | 
+|:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+|**SafeBench** | Attack | GPT generation | Typography | 500 | [Github](https://github.com/ThuCCSLab/FigStep)  |
 
 # Awesome Papers
 
