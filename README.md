@@ -1,9 +1,5 @@
 # Awesome-Jailbreak-against-Multimodal-Generative-Models
 
-# Introduction
-
-# Table of contents
-
 # Awesome Papers
 
 # Related Survey
