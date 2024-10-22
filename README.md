@@ -42,11 +42,11 @@ Our thorough compilation and careful selection are time-savers for you.
     - [📑Any-to-Text (LLM Backbone)](#Any-to-Text (LLM Backbone))
     - [📖Any-to-Vision (Diffusion Backbone)](#Any-to-Vision (Diffusion Backbone))
     - [📰Any-to-Any (Unified Backbone)](#Any-to-Any (Unified Backbone))
-  - [😈Jailbreak Attack](#jailbreak-attack)
-    - [📖Introduction](#Introduction)
+  - [😈Jailbreak Attack](#Jailbreak-Attack)
+    - [📖Attack-Intro](#Attack-Intro)
     - [📑Papers](#Papers)
   - [🛡️Jailbreak Defense](#️jailbreak-defense)
-    - [📖Introduction](#Introduction)
+    - [📖Defense-Intro](#Defense-Intro)
     - [📑Papers](#Papers)
   - [💯Resources](#Resources)
     - [⭐️Datasets](#datasets)
@@ -77,7 +77,7 @@ Our thorough compilation and careful selection are time-savers for you.
 
 ## 😈JailBreak Attack
 
-### 📖Introduction
+### 📖Attack-Intro
 <img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_attack_all_00.png" alt="jailbreak_attack_overview" width="600" />
 
 **Existing jailbreak attack methods mainly target the Any-to-Text Models and Any-to-Vision Models. JailBreak Attack methods can be categorized into white-box and black-box attacks. Regarding white-box attacks, we consider model-level attacks, including attacks at both the encoder and decoder. Regarding the black-box setting, the attack is limited to surface-level interactions, targeting the model’s input and/or output.**
@@ -89,7 +89,7 @@ All the papers related to jailbreak attacks can be found in [Jailbreak Attack](h
 
 ## 🛡️Jailbreak Defense
 
-### 📖Introduction
+### 📖Defense-Intro
 
 <img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_defense_all_00.png" alt="jailbreak_transformative_defense" width="600" />
 <img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_discriminative_defense_00.png" alt="jailbreak_discriminative_defense" width="600" />
