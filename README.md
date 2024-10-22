@@ -47,6 +47,7 @@ Our thorough compilation and careful selection are time-savers for you.
     - [📖Decoder Level](#Decoder-Level)
     - [📰Input Level](#Input-Level)
     - [🤖Output Level](#Output-Level)
+    - [Papers](#Papers)
   - [🛡️Defenses & Mitigation](#️defenses & mitigation)
     - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks-4)
     - [Other](#other-4)
@@ -95,6 +96,9 @@ For input-level attacks, attackers are compelled to develop more sophisticated i
 ### 🤖Output Level
 <img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_attack_output_00.png" alt="jailbreak_attack_output" width="500" />
 Due to the black-box nature of generative models, which restricts direct access to internal gradients, attackers can engage in iterative probing and analysis of the model’s outputs to refine input prompts.
+
+### Papers
+All the papers related to jailbreak attacks can be found in both A and B files
 
 # Awesome Papers
 
