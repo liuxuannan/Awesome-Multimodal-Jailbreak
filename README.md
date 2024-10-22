@@ -130,8 +130,8 @@ All the papers related to jailbreak attacks can be found in [Jailbreak Defense](
 
 
 ### 📚Detectors
-
-
+<img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_defense_all_00.png" alt="jailbreak_transformative_defense" width="600" />
+Detector-based approaches utilize pre-trained classifiers to automatically detect and identify harmful content within generated outputs. These classifiers are trained on large, annotated datasets that cover a range of unsafe categories, such as toxicity, violence, or explicit material. By leveraging these pre-trained models, detector-based methods can efficiently flag inappropriate content
 #### Used to Any-to-Text Models
 |  Toxicity detector  |   Access  | 
 |:--------|:--------:|
