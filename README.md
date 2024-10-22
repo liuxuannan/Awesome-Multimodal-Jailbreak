@@ -73,7 +73,7 @@ Our thorough compilation and careful selection are time-savers for you.
 
 
 ## 😈JailBreak Attacks
-![jailbreak_attack_overview](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_attack_overview_00.png)
+![jailbreak_attack_overview](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_attack_all_00.png)
 **Existing jailbreak attack methods mainly target the Any-to-Text Models and Any-to-Vision Models. JailBreak Attack methods can be categorized into white-box and black-box attacks. Regarding white-box attacks, we consider model-level attacks, including attacks at both the encoder and decoder. Regarding the black-box setting, the attack is limited to surface-level interactions, targeting the model’s input and/or output.**
 
 
