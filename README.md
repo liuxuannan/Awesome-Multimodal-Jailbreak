@@ -92,10 +92,14 @@ All the papers related to jailbreak attacks can be found in both [Jailbreak Atta
 
 <img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_defense_all_00.png" alt="jailbreak_transformative_defense" width="600" />
 <img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_discriminative_defense_00.png" alt="jailbreak_discriminative_defense" width="600" />
+
 **In order to cope with jailbreak attacks and improve the security of multimodal foundation models, existing work makes efforts in both Transformative defense and Discriminative defense**
 
 
 ### 📑Papers
+
+All the papers related to jailbreak attacks can be found in both [Jailbreak Attack of Multimodal LLM-based Models](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/Jailbreak%20Attack%20of%20Multimodal%20LLM-based%20Models.md) and [Jailbreak Attack of Multimodal Diffusion-based Models](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/Jailbreak%20Attack%20of%20Multimodal%20Diffusion-based%20Models.md) files
+
 
 # Awesome Papers
 
