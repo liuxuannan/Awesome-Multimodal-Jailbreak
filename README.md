@@ -60,7 +60,7 @@ Our thorough compilation and careful selection are time-savers for you.
 
 ## 🔥Multimodal Generative Models
 
-**Below are tables of model short name and representative generative models used for jailbreak. For input/output modalities, I: Image, T: Text, V: Video, A: Audio.**
+**Below are tables of model short name and representative generative models used for jailbreak. For input/output modalities, I: Image, T: Text, V: Video, A: Audio.**
 
 ### 📑Any-to-Text (LLM Backbone)
 |  Short Name  |   Modality  |   Representative Model   |  
