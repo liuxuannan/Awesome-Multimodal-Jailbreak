@@ -43,6 +43,8 @@ Our thorough compilation and careful selection are time-savers for you.
     - [📖Any-to-Vision (Diffusion Backbone)](#Any-to-Vision (Diffusion Backbone))
     - [📰Any-to-Any (Unified Backbone)](#Any-to-Any (Unified Backbone))
   - [😈JailBreak Attacks](#jailbreak-attacks)
+    - [📖Introduction](#Introduction)
+    - [📑Papers](#Papers)
   - [🛡️Defenses & Mitigation](#️defenses & mitigation)
     - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks-4)
     - [Other](#other-4)
@@ -73,11 +75,14 @@ Our thorough compilation and careful selection are time-savers for you.
 
 
 ## 😈JailBreak Attacks
+
+### 📖Introduction
 <img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_attack_all_00.png" alt="jailbreak_attack_overview" width="600" />
+
 **Existing jailbreak attack methods mainly target the Any-to-Text Models and Any-to-Vision Models. JailBreak Attack methods can be categorized into white-box and black-box attacks. Regarding white-box attacks, we consider model-level attacks, including attacks at both the encoder and decoder. Regarding the black-box setting, the attack is limited to surface-level interactions, targeting the model’s input and/or output.**
 
 
-### Papers
+### 📑Papers
 All the papers related to jailbreak attacks can be found in both [Jailbreak Attack of Multimodal LLM-based Models](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/Jailbreak%20Attack%20of%20Multimodal%20Diffusion-based%20Models.md) and [Jailbreak Attack of Multimodal Diffusion-based Models](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/Jailbreak%20Attack%20of%20Multimodal%20Diffusion-based%20Models.md) files
 
 # Awesome Papers
