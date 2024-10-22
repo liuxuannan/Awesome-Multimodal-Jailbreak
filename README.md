@@ -1,5 +1,6 @@
 
 # 🛡️Awesome-Jailbreak-against-Multimodal-Generative-Models
+!(pic/survey_model_00.png)
 ## 🤗Introduction
 
 
