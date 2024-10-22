@@ -48,11 +48,13 @@ Our thorough compilation and careful selection are time-savers for you.
   - [🛡️Jailbreak Defense](#️jailbreak-defense)
     - [📖Introduction](#Introduction)
     - [📑Papers](#Papers)
-  - [💯Datasets \& Benchmark](#datasets--benchmark)
-    - [📑Papers](#papers-4)
-    - [📖Tutorials, Articles, Presentations and Talks](#tutorials-articles-presentations-and-talks-5)
-    - [📚Resource📚](#resource)
-    - [Other](#other-5)
+  - [💯Resources](#Resources)
+    - [⭐️Datasets](#datasets)
+      - [Used to Any-to-Text Models]
+      - [Used to Any-to-Vision Models]
+    - [📚Detectors](#detectors)
+      - [Used to Any-to-Text Models]
+      - [Used to Any-to-Text Models]
   - [🧑‍🏫 Scholars 👩‍🏫](#-scholars-)
   - [🧑‍🎓Author](#author)
 
@@ -99,6 +101,13 @@ All the papers related to jailbreak attacks can be found in both [Jailbreak Atta
 ### 📑Papers
 
 All the papers related to jailbreak attacks can be found in both [Jailbreak Defense of Multimodal LLM-based Models](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/Jailbreak%20Defense%20of%20Multimodal%20LLM-based%20Models.md) and [Jailbreak Defense of Multimodal Diffusion-based Models](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/Jailbreak%20Defense%20of%20Multimodal%20Diffusion-based%20Models.md) files
+
+
+## 💯Resources
+
+### ⭐️Datasets
+
+#### Used to Any-to-Text Models
 
 
 # Awesome Papers
