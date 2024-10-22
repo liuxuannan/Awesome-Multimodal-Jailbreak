@@ -4,12 +4,12 @@
 ## 🤗Introduction
 
 
-**Welcome to our Awesome-Jailbreak-against-Multimodal-Generative-Models!** 🥰🥰🥰
+**Welcome to our Awesome-Jailbreak-against-Multimodal-Generative-Models!** 🥰🥰🥰<br>
 We've curated a collection of the latest 😋, most comprehensive 😎, and most valuable 🤩 resources on Jailbreak Attack and Defense Multimodel Generative Models. 
 But we don't stop there; included are also relevant talks, tutorials, conferences, news, and articles. 
 Our repository is constantly updated to ensure you have the most current information at your fingertips.
 
-> If a resource is relevant to multiple subcategories, we place it under each applicable section.
+> If a resource is relevant to multiple subcategories, we place it under each applicable section.<br>
 **🧑‍💻 Our Work**<br>
 1. Leveraging the layered structure of generative models, we systematically examine jailbreak attacks and corresponding defense strategies across the input, encoding, decoding, and output layers.<br>
 2. We establish a detailed taxonomy of attack vectors, defense mechanisms, and evaluation frameworks specific to multimodal generative models.<br>
