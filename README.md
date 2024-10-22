@@ -79,7 +79,8 @@ Our thorough compilation and careful selection are time-savers for you.
 ## 😈JailBreak Attacks
 ![jailbreak_attack_overview](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_attack_overview_00.png)
 **JailBreak Attacks can be categorized into white-box and black-box attacks. Regarding white-box attacks, we consider model-level attacks, including attacks at both the encoder and decoder. Regarding the black-box setting, the attack is limited to surface-level interactions, targeting the model’s input and/or output.**
-###
+### 📑Encoder Level
+For encoder-level attacks, attackers are restricted to accessing modality encoders to elicit compliant responses to harmful commands without requiring access to the foundation model, thereby lowering the entry barrier for attackers.
 
 # Awesome Papers
 
