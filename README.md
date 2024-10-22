@@ -90,6 +90,8 @@ For decoder-level attacks, attackers have unrestricted access to the generative 
 For input-level attacks, attackers are compelled to develop more sophisticated input templates capable of bypassing the model’s safeguards, thereby making the models more susceptible to executing prohibited instructions.
 ### 🤖Output Level
 ![jailbreak_attack_output](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_attack_output_00.png)
+<img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_attack_output_00.png" alt="jailbreak_attack_output" width="300" />
+
 Due to the black-box nature of generative models, which restricts direct access to internal gradients, attackers can engage in iterative probing and analysis of the model’s outputs to refine input prompts.
 
 # Awesome Papers
