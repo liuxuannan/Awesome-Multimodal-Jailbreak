@@ -55,7 +55,7 @@ Our thorough compilation and careful selection are time-savers for you.
     - [📚Detectors](#detectors)
       - [Used to Any-to-Text Models](#Used-to-Any-to-Text-Models)
       - [Used to Any-to-Text Models](#Used-to-Any-to-Vision-Models)
-  - [📑Other Survey and Bench]
+  - [📑Other Survey and Bench](#Other-Survey-and-Bench)
 
 
 
