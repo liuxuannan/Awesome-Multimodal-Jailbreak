@@ -9,6 +9,7 @@
 |[**Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt**](https://arxiv.org/abs/2406.04031) | Arxiv 2024 | 2024/06/06 | [Github](https://github.com/NY1024/BAP-Jailbreak-Vision-Language-Models-via-Bi-Modal-Adversarial-Prompt) | Model Level | IT2T |
 |[**Image Hijacks: Adversarial Images can Control Generative Models at Runtime**](https://arxiv.org/abs/2309.00236) | Arxiv 2024 | 2024/09/01 | [Github](https://github.com/euanong/image-hijacks) | Model Level | IT2T |
 |[**Arondight: Red Teaming Large Vision Language Models with Auto-generated Multi-modal Jailbreak Prompts**](https://arxiv.org/abs/2407.15050) | ACM MM 2024 | 2024/07/21 | None | Input Level | IT2T |
+|[**Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast**](https://arxiv.org/abs/2402.08567) | ICML 2024 | 2024/02/13 | [Github](https://github.com/sail-sg/Agent-Smith) | Decoder Level | IT2T |
 |[**Visual Adversarial Examples Jailbreak Aligned Large Language Models**](https://arxiv.org/abs/2306.13213) | AAAI 2024 | 2023/06/22 | [Github](https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models) | Model Level | IT2T |
 |[**Are aligned neural networks adversarially aligned?**](https://arxiv.org/abs/2306.15447) | Arxiv 2023 | 2023/06/26 | None | Model Level | IT2T |
 |[**Voice Jailbreak Attacks Against GPT-4o**](https://arxiv.org/abs/2405.19103) | Arxiv 2024 | 2024/05/29 | [Github](https://github.com/TrustAIRLab/VoiceJailbreakAttack) | Input Level | IT2T |
@@ -19,6 +20,7 @@
 |[**From LLMs to MLLMs: Exploring the Landscape of Multimodal Jailbreaking**](https://arxiv.org/abs/2406.14859) | Arxiv 2024 | 2024/06/21 | None | Encoder Level | IT2T |
 |[**Image-to-Text Logic Jailbreak: Your Imagination can Help You Do Anything**](https://arxiv.org/abs/2407.02534) | Arxiv 2024 | 2024/07/01 | None | Input Level | IT2T |
 |[**Can Large Language Models Automatically Jailbreak GPT-4V?**](https://arxiv.org/abs/2407.16686) | Arxiv 2024 | 2024/07/23 | None | Input Level | IT2T |
+|[**How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs**](https://arxiv.org/abs/2311.16101) | ECCV 2024 | 2023/11/27 | [Github](https://github.com/UCSC-VLAA/vllm-safety-benchmark) | Encoder Level | IT2T |
 
 
 ## Jailbreak Attack of Any-to-Vision Models
