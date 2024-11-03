@@ -32,7 +32,7 @@
 |[**Safe Latent Diffusion: Mitigating Inappropriate Degeneration in Diffusion Models**](https://arxiv.org/abs/2211.05105) | CVPR 2023 | 2022/11/09 | [Github](https://github.com/ml-research/safe-latent-diffusion) | Model Level | T2I |
 |[**Espresso: Robust Concept Filtering in Text-to-Image Models**](https://arxiv.org/abs/2404.19227) | Arxiv 2024 | 2024/04/30 | None | Output Level | T2I |
 |[**Self-discovering interpretable diffusion latent directions for responsible text-to-image generation**](https://arxiv.org/abs/2311.17216) | CVPR 2024 | 2023/11/28 | [Github](https://github.com/hangligit/InterpretDiffusion) | Input Level | T2I |
-|[**Implicit concept removal of diffusion models**](https://arxiv.org/abs/2310.05873) | Arxiv 2023 | 2023/10/09 | None | Input Level | T2I |
+|[**Implicit concept removal of diffusion models**](https://arxiv.org/abs/2310.05873) | ECCV 2024 | 2023/10/09 | None | Input Level | T2I |
 |[**Universal prompt optimizer for safe text-to-image generation**](https://arxiv.org/abs/2402.10882) | Arxiv 2024 | 2024/02/16 | None | Input Level | T2I |
 |[**Defensive unlearning with adversarial training for robust concept erasure in diffusion models**](https://arxiv.org/abs/2405.15234) | Nips 2024 | 2024/05/24 | [Github](https://github.com/OPTML-Group/AdvUnlearn) | Encoder Level | T2I |
 |[**Unlearning concepts in diffusion model via concept domain correction and concept preserving gradient**](https://arxiv.org/abs/2405.15304) | Arxiv 2024 | 2024/05/24 | None | Encoder Level | T2I |
