@@ -12,7 +12,7 @@
 |[**Safety-tuned llamas: Lessons from improving the safety of large language models that follow instructions**](https://arxiv.org/abs/2309.07875) | ICLR 2024 | 2023/09/14 | [Github](https://github.com/vinid/safety-tuned-llamas) | Model Level | IT2T |
 |[**Mllm-protector: Ensuring mllm’s safety without hurting performance**](https://arxiv.org/abs/2401.02906) | Arxiv 2024 | 2024/01/05 | [Github](https://github.com/pipilurj/MLLM-protector) | Output Level | IT2T |
 |[**Information-theoretical principled trade-off between jailbreakability and stealthiness on vision language models**](https://arxiv.org/abs/2410.01438) | Arxiv 2024 | 2024/10/02 | None | Input Level | IT2T |
-|[**Defending jailbreak attack in vlms via cross-modality information detector**](https://arxiv.org/abs/2407.21659) | Arxiv 2024 | 2024/07/31 | [Github](https://github.com/pandragonxiii/cider) | Encoder Level | IT2T |
+|[**Defending jailbreak attack in vlms via cross-modality information detector**](https://arxiv.org/html/2407.21659v2) | Arxiv 2024 | 2024/07/31 | [Github](https://github.com/pandragonxiii/cider) | Encoder Level | IT2T |
 |[**Inferaligner: Inference-time alignment for harmlessness through cross-model guidance**](https://arxiv.org/abs/2401.11206) | Arxiv 2024 | 2024/01/20 | [Github](https://github.com/Jihuai-wpy/InferAligner) | Encoder Level | IT2T |
 |[**Jailguard: A universal detection framework for llm prompt-based attacks**](https://arxiv.org/abs/2312.10766) | Arxiv 2023 | 2023/12/17 | None | Encoder Level | IT2T |
 
