@@ -40,7 +40,7 @@
 |[**Salun: Empowering machine unlearning via gradient-based weight saliency in both image classification and generation**](https://arxiv.org/abs/2310.12508) | ICLR 2024 | 2024/04/04 | [Github](https://github.com/OPTML-Group/Unlearn-Saliency) | Model Level | T2I |
 |[**Mace: Mass concept erasure in diffusion models**](https://arxiv.org/abs/2403.06135) | CVPR 2024 | 2023/10/19 | [Github](https://github.com/Shilin-LU/MACE) | Model Level | T2I |
 |[**Unified concept editing in diffusion models**](https://arxiv.org/abs/2308.14761) | CVPR 2024 | 2023/08/25 | [Github](https://github.com/rohitgandikota/unified-concept-editing) | Model Level | T2I |
-|[**Receler: Reliable concept erasing of text-to-image diffusion models via lightweight erasers**](https://arxiv.org/abs/2311.17717) | Arxiv 2023 | 2023/11/29 | None | Model Level | T2I |
+|[**Receler: Reliable concept erasing of text-to-image diffusion models via lightweight erasers**](https://arxiv.org/abs/2311.17717) | ECCV 2024 | 2023/11/29 | None | Model Level | T2I |
 |[**Dark miner: Defend against unsafe generation for text-to-image diffusion models**](https://arxiv.org/html/2409.17682) | Arxiv 2024 | 2024/09/26 | None | Model Level | T2I |
 |[**Score forgetting distillation: A swift, data-free method for machine unlearning in diffusion models**](https://arxiv.org/abs/2409.11219) | Arxiv 2024 | 2024/09/17 | None | Model Level | T2I |
 |[**Towards safe self-distillation of internet-scale text-to-image diffusion models**](https://arxiv.org/abs/2307.05977) | ICML 2023 | 2023/07/12 | [Github](https://github.com/nannullna/safe-diffusion) | Model Level | T2I |
