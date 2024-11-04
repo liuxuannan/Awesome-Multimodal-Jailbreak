@@ -45,7 +45,7 @@
 |[**Score forgetting distillation: A swift, data-free method for machine unlearning in diffusion models**](https://arxiv.org/abs/2409.11219) | Arxiv 2024 | 2024/09/17 | None | Generator Level | T2I |
 |[**Towards safe self-distillation of internet-scale text-to-image diffusion models**](https://arxiv.org/abs/2307.05977) | ICML 2023 Workshop on Challenges in Deployable Generative AI | 2023/07/12 | [Github](https://github.com/nannullna/safe-diffusion) | Generator Level | T2I |
 |[**Erasing concepts from diffusion models**](https://arxiv.org/abs/2303.07345) | ICCV 2023 | 2023/05/13 | [Github](https://github.com/rohitgandikota/erasing) | Generator Level | T2I |
-|[**Conceptprune: Concept editing in diffusion models via skilled neuron pruning**](https://arxiv.org/abs/2405.19237) | ICCV 2023 | 2024/05/29 | [Github](https://github.com/ruchikachavhan/concept-prune) | Generator Level | T2I |
+|[**Conceptprune: Concept editing in diffusion models via skilled neuron pruning**](https://arxiv.org/abs/2405.19237) | Arxiv 2024 | 2024/05/29 | [Github](https://github.com/ruchikachavhan/concept-prune) | Generator Level | T2I |
 |[**Localization and manipulation of immoral visual cues for safe text-to-image generation**](https://openaccess.thecvf.com/content/WACV2024/papers/Park_Localization_and_Manipulation_of_Immoral_Visual_Cues_for_Safe_Text-to-Image_WACV_2024_paper.pdf) | WACV 2024 | 2024 | None | Output Level | T2I |
 
 ## Jailbreak Defense of Any-to-Any Models
