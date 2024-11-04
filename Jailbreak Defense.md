@@ -8,7 +8,7 @@
 |[**Safety fine-tuning at (almost) no cost: A baseline for vision large language models**](https://arxiv.org/abs/2402.02207) | ICML 2024 | 2024/02/03 | [Github](https://github.com/ys-zong/VLGuard) | Generator Level | IT2T |
 |[**Safety alignment for vision language models**](https://arxiv.org/abs/2405.13581) | Arxiv 2024 | 2024/05/22 | None | Generator Level | IT2T |
 |[**Bathe: Defense against the jailbreak attack in multimodal large language models by treating harmful instruction as backdoor trigger**](https://arxiv.org/abs/2408.09093) | Arxiv 2024 | 2024/08/17 | None | Generator Level | IT2T |
-|[**Cross-modal safety alignment: Is textual unlearning all you need?**](https://arxiv.org/abs/2406.02575) | EMNLP 2024 Findings | 2024/05/27 | None | Generator Level | IT2T |
+|[**Cross-modal safety alignment: Is textual unlearning all you need?**](https://arxiv.org/abs/2406.02575) | Arxiv 2024 | 2024/05/27 | None | Generator Level | IT2T |
 |[**Safety-tuned llamas: Lessons from improving the safety of large language models that follow instructions**](https://arxiv.org/abs/2309.07875) | ICLR 2024 | 2023/09/14 | [Github](https://github.com/vinid/safety-tuned-llamas) | Generator Level | IT2T |
 |[**Mllm-protector: Ensuring mllm’s safety without hurting performance**](https://arxiv.org/abs/2401.02906) | Arxiv 2024 | 2024/01/05 | [Github](https://github.com/pipilurj/MLLM-protector) | Output Level | IT2T |
 |[**Information-theoretical principled trade-off between jailbreakability and stealthiness on vision language models**](https://arxiv.org/abs/2410.01438) | Arxiv 2024 | 2024/10/02 | None | Input Level | IT2T |
@@ -39,7 +39,7 @@
 |[**Erasediff: Erasing data influence in diffusion models**](https://arxiv.org/abs/2401.05779) | Arxiv 2024 | 2024/01/11 | None | Generator Level | T2I |
 |[**Salun: Empowering machine unlearning via gradient-based weight saliency in both image classification and generation**](https://arxiv.org/abs/2310.12508) | ICLR 2024 | 2024/04/04 | [Github](https://github.com/OPTML-Group/Unlearn-Saliency) | Generator Level | T2I |
 |[**Mace: Mass concept erasure in diffusion models**](https://arxiv.org/abs/2403.06135) | CVPR 2024 | 2023/10/19 | [Github](https://github.com/Shilin-LU/MACE) | Generator Level | T2I |
-|[**Unified concept editing in diffusion models**](https://arxiv.org/abs/2308.14761) | CVPR 2024 | 2023/08/25 | [Github](https://github.com/rohitgandikota/unified-concept-editing) | Generator Level | T2I |
+|[**Unified concept editing in diffusion models**](https://arxiv.org/abs/2308.14761) | WACV 2024 | 2023/08/25 | [Github](https://github.com/rohitgandikota/unified-concept-editing) | Generator Level | T2I |
 |[**Receler: Reliable concept erasing of text-to-image diffusion models via lightweight erasers**](https://arxiv.org/abs/2311.17717) | ECCV 2024 | 2023/11/29 | None | Generator Level | T2I |
 |[**Dark miner: Defend against unsafe generation for text-to-image diffusion models**](https://arxiv.org/html/2409.17682) | Arxiv 2024 | 2024/09/26 | None | Generator Level | T2I |
 |[**Score forgetting distillation: A swift, data-free method for machine unlearning in diffusion models**](https://arxiv.org/abs/2409.11219) | Arxiv 2024 | 2024/09/17 | None | Generator Level | T2I |
