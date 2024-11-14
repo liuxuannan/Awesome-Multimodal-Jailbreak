@@ -86,11 +86,19 @@ Our thorough compilation and careful selection are time-savers for you.
 
 ## 😈JailBreak Attack
 
+**In this part, we focus on discussing different advanced jailbreak attacks against multimodal models. We categorize attack methods into black-box, gray-box, and white-box attacks. in a black-box setting where the model is inaccessible to the attacker, the attack is limited to surface-level interactions, focusing solely on the model’s input and/or output. Regarding gray-box and white-box attacks, we consider model-level attacks, including attacks at both the encoder and generator.**
+
 ### 📖Attack-Intro
 <img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_attack_A.png" alt="jailbreak_attack_black_box" />
+
+**As shown in Fig. A.1, attackers are compelled to develop more sophisticated input templates across prompt engineering, image engineering, and role-ploy techniques. These techniques can bypass the model’s safeguards, making the models more susceptible to executing prohibited instructions.**
+**As shown in Fig. A.2, attackers focus on querying outputs across multiple input variants. Driven by specific adversarial goals, attackers employ estimation-based and search-based attack techniques to iteratively refine these input variants.**
+
 <img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreal_attack_B.png" alt="jailbreak_attack_white_and_gray_box" />
 
-**Existing jailbreak attack methods mainly target the Any-to-Text Models and Any-to-Vision Models. JailBreak Attack methods can be categorized into white-box and black-box attacks. Regarding white-box attacks, we consider model-level attacks, including attacks at both the encoder and decoder. Regarding the black-box setting, the attack is limited to surface-level interactions, targeting the model’s input and/or output.**
+**As shown in Fig. B.1, attackers are restricted to accessing only the encoders to provoke harmful responses. In this case, attackers typically seek to maximize cosine similarity within the latent space, ensuring the adversarial input retains similar semantics to the target malicious content while still being classified as safe.**
+**As shown in Fig. B.1, attackers have unrestricted access to the generative model’s architecture and checkpoint, enabling attackers to conduct thorough investigations and manipulations, thus enabling sophisticated attacks.**
+
 
 
 ### 📑Papers
