@@ -87,8 +87,8 @@ Our thorough compilation and careful selection are time-savers for you.
 ## 😈JailBreak Attack
 
 ### 📖Attack-Intro
-<img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_attack_input_00.png" alt="jailbreak_attack_overview" width="600" />
-<img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_attack_output_00.png" alt="jailbreak_attack_overview" width="600" />
+<img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_attack_input_00.png" alt="jailbreak_attack_overview" width="45%" />
+<img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_attack_output_00.png" alt="jailbreak_attack_overview" width="45%" />
 <img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_attack_encoder_00.png" alt="jailbreak_attack_overview" width="600" />
 <img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_attack_model_00.png" alt="jailbreak_attack_overview" width="600" />
 
