@@ -111,13 +111,12 @@ All the papers related to jailbreak attacks can be found in [Jailbreak Attack](h
 
 **In order to cope with jailbreak attacks and improve the security of multimodal foundation models, existing work makes efforts in both Transformative defense and Discriminative defense.**
 
+
+<img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_discriminative_defense_00.png" alt="jailbreak_discriminative_defense" />
 **Discriminative defenses focus on identifying and analyzing varying classified cues, such as statistical information at the input level, embeddings at the encoder level, activations at the generator level, and response discrepancies at the output level.**
 
-
 <img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_defense_all_00.png" alt="jailbreak_transformative_defense" />
-<img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_defense_all_00.png" alt="jailbreak_transformative_defense" />
-
-**In order to cope with jailbreak attacks and improve the security of multimodal foundation models, existing work makes efforts in both Transformative defense and Discriminative defense.**
+**Transformative defenses that can operate at four levels to influence the model’s generation process, ensuring benign responses even in the presence of adversarial or malicious prompts.**
 
 
 ### 📑Papers
