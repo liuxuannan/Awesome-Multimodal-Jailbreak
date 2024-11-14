@@ -91,13 +91,13 @@ Our thorough compilation and careful selection are time-savers for you.
 ### 📖Attack-Intro
 <img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_attack_A.png" alt="jailbreak_attack_black_box" />
 
-**As shown in Fig. A.1, attackers are compelled to develop more sophisticated input templates across prompt engineering, image engineering, and role-ploy techniques. These techniques can bypass the model’s safeguards, making the models more susceptible to executing prohibited instructions.**
+**As shown in Fig. A.1, attackers are compelled to develop more sophisticated input templates across prompt engineering, image engineering, and role-ploy techniques. These techniques can bypass the model’s safeguards, making the models more susceptible to executing prohibited instructions.** <br>
 **As shown in Fig. A.2, attackers focus on querying outputs across multiple input variants. Driven by specific adversarial goals, attackers employ estimation-based and search-based attack techniques to iteratively refine these input variants.**
 
 <img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreal_attack_B.png" alt="jailbreak_attack_white_and_gray_box" />
 
-**As shown in Fig. B.1, attackers are restricted to accessing only the encoders to provoke harmful responses. In this case, attackers typically seek to maximize cosine similarity within the latent space, ensuring the adversarial input retains similar semantics to the target malicious content while still being classified as safe.**
-**As shown in Fig. B.1, attackers have unrestricted access to the generative model’s architecture and checkpoint, enabling attackers to conduct thorough investigations and manipulations, thus enabling sophisticated attacks.**
+**As shown in Fig. B.1, attackers are restricted to accessing only the encoders to provoke harmful responses. In this case, attackers typically seek to maximize cosine similarity within the latent space, ensuring the adversarial input retains similar semantics to the target malicious content while still being classified as safe.** <br>
+**As shown in Fig. B.2, attackers have unrestricted access to the generative model’s architecture and checkpoint, enabling attackers to conduct thorough investigations and manipulations, thus enabling sophisticated attacks.**
 
 
 
