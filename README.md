@@ -86,9 +86,10 @@ Our thorough compilation and careful selection are time-savers for you.
 
 ## 😈JailBreak Attack
 
+### 📖Attack-Intro
+
 **In this part, we focus on discussing different advanced jailbreak attacks against multimodal models. We categorize attack methods into black-box, gray-box, and white-box attacks. in a black-box setting where the model is inaccessible to the attacker, the attack is limited to surface-level interactions, focusing solely on the model’s input and/or output. Regarding gray-box and white-box attacks, we consider model-level attacks, including attacks at both the encoder and generator.**
 
-### 📖Attack-Intro
 <img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_attack_A.png" alt="jailbreak_attack_black_box" />
 
 **As shown in Fig. A.1, attackers are compelled to develop more sophisticated input templates across prompt engineering, image engineering, and role-ploy techniques. These techniques can bypass the model’s safeguards, making the models more susceptible to executing prohibited instructions.** <br>
