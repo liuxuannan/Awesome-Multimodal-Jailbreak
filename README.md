@@ -194,13 +194,13 @@ Below are the papers related to jailbreak defense.
 |[**Direct Unlearning Optimization for Robust and Safe Text-to-Image Models**](https://arxiv.org/abs/2407.21035) | ICML GenLaw workshop 2024 | 2024/07/17 | None | Encoder Level | T2I |
 |[**Reliable and Efficient Concept Erasure of Text-to-Image Diffusion Models**](https://arxiv.org/abs/2407.12383) | ECCV 2024 | 2024/07/17 | [Github](https://github.com/CharlesGong12/RECE) | Generator Level | T2I |
 |[**Pruning for Robust Concept Erasing in Diffusion Models**](https://arxiv.org/abs/2405.16534) | Arxiv 2024 | 2024/05/26 | None | Generator Level | T2I |
+|[**Espresso: Robust Concept Filtering in Text-to-Image Models**](https://arxiv.org/abs/2404.19227) | Arxiv 2024 | 2024/04/30 | None | Output Level | T2I |
+|[**Latent Guard: a Safety Framework for Text-to-image Generation**](https://arxiv.org/abs/2404.08031) | ECCV 2024 | 2024/04/11 | [Github](https://github.com/rt219/LatentGuard) | Encoder Level | T2I |
 |[**SafeGen: Mitigating Sexually Explicit Content Generation in Text-to-Image Models**](https://arxiv.org/abs/2404.06666) | ACM CCS 2024 | 2024/04/10 | [Github](https://github.com/LetterLiGo/SafeGen_CCS2024) | Generator Level | T2I |
 |[**GuardT2I: Defending Text-to-Image Models from Adversarial Prompts**](https://arxiv.org/abs/2403.01446) | NIPS 2024 | 2024/03/03 | None | Input Level | T2I |
 |[**Safe-CLIP: Removing NSFW Concepts from Vision-and-Language Models**](https://arxiv.org/abs/2311.16254) | ECCV 2024 | 2023/11/27 | [Github](https://github.com/aimagelab/safe-clip) | Encoder Level | T2I |
 |[**Forget-Me-Not: Learning to Forget in Text-to-Image Diffusion Models**](https://arxiv.org/abs/2303.17591) | CVPR 2024 | 2023/05/30 | [Github](https://github.com/SHI-Labs/Forget-Me-Not) | Generator Level | T2I |
-|[**Latent Guard: a Safety Framework for Text-to-image Generation**](https://arxiv.org/abs/2404.08031) | ECCV 2024 | 2024/04/11 | [Github](https://github.com/rt219/LatentGuard) | Encoder Level | T2I |
 |[**Safe Latent Diffusion: Mitigating Inappropriate Degeneration in Diffusion Models**](https://arxiv.org/abs/2211.05105) | CVPR 2023 | 2022/11/09 | [Github](https://github.com/ml-research/safe-latent-diffusion) | Generator Level | T2I |
-|[**Espresso: Robust Concept Filtering in Text-to-Image Models**](https://arxiv.org/abs/2404.19227) | Arxiv 2024 | 2024/04/30 | None | Output Level | T2I |
 |[**Self-discovering interpretable diffusion latent directions for responsible text-to-image generation**](https://arxiv.org/abs/2311.17216) | CVPR 2024 | 2023/11/28 | [Github](https://github.com/hangligit/InterpretDiffusion) | Input Level | T2I |
 |[**Implicit concept removal of diffusion models**](https://arxiv.org/abs/2310.05873) | ECCV 2024 | 2023/10/09 | None | Input Level | T2I |
 |[**Universal prompt optimizer for safe text-to-image generation**](https://arxiv.org/abs/2402.10882) | Arxiv 2024 | 2024/02/16 | None | Input Level | T2I |
