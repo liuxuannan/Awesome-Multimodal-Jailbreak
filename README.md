@@ -1,6 +1,7 @@
 
 # 😈🛡️Awesome-Jailbreak-against-Multimodal-Generative-Models
 🔥🔥🔥 **Jailbreak Attacks and Defenses against Multimodal Generative Models: A Survey**
+
 **[Paper](https://arxiv.org/abs/2411.09259)**  
 
 We've curated a collection of the latest 😋, most comprehensive 😎, and most valuable 🤩 resources on Jailbreak Attack and Defense Multimodel Generative Models.<br> 
