@@ -282,7 +282,7 @@ Below are the papers related to jailbreak defense.
 
 If you find this work useful in your research, Please kindly cite using the following BibTex:
 ```bib
-@article{Liu2024jailbreak,
+@article{liu2024jailbreak,
     title={Jailbreak Attacks and Defenses against Multimodal Generative Models: A Survey},
     author={Liu, Xuannan and Cui, Xing and Li, Peipei and Li, Zekun and Huang, Huaibo and Xia, Shuhan and Zhang, Miaoxuan and Zou, Yueying and He, Ran},
     journal={arXiv preprint arXiv:2411.09259},
