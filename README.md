@@ -45,6 +45,7 @@ But we don't stop there; Our repository is constantly updated to ensure you have
     - [📚Detectors](#detectors)
       - [Used to Any-to-Text Models](#Used-to-Any-to-Text-Models)
       - [Used to Any-to-Text Models](#Used-to-Any-to-Vision-Models)
+  - [😉Citation](#Citation)
 
 
 
@@ -277,5 +278,16 @@ Below are the papers related to jailbreak defense.
 |**Imgcensor** | [Github](https://github.com/lucasxlu/XCloud/tree/master/research/imgcensor) |
 |**Multi-headed Safety Classifier** | [Github](https://github.com/YitingQu/unsafe-diffusion) |
 
+## 😉Citation
+
+If you find this work useful in your research, Please kindly cite using the following BibTex:
+```bib
+@article{Liu2024llms,
+    title={Jailbreak Attacks and Defenses against Multimodal Generative Models: A Survey},
+    author={Liu, Xuannan and Cui, Xing and Li, Peipei and Li, Zekun and Huang, Huaibo and Xia, Shuhan and Zhang, Miaoxuan and Zou, Yueying and He, Ran},
+    journal={arXiv preprint arXiv:2411.09259},
+    year={2024},
+}
+```
 
 
