@@ -143,7 +143,6 @@ Below are the papers related to jailbreak attacks.
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
 |[**Voice jailbreak attacks against gpt-4o**](https://arxiv.org/abs/2405.19103) | Arxiv 2024 | 2024/05/29 | [Github](https://github.com/TrustAIRLab/VoiceJailbreakAttack) | Input Level | Any2Any |
 
-
 ## 🛡️Jailbreak Defense
 
 ### 📖Defense-Intro
