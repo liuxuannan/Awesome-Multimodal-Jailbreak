@@ -1,54 +1,43 @@
 
-# 🛡️Awesome-Jailbreak-against-Multimodal-Generative-Models
-![survey model](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/survey_model_00.png)
+# 😈🛡️Awesome-Jailbreak-against-Multimodal-Generative-Models
+🔥🔥🔥 **Jailbreak Attacks and Defenses against Multimodal Generative Models: A Survey**
+**[Paper](https://arxiv.org/abs/2411.09259)**  
 
-
-## 🤗Introduction
-
-
-**Welcome to our Awesome-Jailbreak-against-Multimodal-Generative-Models! We provides a comprehensive overview of jailbreak vulnerabilities in multimodal generative models!** 🥰🥰🥰<br>
-
-<br>
 We've curated a collection of the latest 😋, most comprehensive 😎, and most valuable 🤩 resources on Jailbreak Attack and Defense Multimodel Generative Models.<br> 
 But we don't stop there; Our repository is constantly updated to ensure you have the most current information at your fingertips.
 
-> If a resource is relevant to multiple subcategories, we place it under each applicable section.<br>
+## 🤗Introduction
 
+**This survey presents a comprehensive review of existing jailbreak attack and defense against multimodal generative models.**<br>
+**Given the generalized lifecycle of multimodal jailbreak, we systematically explore attacks and corresponding defense strategies across four levels: input, encoder, generator, and output.**<br>
 
-**🧑‍💻 Our Work**
-- Leveraging the layered structure of generative models, we systematically examine jailbreak attacks and corresponding defense strategies across the input, encoding, decoding, and output layers.<br>
-- We establish a detailed taxonomy of attack vectors, defense mechanisms, and evaluation frameworks specific to multimodal generative models.<br>
-- Our review encompasses a wide array of input-output configurations, offering a nuanced examination of jailbreak tactics and defenses applicable to any-to-text, any-to-vision, and any-to-any modalities within generative systems.<br>
+**🧑‍💻 Four Levels of Multimodal Jailbreak lifecycle**
+- Input Level: Attackers and defenders operate solely on the input data. Attackers modify inputs to execute attacks, while defenders incorporate protective cues to enhance detection.<br>
+- Encoder Level: With access to the encoder, attackers optimize adversarial inputs to inject malicious information into the encoding process, while defenders work to prevent harmful information from being encoded within the latent space.<br>
+- Generator Level: : With full access to the generative models, attackers leverage inference information, such as activations and gradients, and fine-tune models to increase adversarial effectiveness, while defenders use these techniques to strengthen model robustness.<br>
+- Output Level: With the output from the generative model, attackers can iteratively refine adversarial inputs, while defenders can apply post-processing techniques to enhance detection.<br>
 
-**✔️ Perfect for Majority**
-- For beginners curious about jailbreak attack and defense, our repository serves as a compass for grasping the big picture and diving into the details. 
-The brief introductions to papers in different fields retained in the README provide a beginner-friendly navigation through interesting directions in the field;
-- For seasoned researchers, this repository is a tool to keep you informed and fill any gaps in your knowledge. 
-Within each subtopic, we are diligently updating all the latest content and continuously backfilling with previous work. 
-Our thorough compilation and careful selection are time-savers for you.
+**Based on this analysis, we present a detailed taxonomy of attack methods, defense mechanisms, and evaluation frameworks specific to multimodal generative models.**<br>
+**We cover a wide range of input-output configurations, including modalities such as Any-to-Text, Any-to-Vision, and Any-to-Any within generative systems.**<br>
 
-**🧭 How to Use this Guide**
-- Quick Start: In the README, users can find a curated list of select information, along with links to various consultations.
-- In-Depth Exploration: If you have a special interest in a particular area of the paper, delve into the markdown file for more information.
-
-
+![survey model](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/survey_model_00.png)
 
 ## 🚀Table of Contents
 
-- [🛡️Awesome-Jailbreak-against-Multimodal-Generative-Models🛡️](#️Awesome-Jailbreak-against-Multimodal-Generative-Models)
+- [😈🛡️Awesome-Jailbreak-against-Multimodal-Generative-Models🛡️](#️Awesome-Jailbreak-against-Multimodal-Generative-Models)
   - [🤗Introduction](#introduction)
   - [🚀Table of Contents](#table-of-contents)
   - [🔥Multimodal Generative Models](#Multimodal-Generative-Models)
-    - [📑Any-to-Text (LLM Backbone)](#Any-to-Text-LLM-Backbone)
-    - [📖Any-to-Vision (Diffusion Backbone)](#Any-to-Vision-Diffusion-Backbone)
-    - [📰Any-to-Any (Unified Backbone)](#Any-to-Any-Unified-Backbone)
+    - [📑Any-to-Text Models (LLM Backbone)](#Any-to-Text-LLM-Backbone)
+    - [📖Any-to-Vision Models (Diffusion Backbone)](#Any-to-Vision-Diffusion-Backbone)
+    - [📰Any-to-Any Models (Unified Backbone)](#Any-to-Any-Unified-Backbone)
   - [😈Jailbreak Attack](#Jailbreak-Attack)
     - [📖Attack-Intro](#Attack-Intro)
     - [📑Papers](#Papers)
   - [🛡️Jailbreak Defense](#️jailbreak-defense)
     - [📖Defense-Intro](#Defense-Intro)
     - [📑Papers](#Papers)
-  - [💯Resources](#Resources)
+  - [💯Evaluation](#Evaluation)
     - [⭐️Datasets](#datasets)
       - [Used to Any-to-Text Models](#Used-to-Any-to-Text-Models)
       - [Used to Any-to-Vision Models](#Used-to-Any-to-Vision-Models)
@@ -62,33 +51,34 @@ Our thorough compilation and careful selection are time-savers for you.
 
 **Below are tables of model short name and representative generative models used for jailbreak. For input/output modalities, I: Image, T: Text, V: Video, A: Audio.**
 
-### 📑Any-to-Text (LLM Backbone)
+### 📑Any-to-Text Models (LLM Backbone)
 |  Short Name  |   Modality  |   Representative Model   |  
 |:--------|:--------:|:--------:|
-| IT2T | I + T -> T |[LLaVA](https://arxiv.org/abs/2304.08485), [MiniGPT4](https://arxiv.org/abs/2304.10592), [InstructBLIP](https://arxiv.org/abs/2305.06500) |
-| VT2T | V + T -> T |[Video-LLaVA](https://arxiv.org/abs/2311.10122), [Video-LLaMA](https://arxiv.org/abs/2306.02858) |
-| AT2T | A + T -> T |[Audio Flamingo](https://arxiv.org/abs/2402.01831), [Audiopalm](https://arxiv.org/abs/2306.12925) |
+| IT2T | I + T → T |[LLaVA](https://arxiv.org/abs/2304.08485), [MiniGPT4](https://arxiv.org/abs/2304.10592), [InstructBLIP](https://arxiv.org/abs/2305.06500) |
+| VT2T | V + T → T |[Video-LLaVA](https://arxiv.org/abs/2311.10122), [Video-LLaMA](https://arxiv.org/abs/2306.02858) |
+| AT2T | A + T → T |[Audio Flamingo](https://arxiv.org/abs/2402.01831), [Audiopalm](https://arxiv.org/abs/2306.12925) |
 
 ### 📖Any-to-Vision (Diffusion Backbone)
 |  Short Name  |   Modality  |   Representative Model   |  
 |:--------|:--------:|:--------:|
-| T2T | T -> I |[Stable Diffusion](https://arxiv.org/abs/2112.10752), [Midjourney](https://www.midjourney.com/), [DALLE](https://platform.openai.com/docs/guides/moderation/overview) |
-| IT2I | I + T -> I |[DreamBooth](https://arxiv.org/abs/2208.12242), [InstructP2P](https://arxiv.org/abs/2306.07154) |
-| T2V | T -> V |[Open-Sora](https://github.com/hpcaitech/Open-Sora), [Stable Video Diffusion](https://arxiv.org/abs/2311.15127) |
-| IT2V | I + T -> V |[VideoPoet](https://arxiv.org/abs/2312.14125), [CogVideoX](https://arxiv.org/abs/2408.06072) |
+| T2I | T → I |[Stable Diffusion](https://arxiv.org/abs/2112.10752), [Midjourney](https://www.midjourney.com/), [DALLE](https://platform.openai.com/docs/guides/moderation/overview) |
+| IT2I | I + T → I |[DreamBooth](https://arxiv.org/abs/2208.12242), [InstructP2P](https://arxiv.org/abs/2306.07154) |
+| T2V | T → V |[Open-Sora](https://github.com/hpcaitech/Open-Sora), [Stable Video Diffusion](https://arxiv.org/abs/2311.15127) |
+| IT2V | I + T → V |[VideoPoet](https://arxiv.org/abs/2312.14125), [CogVideoX](https://arxiv.org/abs/2408.06072) |
 
 ### 📰Any-to-Any (Unified Backbone)
 |  Short Name  |   Modality  |   Representative Model   |  
 |:--------|:--------:|:--------:|
-| IT2IT | I + T -> I + T |[Next-GPT](https://arxiv.org/abs/2309.05519), [Chameleon](https://arxiv.org/abs/2304.09842) |
-| A2A | A -> A |[GPT-4o](https://openai.com/index/gpt-4o-system-card/) |
+| IT2IT | I + T → I + T |[Next-GPT](https://arxiv.org/abs/2309.05519), [Chameleon](https://arxiv.org/abs/2304.09842) |
+| TIV2TIV | T + I + V → T + I + V |[EMU3](https://arxiv.org/abs/2409.18869)|
+| Any2Any | Any → Any |[GPT-4o](https://openai.com/index/gpt-4o-system-card/), [Gemini Ultra](https://arxiv.org/abs/2312.11805)|
 
 
 ## 😈JailBreak Attack
 
 ### 📖Attack-Intro
 
-**In this part, we focus on discussing different advanced jailbreak attacks against multimodal models. We categorize attack methods into black-box, gray-box, and white-box attacks. in a black-box setting where the model is inaccessible to the attacker, the attack is limited to surface-level interactions, focusing solely on the model’s input and/or output. Regarding gray-box and white-box attacks, we consider model-level attacks, including attacks at both the encoder and generator.**
+**We categorize attack methods into black-box, gray-box, and white-box attacks. in a black-box setting where the model is inaccessible to the attacker, the attack is limited to surface-level interactions, focusing solely on the model’s input and/or output. Regarding gray-box and white-box attacks, we consider model-level attacks, including attacks at both the encoder and generator.**
 
 <img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_attack_A.png" alt="jailbreak_attack_black_box" />
 
@@ -100,36 +90,31 @@ Our thorough compilation and careful selection are time-savers for you.
 **As shown in Fig. B.1, attackers are restricted to accessing only the encoders to provoke harmful responses. In this case, attackers typically seek to maximize cosine similarity within the latent space, ensuring the adversarial input retains similar semantics to the target malicious content while still being classified as safe.** <br>
 **As shown in Fig. B.2, attackers have unrestricted access to the generative model’s architecture and checkpoint, enabling attackers to conduct thorough investigations and manipulations, thus enabling sophisticated attacks.**
 
-
-
 ### 📑Papers
 Below are the papers related to jailbreak attacks.
 ## Jailbreak Attack of Any-to-Text Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy |  Multimodal Model|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
-|[**Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models**](https://openreview.net/forum?id=plmBsXHxgR&trk=public_post_comment-text) | ICLR 2024 Spotlight | 2024/01/16 | [Github](https://github.com/erfanshayegani/Jailbreak-In-Pieces) | Encoder Level | IT2T |
-|[**FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts**](https://arxiv.org/abs/2311.05608) | Arxiv 2023 | 2023/11/09 | [Github](https://github.com/ThuCCSLab/FigStep) | Input Level | IT2T |
-|[**Jailbreaking Attack against Multimodal Large Language Model**](https://arxiv.org/abs/2402.02309) | Arxiv 2024 | 2024/02/04 | None| Generator Level | IT2T |
-|[**Images are Achilles' Heel of Alignment: Exploiting Visual Vulnerabilities for Jailbreaking Multimodal Large Language Models**](https://arxiv.org/abs/2403.09792) | ECCV 2024 | 2024/05/14 | [Github](https://github.com/RUCAIBox/HADES)| Generator Level | IT2T |
-|[**Visual-RolePlay: Universal Jailbreak Attack on MultiModal Large Language Models via Role-playing Image Character**](https://arxiv.org/abs/2405.20773) | Arxiv 2024 | 2024/05/25 | None | Input Level | IT2T |
-|[**Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt**](https://arxiv.org/abs/2406.04031) | Arxiv 2024 | 2024/06/06 | [Github](https://github.com/NY1024/BAP-Jailbreak-Vision-Language-Models-via-Bi-Modal-Adversarial-Prompt) | Generator Level | IT2T |
-|[**Image Hijacks: Adversarial Images can Control Generative Models at Runtime**](https://arxiv.org/abs/2309.00236) | Arxiv 2024 | 2024/09/01 | [Github](https://github.com/euanong/image-hijacks) | Generator Level | IT2T |
-|[**Arondight: Red Teaming Large Vision Language Models with Auto-generated Multi-modal Jailbreak Prompts**](https://arxiv.org/abs/2407.15050) | ACM MM 2024 | 2024/07/21 | None | Input Level | IT2T |
-|[**Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast**](https://arxiv.org/abs/2402.08567) | ICML 2024 | 2024/02/13 | [Github](https://github.com/sail-sg/Agent-Smith) | Decoder Level | IT2T |
-|[**Visual Adversarial Examples Jailbreak Aligned Large Language Models**](https://arxiv.org/abs/2306.13213) | AAAI 2024 | 2023/06/22 | [Github](https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models) | Generator Level | IT2T |
-|[**Are aligned neural networks adversarially aligned?**](https://arxiv.org/abs/2306.15447) | Arxiv 2023 | 2023/06/26 | None | Generator Level | IT2T |
-|[**Voice Jailbreak Attacks Against GPT-4o**](https://arxiv.org/abs/2405.19103) | Arxiv 2024 | 2024/05/29 | [Github](https://github.com/TrustAIRLab/VoiceJailbreakAttack) | Input Level | IT2T |
-|[**Efficient LLM-Jailbreaking by Introducing Visual Modality**](https://arxiv.org/abs/2405.20015) | Arxiv 2024 | 2024/05/30 | None | Generator Level | IT2T |
-|[**ImgTrojan: Jailbreaking Vision-Language Models with ONE Image**](https://arxiv.org/abs/2403.02910) | Arxiv 2024 | 2024/05/05 | [Github](https://github.com/xijia-tao/ImgTrojan) | Generator Level | IT2T |
-|[**Jailbreaking GPT-4V via Self-Adversarial Attacks with System Prompts**](https://arxiv.org/abs/2311.09127) | Arxiv 2023 | 2023/11/15 | None | Input Level | IT2T |
-|[**White-box Multimodal Jailbreaks Against Large Vision-Language Models**](https://arxiv.org/abs/2405.17894) | Arxiv 2024 | 2024/05/28 | None | Generator Level | IT2T |
-|[**From LLMs to MLLMs: Exploring the Landscape of Multimodal Jailbreaking**](https://arxiv.org/abs/2406.14859) | Arxiv 2024 | 2024/06/21 | None | Encoder Level | IT2T |
-|[**Image-to-Text Logic Jailbreak: Your Imagination can Help You Do Anything**](https://arxiv.org/abs/2407.02534) | Arxiv 2024 | 2024/07/01 | None | Input Level | IT2T |
-|[**Can Large Language Models Automatically Jailbreak GPT-4V?**](https://arxiv.org/abs/2407.16686) | CCS 2024 | 2024/07/23 | None | Input Level | IT2T |
-|[**How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs**](https://arxiv.org/abs/2311.16101) | ECCV 2024 | 2023/11/27 | [Github](https://github.com/UCSC-VLAA/vllm-safety-benchmark) | Encoder Level | IT2T |
-|[**Advweb: Controllable black-box attacks on vlm-powered web agents**](https://arxiv.org/abs/2410.17401) | Arxiv 2024 | 2024/10/22 | None | Input Level | IT2T |
 |[**Audio is the achilles’heel: Red teaming audio large multimodal models**](https://arxiv.org/abs/2410.23861) | Arxiv 2024 | 2024/10/31 | None | Input Level | AT2T |
-
+|[**Advweb: Controllable black-box attacks on vlm-powered web agents**](https://arxiv.org/abs/2410.17401) | Arxiv 2024 | 2024/10/22 | None | Input Level | IT2T |
+|[**Image Hijacks: Adversarial Images can Control Generative Models at Runtime**](https://arxiv.org/abs/2309.00236) | Arxiv 2024 | 2024/09/01 | [Github](https://github.com/euanong/image-hijacks) | Generator Level | IT2T |
+|[**Can Large Language Models Automatically Jailbreak GPT-4V?**](https://arxiv.org/abs/2407.16686) | CCS 2024 | 2024/07/23 | None | Input Level | IT2T |
+|[**Arondight: Red Teaming Large Vision Language Models with Auto-generated Multi-modal Jailbreak Prompts**](https://arxiv.org/abs/2407.15050) | ACM MM 2024 | 2024/07/21 | None | Input Level | IT2T |
+|[**Image-to-Text Logic Jailbreak: Your Imagination can Help You Do Anything**](https://arxiv.org/abs/2407.02534) | Arxiv 2024 | 2024/07/01 | None | Input Level | IT2T |
+|[**From LLMs to MLLMs: Exploring the Landscape of Multimodal Jailbreaking**](https://arxiv.org/abs/2406.14859) | Arxiv 2024 | 2024/06/21 | None | Encoder Level | IT2T |
+|[**Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt**](https://arxiv.org/abs/2406.04031) | Arxiv 2024 | 2024/06/06 | [Github](https://github.com/NY1024/BAP-Jailbreak-Vision-Language-Models-via-Bi-Modal-Adversarial-Prompt) | Generator Level | IT2T |
+|[**Efficient LLM-Jailbreaking by Introducing Visual Modality**](https://arxiv.org/abs/2405.20015) | Arxiv 2024 | 2024/05/30 | None | Generator Level | IT2T |
+|[**White-box Multimodal Jailbreaks Against Large Vision-Language Models**](https://arxiv.org/abs/2405.17894) | Arxiv 2024 | 2024/05/28 | None | Generator Level | IT2T |
+|[**Visual-RolePlay: Universal Jailbreak Attack on MultiModal Large Language Models via Role-playing Image Character**](https://arxiv.org/abs/2405.20773) | Arxiv 2024 | 2024/05/25 | None | Input Level | IT2T |
+|[**Images are Achilles' Heel of Alignment: Exploiting Visual Vulnerabilities for Jailbreaking Multimodal Large Language Models**](https://arxiv.org/abs/2403.09792) | ECCV 2024 | 2024/05/14 | [Github](https://github.com/RUCAIBox/HADES)| Generator Level | IT2T |
+|[**Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast**](https://arxiv.org/abs/2402.08567) | ICML 2024 | 2024/02/13 | [Github](https://github.com/sail-sg/Agent-Smith) | Decoder Level | IT2T |
+|[**Jailbreaking Attack against Multimodal Large Language Model**](https://arxiv.org/abs/2402.02309) | Arxiv 2024 | 2024/02/04 | None| Generator Level | IT2T |
+|[**Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models**](https://openreview.net/forum?id=plmBsXHxgR&trk=public_post_comment-text) | ICLR 2024 Spotlight | 2024/01/16 | [Github](https://github.com/erfanshayegani/Jailbreak-In-Pieces) | Encoder Level | IT2T |
+|[**How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs**](https://arxiv.org/abs/2311.16101) | ECCV 2024 | 2023/11/27 | [Github](https://github.com/UCSC-VLAA/vllm-safety-benchmark) | Encoder Level | IT2T |
+|[**Jailbreaking GPT-4V via Self-Adversarial Attacks with System Prompts**](https://arxiv.org/abs/2311.09127) | Arxiv 2023 | 2023/11/15 | None | Input Level | IT2T |
+|[**FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts**](https://arxiv.org/abs/2311.05608) | Arxiv 2023 | 2023/11/09 | [Github](https://github.com/ThuCCSLab/FigStep) | Input Level | IT2T |
+|[**Are aligned neural networks adversarially aligned?**](https://arxiv.org/abs/2306.15447) | Arxiv 2023 | 2023/06/26 | None | Generator Level | IT2T |
+|[**Visual Adversarial Examples Jailbreak Aligned Large Language Models**](https://arxiv.org/abs/2306.13213) | AAAI 2024 | 2023/06/22 | [Github](https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models) | Generator Level | IT2T |
 
 ## Jailbreak Attack of Any-to-Vision Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy | Multimodal Model |
@@ -156,7 +141,7 @@ Below are the papers related to jailbreak attacks.
 ## Jailbreak Attack of Any-to-Any Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy | Multimodal Model |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
-|[**Voice jailbreak attacks against gpt-4o**](https://arxiv.org/abs/2405.19103) | Arxiv 2024 | 2024/05/29 | [Github](https://github.com/TrustAIRLab/VoiceJailbreakAttack) | Input Level | A2A |
+|[**Voice jailbreak attacks against gpt-4o**](https://arxiv.org/abs/2405.19103) | Arxiv 2024 | 2024/05/29 | [Github](https://github.com/TrustAIRLab/VoiceJailbreakAttack) | Input Level | Any2Any |
 
 
 
@@ -165,17 +150,14 @@ Below are the papers related to jailbreak attacks.
 
 ### 📖Defense-Intro
 
-**In order to cope with jailbreak attacks and improve the security of multimodal foundation models, existing work makes efforts in both Transformative defense and Discriminative defense.**
-
+**Current efforts made in the jailbreak defense of multimodal generative models include two lines of work: Discriminative defense and Transformative defense. In a discriminative setting, the defense is constrained to classification tasks for assigning binary labels. In contrast, transformative defense extends beyond classification to influencing the model’s generative process. Defenders aim to produce appropriate and safe responses in the presence of malicious or adversarial inputs.**
+- Discriminative defenses: focus on identifying and analyzing varying classified cues, such as statistical information at the input level, embeddings at the encoder level, activations at the generator level, and response discrepancies at the output level. Since these defenses operate independently of the generation pipeline, they preserve the model’s structural integrity and ensure that its generative capabilities remain unaffected.
 
 <img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_discriminative_defense_00.png" alt="jailbreak_discriminative_defense" />
 
-**Discriminative defenses focus on identifying and analyzing varying classified cues, such as statistical information at the input level, embeddings at the encoder level, activations at the generator level, and response discrepancies at the output level.**
+- Transformative Defense: operate at four levels to influence the model’s generation process, ensuring benign responses even in the presence of adversarial or malicious prompts.
 
 <img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_defense_all_00.png" alt="jailbreak_transformative_defense" />
-
-**Transformative defenses that can operate at four levels to influence the model’s generation process, ensuring benign responses even in the presence of adversarial or malicious prompts.**
-
 
 ### 📑Papers
 
@@ -232,17 +214,16 @@ Below are the papers related to jailbreak defense.
 |[**Erasing concepts from diffusion models**](https://arxiv.org/abs/2303.07345) | ICCV 2023 | 2023/05/13 | [Github](https://github.com/rohitgandikota/erasing) | Generator Level | T2I |
 |[**Conceptprune: Concept editing in diffusion models via skilled neuron pruning**](https://arxiv.org/abs/2405.19237) | Arxiv 2024 | 2024/05/29 | [Github](https://github.com/ruchikachavhan/concept-prune) | Generator Level | T2I |
 |[**Localization and manipulation of immoral visual cues for safe text-to-image generation**](https://openaccess.thecvf.com/content/WACV2024/papers/Park_Localization_and_Manipulation_of_Immoral_Visual_Cues_for_Safe_Text-to-Image_WACV_2024_paper.pdf) | WACV 2024 | 2024 | None | Output Level | T2I |
+|[**Safree: Training-free and adaptive guard for safe text-to-image and video generation**](https://arxiv.org/abs/2410.12761) | Arxiv 2024 | 2024/10/16 | None | Output Level | T2V |
 
 ## Jailbreak Defense of Any-to-Any Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy | Multimodal Model |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
-|[**Safree: Training-free and adaptive guard for safe text-to-image and video generation**](https://arxiv.org/abs/2410.12761) | Arxiv 2024 | 2024/10/16 | None | Output Level | T2V |
 
 
+## 💯Evaluation
 
-## 💯Resources
-
-### ⭐️Datasets
+### ⭐️Evaluation Datasets
 
 #### Used to Any-to-Text Models
 |  Dataset  |   Task  |   Text Source   |   Image Source   | Volume |  Access  | 
@@ -267,12 +248,16 @@ Below are the papers related to jailbreak defense.
 |**MACE** | Defense | Human curation | Diffusion Generation | 200 | [Github](https://github.com/Shilin-LU/MACE)  |
 
 
-### 📚Detectors
+### 📚Evaluation Methods
+**Current evaluation methods are primarily classified into two categories: manual evaluation and automated evaluation.**
+- Manual evaluation involves human assessment to determine if the content is toxic, offering a direct and interpretable method of evaluation.
+- Automated approaches assess the safety of multimodal generative models by employing a range of techniques, including detector-based, GPT-based, and rule-based methods.
+
 <img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_evaluation_00.png" alt="jailbreak_evaluation" width="600" />
 
 **Detector-based approaches utilize pre-trained classifiers to automatically detect and identify harmful content within generated outputs. These classifiers are trained on large, annotated datasets that cover a range of unsafe categories, such as toxicity, violence, or explicit material. By leveraging these pre-trained models, detector-based methods can efficiently flag inappropriate content.**
 
-#### Used to Any-to-Text Models
+#### Text Detector
 |  Toxicity detector  |   Access  | 
 |:--------|:--------:|
 |**LLama-Guard** | [Huggingface](https://huggingface.co/meta-llama) |
@@ -281,7 +266,7 @@ Below are the papers related to jailbreak defense.
 |**GPTFUZZER** | [Huggingface](https://huggingface.co/hubert233/GPTFuzz/tree/main) |
 |**Perspective API** | [Website](https://perspectiveapi.com/) |
 
-#### Used to Any-to-Vision Models
+#### Image Detector
 |  Toxicity detector  |   Access  | 
 |:--------|:--------:|
 |**NudeNet** | [Github](https://github.com/platelminto/NudeNetClassifier) |
