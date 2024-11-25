@@ -21,7 +21,7 @@ But we don't stop there; Our repository is constantly updated to ensure you have
 **Based on this analysis, we present a detailed taxonomy of attack methods, defense mechanisms, and evaluation frameworks specific to multimodal generative models.**<br>
 **We cover a wide range of input-output configurations, including modalities such as Any-to-Text, Any-to-Vision, and Any-to-Any within generative systems.**<br>
 
-![survey model](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/survey_model_00.png)
+![survey model](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/survey_model.png)
 
 ## 🚀Table of Contents
 
@@ -154,11 +154,11 @@ Below are the papers related to jailbreak attacks.
 **Current efforts made in the jailbreak defense of multimodal generative models include two lines of work: Discriminative defense and Transformative defense.**
 - Discriminative defenses: is constrained to classification tasks for assigning binary labels. 
 
-<img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_discriminative_defense_00.png" alt="jailbreak_discriminative_defense" />
+<img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_discriminative_defense.png" alt="jailbreak_discriminative_defense" />
 
 - Transformative Defense: aims to produce appropriate and safe responses in the presence of malicious or adversarial inputs.
 
-<img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_defense_all_00.png" alt="jailbreak_transformative_defense" />
+<img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_transformative_defense.png" alt="jailbreak_transformative_defense" />
 
 ### 📑Papers
 
