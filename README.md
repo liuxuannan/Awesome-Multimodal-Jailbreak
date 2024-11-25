@@ -166,22 +166,24 @@ Below are the papers related to jailbreak defense.
 ## Jailbreak Defense of Any-to-Text Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy | Multimodal Model |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
-|[**Adashield: Safeguarding multimodal large language models from structure-based attack via adaptive shield prompting**](https://arxiv.org/abs/2403.09513) | ECCV 2024 | 2024/05/14 | [Github](https://github.com/SaFoLab-WISC/AdaShield) | Input Level | IT2T
-|[**Sim-clip: Unsupervised siamese adversarial fine-tuning for robust and semantically-rich vision-language models**](https://arxiv.org/abs/2407.14971) | Arxiv 2024 | 2024/07/20 | None | Encoder Level | IT2T |
-|[**Securing Vision-Language Models with a Robust Encoder Against Jailbreak and Adversarial Attacks**](https://arxiv.org/abs/2409.07353) | Arxiv 2024 | 2024/09/11 | None | Encoder Level | IT2T |
-|[**Safety fine-tuning at (almost) no cost: A baseline for vision large language models**](https://arxiv.org/abs/2402.02207) | ICML 2024 | 2024/02/03 | [Github](https://github.com/ys-zong/VLGuard) | Generator Level | IT2T |
-|[**Safety alignment for vision language models**](https://arxiv.org/abs/2405.13581) | Arxiv 2024 | 2024/05/22 | None | Generator Level | IT2T |
-|[**Bathe: Defense against the jailbreak attack in multimodal large language models by treating harmful instruction as backdoor trigger**](https://arxiv.org/abs/2408.09093) | Arxiv 2024 | 2024/08/17 | None | Generator Level | IT2T |
-|[**Cross-modal safety alignment: Is textual unlearning all you need?**](https://arxiv.org/abs/2406.02575) | Arxiv 2024 | 2024/05/27 | None | Generator Level | IT2T |
-|[**Safety-tuned llamas: Lessons from improving the safety of large language models that follow instructions**](https://arxiv.org/abs/2309.07875) | ICLR 2024 | 2023/09/14 | [Github](https://github.com/vinid/safety-tuned-llamas) | Generator Level | IT2T |
-|[**Mllm-protector: Ensuring mllm’s safety without hurting performance**](https://arxiv.org/abs/2401.02906) | Arxiv 2024 | 2024/01/05 | [Github](https://github.com/pipilurj/MLLM-protector) | Output Level | IT2T |
+|[**Uniguard: Towards universal safety guardrails for jailbreak attacks on multimodal large language models**](https://arxiv.org/abs/2411.01703) | Arxiv 2024 | 2024/11/03 | None | Input Level | IT2T |
+|[**Effective and Efficient Adversarial Detection for Vision-Language Models via A Single Vector**](https://arxiv.org/abs/2410.22888) | Arxiv 2024 | 2024/10/30 | None | Generator Level | IT2T |
+|[**BlueSuffix: Reinforced Blue Teaming for Vision-Language Models Against Jailbreak Attacks**](https://arxiv.org/abs/2410.20971) | Arxiv 2024 | 2024/10/28 | None | Input Level | IT2T |
 |[**Information-theoretical principled trade-off between jailbreakability and stealthiness on vision language models**](https://arxiv.org/abs/2410.01438) | Arxiv 2024 | 2024/10/02 | None | Input Level | IT2T |
+|[**Securing Vision-Language Models with a Robust Encoder Against Jailbreak and Adversarial Attacks**](https://arxiv.org/abs/2409.07353) | Arxiv 2024 | 2024/09/11 | None | Encoder Level | IT2T |
+|[**Bathe: Defense against the jailbreak attack in multimodal large language models by treating harmful instruction as backdoor trigger**](https://arxiv.org/abs/2408.09093) | Arxiv 2024 | 2024/08/17 | None | Generator Level | IT2T |
+|[**Sim-clip: Unsupervised siamese adversarial fine-tuning for robust and semantically-rich vision-language models**](https://arxiv.org/abs/2407.14971) | Arxiv 2024 | 2024/07/20 | None | Encoder Level | IT2T |
+|[**Safety alignment for vision language models**](https://arxiv.org/abs/2405.13581) | Arxiv 2024 | 2024/05/22 | None | Generator Level | IT2T |
+|[**Cross-modal safety alignment: Is textual unlearning all you need?**](https://arxiv.org/abs/2406.02575) | Arxiv 2024 | 2024/05/27 | None | Generator Level | IT2T |
+|[**Adashield: Safeguarding multimodal large language models from structure-based attack via adaptive shield prompting**](https://arxiv.org/abs/2403.09513) | ECCV 2024 | 2024/05/14 | [Github](https://github.com/SaFoLab-WISC/AdaShield) | Input Level | IT2T
+|[**Safety fine-tuning at (almost) no cost: A baseline for vision large language models**](https://arxiv.org/abs/2402.02207) | ICML 2024 | 2024/02/03 | [Github](https://github.com/ys-zong/VLGuard) | Generator Level | IT2T |
+|[**Mllm-protector: Ensuring mllm’s safety without hurting performance**](https://arxiv.org/abs/2401.02906) | Arxiv 2024 | 2024/01/05 | [Github](https://github.com/pipilurj/MLLM-protector) | Output Level | IT2T |
+|[**Safety-tuned llamas: Lessons from improving the safety of large language models that follow instructions**](https://arxiv.org/abs/2309.07875) | ICLR 2024 | 2023/09/14 | [Github](https://github.com/vinid/safety-tuned-llamas) | Generator Level | IT2T |
 |[**Defending jailbreak attack in vlms via cross-modality information detector**](https://arxiv.org/html/2407.21659v2) | Arxiv 2024 | 2024/07/31 | [Github](https://github.com/pandragonxiii/cider) | Encoder Level | IT2T |
 |[**Inferaligner: Inference-time alignment for harmlessness through cross-model guidance**](https://arxiv.org/abs/2401.11206) | Arxiv 2024 | 2024/01/20 | [Github](https://github.com/Jihuai-wpy/InferAligner) | Encoder Level | IT2T |
 |[**Jailguard: A universal detection framework for llm prompt-based attacks**](https://arxiv.org/abs/2312.10766) | Arxiv 2023 | 2023/12/17 | None | Encoder Level | IT2T |
-|[**Effective and Efficient Adversarial Detection for Vision-Language Models via A Single Vector**](https://arxiv.org/abs/2410.22888) | Arxiv 2024 | 2024/10/30 | None | Generator Level | IT2T |
-|[**BlueSuffix: Reinforced Blue Teaming for Vision-Language Models Against Jailbreak Attacks**](https://arxiv.org/abs/2410.20971) | Arxiv 2024 | 2024/10/28 | None | Input Level | IT2T |
-|[**Uniguard: Towards universal safety guardrails for jailbreak attacks on multimodal large language models**](https://arxiv.org/abs/2411.01703) | Arxiv 2024 | 2024/11/03 | None | Input Level | IT2T |
+
+
 
 
 ## Jailbreak Defense of Any-to-Vision Models
