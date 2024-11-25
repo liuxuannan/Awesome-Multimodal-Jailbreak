@@ -83,7 +83,7 @@ But we don't stop there; Our repository is constantly updated to ensure you have
 
 <img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_attack_A.png" alt="jailbreak_attack_black_box" />
 
-**As shown in Fig. A.1, attackers are compelled to develop more sophisticated input templates across prompt engineering, image engineering, and role-ploy techniques. These techniques can bypass the model’s safeguards, making the models more susceptible to executing prohibited instructions.** <br>
+**As shown in Fig. A.1, attackers are compelled to develop more sophisticated input templates across prompt engineering, image engineering, and role-ploy techniques.** <br>
 **As shown in Fig. A.2, attackers focus on querying outputs across multiple input variants. Driven by specific adversarial goals, attackers employ estimation-based and search-based attack techniques to iteratively refine these input variants.**
 
 <img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreal_attack_B.png" alt="jailbreak_attack_white_and_gray_box" />
@@ -148,12 +148,12 @@ Below are the papers related to jailbreak attacks.
 
 ### 📖Defense-Intro
 
-**Current efforts made in the jailbreak defense of multimodal generative models include two lines of work: Discriminative defense and Transformative defense. In a discriminative setting, the defense is constrained to classification tasks for assigning binary labels. In contrast, transformative defense extends beyond classification to influencing the model’s generative process. Defenders aim to produce appropriate and safe responses in the presence of malicious or adversarial inputs.**
-- Discriminative defenses: focus on identifying and analyzing varying classified cues, such as statistical information at the input level, embeddings at the encoder level, activations at the generator level, and response discrepancies at the output level. Since these defenses operate independently of the generation pipeline, they preserve the model’s structural integrity and ensure that its generative capabilities remain unaffected.
+**Current efforts made in the jailbreak defense of multimodal generative models include two lines of work: Discriminative defense and Transformative defense.**
+- Discriminative defenses: is constrained to classification tasks for assigning binary labels. 
 
 <img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_discriminative_defense_00.png" alt="jailbreak_discriminative_defense" />
 
-- Transformative Defense: operate at four levels to influence the model’s generation process, ensuring benign responses even in the presence of adversarial or malicious prompts.
+- Transformative Defense: aims to produce appropriate and safe responses in the presence of malicious or adversarial inputs.
 
 <img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_defense_all_00.png" alt="jailbreak_transformative_defense" />
 
@@ -253,7 +253,7 @@ Below are the papers related to jailbreak defense.
 
 <img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_evaluation_00.png" alt="jailbreak_evaluation" width="600" />
 
-**Detector-based approaches utilize pre-trained classifiers to automatically detect and identify harmful content within generated outputs. These classifiers are trained on large, annotated datasets that cover a range of unsafe categories, such as toxicity, violence, or explicit material. By leveraging these pre-trained models, detector-based methods can efficiently flag inappropriate content.**
+<!-- **Detector-based approaches utilize pre-trained classifiers to automatically detect and identify harmful content within generated outputs. These classifiers are trained on large, annotated datasets that cover a range of unsafe categories, such as toxicity, violence, or explicit material. By leveraging these pre-trained models, detector-based methods can efficiently flag inappropriate content.** -->
 
 #### Text Detector
 |  Toxicity detector  |   Access  | 
