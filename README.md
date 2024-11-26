@@ -4,7 +4,7 @@
 
 **[Paper](https://arxiv.org/abs/2411.09259)**  
 
-We've curated a collection of the latest 😋, most comprehensive 😎, and most valuable 🤩 resources on Jailbreak Attack and Defense Multimodel Generative Models.<br> 
+We've curated a collection of the latest 😋, most comprehensive 😎, and most valuable 🤩 resources on Jailbreak Attack and Defense against Multimodel Generative Models.<br> 
 But we don't stop there; Our repository is constantly updated to ensure you have the most current information at your fingertips.
 
 ![survey model](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/examples.png)
@@ -99,6 +99,9 @@ Below are the papers related to jailbreak attacks.
 ## Jailbreak Attack of Any-to-Text Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy |  Multimodal Model|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[**Safe + Safe = Unsafe? Exploring How Safe Images Can Be Exploited to Jailbreak Large Vision-Language Models**](https://arxiv.org/abs/2411.11496) | Arxiv 2024 | 2024/11/18 | None | --- | IT2T |
+|[**IDEATOR: Jailbreaking Large Vision-Language Models Using Themselves**](https://arxiv.org/abs/2411.00827) | Arxiv 2024 | 2024/11/15 | None | --- | IT2T |
+|[**Zer0-Jack: A memory-efficient gradient-based jailbreaking method for black box Multi-modal Large Language Models**](https://arxiv.org/abs/2411.07559) | Arxiv 2024 | 2024/11/12 | None | --- | IT2T |
 |[**Audio is the achilles’heel: Red teaming audio large multimodal models**](https://arxiv.org/abs/2410.23861) | Arxiv 2024 | 2024/10/31 | None | Input Level | AT2T |
 |[**Advweb: Controllable black-box attacks on vlm-powered web agents**](https://arxiv.org/abs/2410.17401) | Arxiv 2024 | 2024/10/22 | None | Input Level | IT2T |
 |[**Image Hijacks: Adversarial Images can Control Generative Models at Runtime**](https://arxiv.org/abs/2309.00236) | Arxiv 2024 | 2024/09/01 | [Github](https://github.com/euanong/image-hijacks) | Generator Level | IT2T |
@@ -119,10 +122,13 @@ Below are the papers related to jailbreak attacks.
 |[**FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts**](https://arxiv.org/abs/2311.05608) | Arxiv 2023 | 2023/11/09 | [Github](https://github.com/ThuCCSLab/FigStep) | Input Level | IT2T |
 |[**Are aligned neural networks adversarially aligned?**](https://arxiv.org/abs/2306.15447) | Arxiv 2023 | 2023/06/26 | None | Generator Level | IT2T |
 |[**Visual Adversarial Examples Jailbreak Aligned Large Language Models**](https://arxiv.org/abs/2306.13213) | AAAI 2024 | 2023/06/22 | [Github](https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models) | Generator Level | IT2T |
+|[**On Evaluating Adversarial Robustness of Large Vision-Language Models**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a97b58c4f7551053b0512f92244b0810-Abstract-Conference.html) | NeurIPS 2023 | 2023/05/26 | [Homepage](https://yunqing-me.github.io/AttackVLM/) | --- | IT2T |
 
 ## Jailbreak Attack of Any-to-Vision Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy | Multimodal Model |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[**Unfiltered and Unseen: Universal Multimodal Jailbreak Attacks on Text-to-Image Model Defenses**](https://openreview.net/forum?id=sshYEYQ82L) | Openreview | 2024/11/13 | None | --- | T2I |
+|[**Chain-of-Jailbreak Attack for Image Generation Models via Editing Step by Step**](https://arxiv.org/abs/2410.03869) | Arxiv 2024 | 2024/10/4 | None | --- | T2I |
 |[**RT-Attack: Jailbreaking Text-to-Image Models via Random Token**](https://arxiv.org/abs/2408.13896) | Arxiv 2024 | 2024/08/25 | None | Encoder Level | T2I |
 |[**Perception-guided Jailbreak against Text-to-Image Models**](https://arxiv.org/abs/2408.10848) | Arxiv 2024 | 2024/08/20 | None | Input Level | T2I |
 |[**DiffZOO: A Purely Query-Based Black-Box Attack for Red-teaming Text-to-Image Generative Model via Zeroth Order Optimization**](https://arxiv.org/abs/2408.11071) | Arxiv 2024 | 2024/08/18 | None | Output Level | T2I |
@@ -147,6 +153,7 @@ Below are the papers related to jailbreak attacks.
 ## Jailbreak Attack of Any-to-Any Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy | Multimodal Model |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[**Gradient-based Jailbreak Images for Multimodal Fusion Models**](https://arxiv.org/abs/2410.03489) | Arxiv 2024 | 2024/10/4 | [Github](https://github.com/facebookresearch/multimodal-fusion-jailbreaks) | --- | IT2IT |
 |[**Voice jailbreak attacks against gpt-4o**](https://arxiv.org/abs/2405.19103) | Arxiv 2024 | 2024/05/29 | [Github](https://github.com/TrustAIRLab/VoiceJailbreakAttack) | Input Level | Any2Any |
 
 ## 🛡️Jailbreak Defense
