@@ -7,6 +7,8 @@
 We've curated a collection of the latest 😋, most comprehensive 😎, and most valuable 🤩 resources on Jailbreak Attack and Defense Multimodel Generative Models.<br> 
 But we don't stop there; Our repository is constantly updated to ensure you have the most current information at your fingertips.
 
+![survey model](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/examples.png)
+
 ## 🤗Introduction
 
 **This survey presents a comprehensive review of existing jailbreak attack and defense against multimodal generative models.**<br>
