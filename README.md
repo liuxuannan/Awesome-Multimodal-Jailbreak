@@ -129,6 +129,7 @@ Below are the papers related to jailbreak attacks.
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
 |[**In-Context Experience Replay Facilitates Safety Red-Teaming of Text-to-Image Diffusion Models**](https://arxiv.org/abs/2411.16769) | Arxiv 2024 | 2024/11/25 | None | --- | T2I |
 |[**Unfiltered and Unseen: Universal Multimodal Jailbreak Attacks on Text-to-Image Model Defenses**](https://openreview.net/forum?id=sshYEYQ82L) | Openreview | 2024/11/13 | None | --- | T2I |
+|[**AdvI2I: Adversarial Image Attack on Image-to-Image Diffusion models**](https://arxiv.org/abs/2410.21471) | Arxiv 2024 | 2024/10/28 | [Github](https://github.com/Spinozaaa/AdvI2I) | --- | T2I |
 |[**Chain-of-Jailbreak Attack for Image Generation Models via Editing Step by Step**](https://arxiv.org/abs/2410.03869) | Arxiv 2024 | 2024/10/4 | None | --- | T2I |
 |[**RT-Attack: Jailbreaking Text-to-Image Models via Random Token**](https://arxiv.org/abs/2408.13896) | Arxiv 2024 | 2024/08/25 | None | Encoder Level | T2I |
 |[**Perception-guided Jailbreak against Text-to-Image Models**](https://arxiv.org/abs/2408.10848) | Arxiv 2024 | 2024/08/20 | None | Input Level | T2I |
@@ -204,6 +205,8 @@ Below are the papers related to jailbreak defense.
 ## Jailbreak Defense of Any-to-Vision Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy | Multimodal Model |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[**Safety Without Semantic Disruptions: Editing-free Safe Image Generation via Context-preserving Dual Latent Reconstruction**](https://arxiv.org/abs/2411.13982) | Arxiv 2024 | 2024/11/21 | None | --- | T2I |
+|[**Safe Text-to-Image Generation:Simply Sanitize the Prompt Embedding**](https://arxiv.org/abs/2411.10329) | Arxiv 2024 | 2024/11/15 | None | --- | T2I |
 |[**Safree: Training-free and adaptive guard for safe text-to-image and video generation**](https://arxiv.org/abs/2410.12761) | Arxiv 2024 | 2024/10/16 | None | Output Level | T2I/T2V |
 |[**Safree: Training-free and adaptive guard for safe text-to-image and video generation**](https://arxiv.org/abs/2410.12761) | Arxiv 2024 | 2024/10/16 | None | Output Level | T2I/T2V |
 |[**Dark miner: Defend against unsafe generation for text-to-image diffusion models**](https://arxiv.org/html/2409.17682) | Arxiv 2024 | 2024/09/26 | None | Generator Level | T2I |
