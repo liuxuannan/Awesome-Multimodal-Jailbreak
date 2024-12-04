@@ -99,9 +99,9 @@ Below are the papers related to jailbreak attacks.
 ## Jailbreak Attack of Any-to-Text Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy |  Multimodal Model|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
-|[**Safe + Safe = Unsafe? Exploring How Safe Images Can Be Exploited to Jailbreak Large Vision-Language Models**](https://arxiv.org/abs/2411.11496) | Arxiv 2024 | 2024/11/18 | None | --- | IT2T |
-|[**IDEATOR: Jailbreaking Large Vision-Language Models Using Themselves**](https://arxiv.org/abs/2411.00827) | Arxiv 2024 | 2024/11/15 | None | --- | IT2T |
-|[**Zer0-Jack: A memory-efficient gradient-based jailbreaking method for black box Multi-modal Large Language Models**](https://arxiv.org/abs/2411.07559) | Arxiv 2024 | 2024/11/12 | None | --- | IT2T |
+|[**Safe + Safe = Unsafe? Exploring How Safe Images Can Be Exploited to Jailbreak Large Vision-Language Models**](https://arxiv.org/abs/2411.11496) | Arxiv 2024 | 2024/11/18 | None | Output Level | IT2T |
+|[**IDEATOR: Jailbreaking Large Vision-Language Models Using Themselves**](https://arxiv.org/abs/2411.00827) | Arxiv 2024 | 2024/11/15 | None | Output Level | IT2T |
+|[**Zer0-Jack: A memory-efficient gradient-based jailbreaking method for black box Multi-modal Large Language Models**](https://arxiv.org/abs/2411.07559) | Arxiv 2024 | 2024/11/12 | None | Output Level | IT2T |
 |[**Audio is the achilles’heel: Red teaming audio large multimodal models**](https://arxiv.org/abs/2410.23861) | Arxiv 2024 | 2024/10/31 | None | Input Level | AT2T |
 |[**Advweb: Controllable black-box attacks on vlm-powered web agents**](https://arxiv.org/abs/2410.17401) | Arxiv 2024 | 2024/10/22 | None | Input Level | IT2T |
 |[**Image Hijacks: Adversarial Images can Control Generative Models at Runtime**](https://arxiv.org/abs/2309.00236) | Arxiv 2024 | 2024/09/01 | [Github](https://github.com/euanong/image-hijacks) | Generator Level | IT2T |
@@ -131,6 +131,7 @@ Below are the papers related to jailbreak attacks.
 |[**Unfiltered and Unseen: Universal Multimodal Jailbreak Attacks on Text-to-Image Model Defenses**](https://openreview.net/forum?id=sshYEYQ82L) | Openreview | 2024/11/13 | None | --- | T2I |
 |[**AdvI2I: Adversarial Image Attack on Image-to-Image Diffusion models**](https://arxiv.org/abs/2410.21471) | Arxiv 2024 | 2024/10/28 | [Github](https://github.com/Spinozaaa/AdvI2I) | --- | T2I |
 |[**Chain-of-Jailbreak Attack for Image Generation Models via Editing Step by Step**](https://arxiv.org/abs/2410.03869) | Arxiv 2024 | 2024/10/4 | None | --- | T2I |
+|[**ColJailBreak: Collaborative Generation and Editing for Jailbreaking Text-to-Image Deep Generation**](https://openreview.net/forum?id=eGIzeTmAtE) | NeurIPS 2024 | 2024/9/25 | [Github](https://github.com/tsingqguo/coljailbreak) | Input Level | T2I |
 |[**RT-Attack: Jailbreaking Text-to-Image Models via Random Token**](https://arxiv.org/abs/2408.13896) | Arxiv 2024 | 2024/08/25 | None | Encoder Level | T2I |
 |[**Perception-guided Jailbreak against Text-to-Image Models**](https://arxiv.org/abs/2408.10848) | Arxiv 2024 | 2024/08/20 | None | Input Level | T2I |
 |[**DiffZOO: A Purely Query-Based Black-Box Attack for Red-teaming Text-to-Image Generative Model via Zeroth Order Optimization**](https://arxiv.org/abs/2408.11071) | Arxiv 2024 | 2024/08/18 | None | Output Level | T2I |
@@ -197,8 +198,6 @@ Below are the papers related to jailbreak defense.
 |[**Mllm-protector: Ensuring mllm’s safety without hurting performance**](https://arxiv.org/abs/2401.02906) | Arxiv 2024 | 2024/01/05 | [Github](https://github.com/pipilurj/MLLM-protector) | Output Level | IT2T |
 |[**Jailguard: A universal detection framework for llm prompt-based attacks**](https://arxiv.org/abs/2312.10766) | Arxiv 2023 | 2023/12/17 | None | Encoder Level | IT2T |
 |[**Safety-tuned llamas: Lessons from improving the safety of large language models that follow instructions**](https://arxiv.org/abs/2309.07875) | ICLR 2024 | 2023/09/14 | [Github](https://github.com/vinid/safety-tuned-llamas) | Generator Level | IT2T |
-
-
 
 
 
