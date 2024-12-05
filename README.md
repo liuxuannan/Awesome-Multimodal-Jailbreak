@@ -221,7 +221,7 @@ Below are the papers related to jailbreak defense.
 |[**SafeGen: Mitigating Sexually Explicit Content Generation in Text-to-Image Models**](https://arxiv.org/abs/2404.06666) | ACM CCS 2024 | 2024/04/10 | [Github](https://github.com/LetterLiGo/SafeGen_CCS2024) | Generator Level | T2I |
 |[**Salun: Empowering machine unlearning via gradient-based weight saliency in both image classification and generation**](https://arxiv.org/abs/2310.12508) | ICLR 2024 | 2024/04/04 | [Github](https://github.com/OPTML-Group/Unlearn-Saliency) | Generator Level | T2I |
 |[**GuardT2I: Defending Text-to-Image Models from Adversarial Prompts**](https://arxiv.org/abs/2403.01446) | NeurIPS 2024 | 2024/03/03 | None | Input Level | T2I |
-|[**Universal prompt optimizer for safe text-to-image generation**](https://arxiv.org/abs/2402.10882) | NAACL-HLT 2024 | 2024/02/16 | None | Input Level | T2I |
+|[**Universal prompt optimizer for safe text-to-image generation**](https://arxiv.org/abs/2402.10882) | NAACL 2024 | 2024/02/16 | None | Input Level | T2I |
 |[**Erasediff: Erasing data influence in diffusion models**](https://arxiv.org/abs/2401.05779) | Arxiv 2024 | 2024/01/11 | None | Generator Level | T2I |
 |[**Localization and manipulation of immoral visual cues for safe text-to-image generation**](https://openaccess.thecvf.com/content/WACV2024/papers/Park_Localization_and_Manipulation_of_Immoral_Visual_Cues_for_Safe_Text-to-Image_WACV_2024_paper.pdf) | WACV 2024 | 2024/01/01 | None | Output Level | T2I |
 |[**Receler: Reliable concept erasing of text-to-image diffusion models via lightweight erasers**](https://arxiv.org/abs/2311.17717) | ECCV 2024 | 2023/11/29 | None | Generator Level | T2I |
