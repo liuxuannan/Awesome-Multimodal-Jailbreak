@@ -111,7 +111,7 @@ Below are the papers related to jailbreak attacks.
 |[**From LLMs to MLLMs: Exploring the Landscape of Multimodal Jailbreaking**](https://arxiv.org/abs/2406.14859) | EMNLP 2024 | 2024/06/21 | None | Encoder Level | IT2T |
 |[**Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt**](https://arxiv.org/abs/2406.04031) | Arxiv 2024 | 2024/06/06 | [Github](https://github.com/NY1024/BAP-Jailbreak-Vision-Language-Models-via-Bi-Modal-Adversarial-Prompt) | Generator Level | IT2T |
 |[**Efficient LLM-Jailbreaking by Introducing Visual Modality**](https://arxiv.org/abs/2405.20015) | Arxiv 2024 | 2024/05/30 | None | Generator Level | IT2T |
-|[**White-box Multimodal Jailbreaks Against Large Vision-Language Models**](https://arxiv.org/abs/2405.17894) | Arxiv 2024 | 2024/05/28 | None | Generator Level | IT2T |
+|[**White-box Multimodal Jailbreaks Against Large Vision-Language Models**](https://arxiv.org/abs/2405.17894) | ACM Multimedia 2024 | 2024/05/28 | None | Generator Level | IT2T |
 |[**Visual-RolePlay: Universal Jailbreak Attack on MultiModal Large Language Models via Role-playing Image Character**](https://arxiv.org/abs/2405.20773) | Arxiv 2024 | 2024/05/25 | None | Input Level | IT2T |
 |[**Images are Achilles' Heel of Alignment: Exploiting Visual Vulnerabilities for Jailbreaking Multimodal Large Language Models**](https://arxiv.org/abs/2403.09792) | ECCV 2024 | 2024/05/14 | [Github](https://github.com/RUCAIBox/HADES)| Generator Level | IT2T |
 |[**Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast**](https://arxiv.org/abs/2402.08567) | ICML 2024 | 2024/02/13 | [Github](https://github.com/sail-sg/Agent-Smith) | Decoder Level | IT2T |
