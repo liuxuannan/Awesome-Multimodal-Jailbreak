@@ -92,7 +92,7 @@ But we don't stop there; Our repository is constantly updated to ensure you have
 - Encoder-level attack: Attackers are restricted to accessing only the encoders to provoke harmful responses. In this case, attackers typically seek to maximize cosine similarity within the latent space, ensuring the adversarial input retains similar semantics to the target malicious content while still being classified as safe.
 - Generator-level attack: Attackers have unrestricted access to the generative model’s architecture and checkpoint, enabling attackers to conduct thorough investigations and manipulations, thus enabling sophisticated attacks.
 
-<img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreal_attack_B.png" alt="jailbreak_attack_white_and_gray_box" />
+<img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_attack_B.png" alt="jailbreak_attack_white_and_gray_box" />
 
 ### 📑Papers
 Below are the papers related to jailbreak attacks.
