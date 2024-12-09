@@ -275,8 +275,8 @@ Below are the papers related to jailbreak defense.
 |**Unsafe Diffusion** | Collected & Reconstructed | --- | 1434 | --- | [Github](https://github.com/YitingQu/unsafe-diffusion)  |
 |**MACE-Celebrity** | Collected | --- | 1000 | --- | [Github](https://github.com/Shilin-LU/MACE)  |
 |**MACE-Art** | Reconstructed | --- | 1000 | --- | [Github](https://github.com/Shilin-LU/MACE)  |
-|**MPUP** | Synthesized | --- | 1200 | 4 | --- | [Huggingface](https://huggingface.co/datasets/tongliuphysics/multimodalpragmatic)  |
-|**T2VSafetyBench** | Reconstructed & Synthesized & Adversarial | --- | 4400 | 12 | --- | [Github](https://github.com/yibo-miao/T2VSafetyBench/tree/main)  |
+|**MPUP** | Synthesized | --- | 1200 | 4 | [Huggingface](https://huggingface.co/datasets/tongliuphysics/multimodalpragmatic)  |
+|**T2VSafetyBench** | Reconstructed & Synthesized & Adversarial | --- | 4400 | 12 |  [Github](https://github.com/yibo-miao/T2VSafetyBench/tree/main)  |
 
 
 ### 📚Evaluation Methods
