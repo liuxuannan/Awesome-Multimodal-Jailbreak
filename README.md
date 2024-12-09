@@ -272,7 +272,7 @@ Below are the papers related to jailbreak defense.
 - Manual evaluation involves human assessment to determine if the content is toxic, offering a direct and interpretable method of evaluation.
 - Automated approaches assess the safety of multimodal generative models by employing a range of techniques, including detector-based, GPT-based, and rule-based methods.
 
-<img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_evaluation_00.png" alt="jailbreak_evaluation" width="600" />
+<img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_evaluation.png" alt="jailbreak_evaluation" width="600" />
 
 <!-- **Detector-based approaches utilize pre-trained classifiers to automatically detect and identify harmful content within generated outputs. These classifiers are trained on large, annotated datasets that cover a range of unsafe categories, such as toxicity, violence, or explicit material. By leveraging these pre-trained models, detector-based methods can efficiently flag inappropriate content.** -->
 
