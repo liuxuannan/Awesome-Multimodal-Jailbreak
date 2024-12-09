@@ -251,26 +251,28 @@ Below are the papers related to jailbreak defense.
 ### ⭐️Evaluation Datasets
 
 #### Used to Any-to-Text Models
-|  Dataset  |   Task  |   Text Source   |   Image Source   | Volume |  Access  | 
+|  Dataset  | Text Source   |   Image Source   | Volume | Theme | Access  | 
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
-|**SafeBench** | Attack | GPT generation | Typography | 500 | [Github](https://github.com/ThuCCSLab/FigStep)  |
-|**AdvBench** | Attack | LLM generation | N/A | 500 | [Github](https://github.com/llm-attacks/llm-attacks)  |
-|**ReadTeam-2K** | Attack | Exist. & GPT Generation | N/A | 2000 | [Huggingface](https://huggingface.co/datasets/JailbreakV-28K/JailBreakV-28k)  |
-|**HarmBench** | Attack & Defense | Unpublished | N/A | 320 | [Github](https://github.com/centerforaisafety/HarmBench)  |
-|**HADES** | Defense | GPT generation | Typography & Diffusion Generation | 750 | [Github](https://github.com/AoiDragon/HADES)  |
-|**MM-SafetyBench** | Defense | GPT generation | Typography & Diffusion Generation | 5040 | [Github](https://github.com/isXinLiu/MM-SafetyBench)  |
-|**JailBreakV-28K** | Defense | Adv. Prompt on ReadTeam-2K | Blank & Noise & Natural & Synthesize | 28000 | [Huggingface](https://huggingface.co/datasets/JailbreakV-28K/JailBreakV-28k)  |
-|**VLGuard** | Defense | GPT generation | Exist. | 3000 | [Huggingface](https://huggingface.co/datasets/ys-zong/VLGuard)  |
+|**Figstep** | Synthesized | Adversarial | 500 | 10 | [Github](https://github.com/ThuCCSLab/FigStep)  |
+|**AdvBench** | Synthesized | --- | 500 | --- | [Github](https://github.com/llm-attacks/llm-attacks)  |
+|**ReadTeam-2K** | Collected & Reconstructed & Synthesized | N/A | 2000 | 16 | [Huggingface](https://huggingface.co/datasets/JailbreakV-28K/JailBreakV-28k)  |
+|**HarmBench** | Collected | --- | 510 | 4 | [Github](https://github.com/centerforaisafety/HarmBench)  |
+|**HADES** | Synthesized | Collected & Synthesized & Adversarial | 750 | 5 | [Github](https://github.com/AoiDragon/HADES)  |
+|**MM-SafetyBench** | Synthesized | Synthesized & Adversarial | 5040 | 13 | [Github](https://github.com/isXinLiu/MM-SafetyBench)  |
+|**JailBreakV-28K** | Adversarial | Reconstructed & Synthesized | 28000 | 16 | [Huggingface](https://huggingface.co/datasets/JailbreakV-28K/JailBreakV-28k)  |
 
 #### Used to Any-to-Vision Models
-|  Dataset  |   Task  |   Text Source   |   Image Source   | Volume |  Access  | 
+|  Dataset  |   Text Source   |   Image Source   | Volume |  Access  | Theme |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
-|**NSFW-200** | Attack | Human curation | N/A | 200 | [Github](https://github.com/Yuchen413/text2imagesafety)  |
-|**MMA** | Attack | Exist.& Adv. Prompt | N/A | 1000 | [Huggingface](https://huggingface.co/datasets/YijunYang280/MMA-Diffusion-NSFW-adv-prompts-benchmark)  |
-|**VBCDE-100** | Attack | Human curation | N/A | 100 | [Github](https://github.com/researchcode001/Divide-and-Conquer-Attack)  |
-|**I2P** | Attack & Defense | Real-world Website | Real-world Website | 4703 | [Huggingface](https://huggingface.co/datasets/AIML-TUDA/i2p)  |
-|**Unsafe Diffusion** | Defense | Human curation& Website&Exist. | N/A | 1434 | [Github](https://github.com/YitingQu/unsafe-diffusion)  |
-|**MACE** | Defense | Human curation | Diffusion Generation | 200 | [Github](https://github.com/Shilin-LU/MACE)  |
+|**NSFW-200** | Synthesized | --- | 200 | --- | [Github](https://github.com/Yuchen413/text2imagesafety)  |
+|**MMA** | Reconstructed & Adversarial | Adversarial | 1000 | --- | [Huggingface](https://huggingface.co/datasets/YijunYang280/MMA-Diffusion-NSFW-adv-prompts-benchmark)  |
+|**VBCDE** | Reconstructed & Adversarial | --- | 100 | 5 | [Github](https://github.com/researchcode001/Divide-and-Conquer-Attack)  |
+|**I2P** | Collected | Collected | 4703 | 7 | [Huggingface](https://huggingface.co/datasets/AIML-TUDA/i2p)  |
+|**Unsafe Diffusion** | Collected & Reconstructed | --- | 1434 | --- | [Github](https://github.com/YitingQu/unsafe-diffusion)  |
+|**MACE-Celebrity** | Collected | --- | 1000 | --- | [Github](https://github.com/Shilin-LU/MACE)  |
+|**MACE-Art** | Reconstructed | --- | 1000 | --- | [Github](https://github.com/Shilin-LU/MACE)  |
+|**MPUP** | Synthesized | --- | 1200 | 4 | --- | [Huggingface](https://huggingface.co/datasets/tongliuphysics/multimodalpragmatic)  |
+|**T2VSafetyBench** | Reconstructed & Synthesized & Adversarial | --- | 4400 | 12 | --- | [Huggingface](https://huggingface.co/datasets/tongliuphysics/multimodalpragmatic)  |
 
 
 ### 📚Evaluation Methods
