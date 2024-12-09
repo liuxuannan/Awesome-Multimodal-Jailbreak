@@ -7,7 +7,7 @@
 We've curated a collection of the latest 😋, most comprehensive 😎, and most valuable 🤩 resources on Jailbreak Attack and Defense against Multimodel Generative Models.<br> 
 But we don't stop there; Our repository is constantly updated to ensure you have the most current information at your fingertips.
 
-![survey model](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/examples.png)
+![survey model](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/page_1_00.png)
 
 ## 🤗Introduction
 
