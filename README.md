@@ -170,7 +170,7 @@ Below are the papers related to jailbreak attacks.
 
 - Transformative Defense: aims to produce appropriate and safe responses in the presence of malicious or adversarial inputs.
 
-<img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_transformative_defense.png" alt="jailbreak_transformative_defense" />
+<img src="https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak/blob/main/pic/jailbreak_transformertive_defense.png" alt="jailbreak_transformative_defense" />
 
 ### 📑Papers
 
