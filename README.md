@@ -123,7 +123,7 @@ Below are the papers related to jailbreak attacks.
 |[**MM-SafetyBench: A Benchmark for Safety Evaluation of Multimodal Large Language Models**](https://arxiv.org/abs/2311.17600) | ECCV 2024 | 2023/11/29 | [Github](https://github.com/isXinLiu/MM-SafetyBench) | Input Level | IT2T |
 |[**How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs**](https://arxiv.org/abs/2311.16101) | ECCV 2024 | 2023/11/27 | [Github](https://github.com/UCSC-VLAA/vllm-safety-benchmark) | Encoder Level | IT2T |
 |[**Jailbreaking GPT-4V via Self-Adversarial Attacks with System Prompts**](https://arxiv.org/abs/2311.09127) | Arxiv 2023 | 2023/11/15 | None | Output Level | IT2T |
-|[**FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts**](https://arxiv.org/abs/2311.05608) | Arxiv 2023 | 2023/11/09 | [Github](https://github.com/ThuCCSLab/FigStep) | Input Level | IT2T |
+|[**FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts**](https://arxiv.org/abs/2311.05608) | AAAI 2025 | 2023/11/09 | [Github](https://github.com/ThuCCSLab/FigStep) | Input Level | IT2T |
 |[**Are aligned neural networks adversarially aligned?**](https://arxiv.org/abs/2306.15447) | NeurIPS 2023 | 2023/06/26 | None | Generator Level | IT2T |
 |[**Visual Adversarial Examples Jailbreak Aligned Large Language Models**](https://arxiv.org/abs/2306.13213) | AAAI 2024 | 2023/06/22 | [Github](https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models) | Generator Level | IT2T |
 |[**On Evaluating Adversarial Robustness of Large Vision-Language Models**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a97b58c4f7551053b0512f92244b0810-Abstract-Conference.html) | NeurIPS 2023 | 2023/05/26 | [Homepage](https://yunqing-me.github.io/AttackVLM/) | Encoder Level | IT2T |
@@ -186,6 +186,7 @@ Below are the papers related to jailbreak defense.
 ## Jailbreak Defense of Any-to-Text Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy | Multimodal Model |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[**Defending LVLMs Against Vision Attacks through Partial-Perception Supervision**](https://arxiv.org/abs/2412.12722) | Arxiv 2024 | 2024/12/17 | None | --- | I+T→T |
 |[**Immune: Improving Safety Against Jailbreaks in Multi-modal LLMs via Inference-Time Alignment**](https://arxiv.org/abs/2411.18688) | Arxiv 2024 | 2024/11/27 | None | Output Level | IT2T |
 |[**Steering Away from Harm: An Adaptive Approach to Defending Vision Language Model Against Jailbreaks**](https://arxiv.org/abs/2411.16721) | Arxiv 2024 | 2024/11/23 | None | Generator Level | IT2T |
 |[**Uniguard: Towards universal safety guardrails for jailbreak attacks on multimodal large language models**](https://arxiv.org/abs/2411.01703) | Arxiv 2024 | 2024/11/03 | None | Input Level | IT2T |
@@ -213,6 +214,7 @@ Below are the papers related to jailbreak defense.
 ## Jailbreak Defense of Any-to-Vision Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy | Multimodal Model |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[**SafeCFG: Redirecting Harmful Classifier-Free Guidance for Safe Generation**](https://arxiv.org/abs/2412.16039) | Arxiv 2024 | 2024/12/20 | [Github](https://github.com/Visualignment/SafetyDPO) | --- | T2I |
 |[**SafetyDPO: Scalable Safety Alignment for Text-to-Image Generation**](https://arxiv.org/abs/2412.10493) | Arxiv 2024 | 2024/12/13 | [Github](https://github.com/Visualignment/SafetyDPO) | --- | T2I |
 |[**TraSCE: Trajectory Steering for Concept Erasure**](https://arxiv.org/abs/2412.07658) | Arxiv 2024 | 2024/12/10 | None | --- | T2I |
 |[**Buster: Incorporating Backdoor Attacks into Text Encoder to Mitigate NSFW Content Generation**](https://arxiv.org/abs/2412.07249) | Arxiv 2024 | 2024/12/10 | [Github](https://github.com/anubhav1997/TraSCE/) | --- | T2I |
