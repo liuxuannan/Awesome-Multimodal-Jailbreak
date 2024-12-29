@@ -99,6 +99,7 @@ Below are the papers related to jailbreak attacks.
 ## Jailbreak Attack of Any-to-Text Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy |  Multimodal Model|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[**Divide and Conquer: A Hybrid Strategy Defeats Multimodal Large Language Models**](https://arxiv.org/abs/2412.16555) | Arxiv 2024 | 2024/12/21 | None | --- | I+T+A→T |
 |[**Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models**](https://arxiv.org/abs/2412.05934) | Arxiv 2024 | 2024/12/8 | None | --- | I+T→T |
 |[**BAMBA: A Bimodal Adversarial Multi-Round Black-Box Jailbreak Attacker for LVLMs**](https://arxiv.org/abs/2412.05892) | Arxiv 2024 | 2024/12/8 | None | --- | I+T→T |
 |[**Jailbreak Large Vision-Language Models Through Multi-Modal Linkage**](https://arxiv.org/abs/2412.00473) | Arxiv 2024 | 2024/11/30 | [Github](https://github.com/wangyu-ovo/MML) | --- | I+T→T |
@@ -107,7 +108,6 @@ Below are the papers related to jailbreak attacks.
 |[**Zer0-Jack: A memory-efficient gradient-based jailbreaking method for black box Multi-modal Large Language Models**](https://arxiv.org/abs/2411.07559) | Neurips SafeGenAi Workshop 2024 | 2024/11/12 | None | Output Level | I+T→T |
 |[**Audio is the achilles’heel: Red teaming audio large multimodal models**](https://arxiv.org/abs/2410.23861) | Arxiv 2024 | 2024/10/31 | None | Input Level | A+T→T |
 |[**Advweb: Controllable black-box attacks on vlm-powered web agents**](https://arxiv.org/abs/2410.17401) | Arxiv 2024 | 2024/10/22 | None | Input Level | I+T→T |
-|[**Image Hijacks: Adversarial Images can Control Generative Models at Runtime**](https://arxiv.org/abs/2309.00236) | ICML 2024 | 2024/09/01 | [Github](https://github.com/euanong/image-hijacks) | Generator Level | I+T→T |
 |[**Can Large Language Models Automatically Jailbreak GPT-4V?**](https://arxiv.org/abs/2407.16686) | NAACL Workshop 2024 | 2024/07/23 | None | Input Level | I+T→T |
 |[**Arondight: Red Teaming Large Vision Language Models with Auto-generated Multi-modal Jailbreak Prompts**](https://arxiv.org/abs/2407.15050) | ACM MM 2024 | 2024/07/21 | None | Input Level | I+T→T |
 |[**Image-to-Text Logic Jailbreak: Your Imagination can Help You Do Anything**](https://arxiv.org/abs/2407.02534) | Arxiv 2024 | 2024/07/01 | None | Input Level | I+T→T |
@@ -124,6 +124,7 @@ Below are the papers related to jailbreak attacks.
 |[**How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs**](https://arxiv.org/abs/2311.16101) | ECCV 2024 | 2023/11/27 | [Github](https://github.com/UCSC-VLAA/vllm-safety-benchmark) | Encoder Level | I+T→T |
 |[**Jailbreaking GPT-4V via Self-Adversarial Attacks with System Prompts**](https://arxiv.org/abs/2311.09127) | Arxiv 2023 | 2023/11/15 | None | Output Level | I+T→T |
 |[**FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts**](https://arxiv.org/abs/2311.05608) | AAAI 2025 | 2023/11/09 | [Github](https://github.com/ThuCCSLab/FigStep) | Input Level | I+T→T |
+|[**Image Hijacks: Adversarial Images can Control Generative Models at Runtime**](https://arxiv.org/abs/2309.00236) | ICML 2024 | 2023/09/01 | [Github](https://github.com/euanong/image-hijacks) | Generator Level | I+T→T |
 |[**Are aligned neural networks adversarially aligned?**](https://arxiv.org/abs/2306.15447) | NeurIPS 2023 | 2023/06/26 | None | Generator Level | I+T→T |
 |[**Visual Adversarial Examples Jailbreak Aligned Large Language Models**](https://arxiv.org/abs/2306.13213) | AAAI 2024 | 2023/06/22 | [Github](https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models) | Generator Level | I+T→T |
 |[**On Evaluating Adversarial Robustness of Large Vision-Language Models**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a97b58c4f7551053b0512f92244b0810-Abstract-Conference.html) | NeurIPS 2023 | 2023/05/26 | [Homepage](https://yunqing-me.github.io/AttackVLM/) | Encoder Level | I+T→T |
@@ -133,7 +134,6 @@ Below are the papers related to jailbreak attacks.
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy | Multimodal Model |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
 |[**Antelope: Potent and Concealed Jailbreak Attack Strategy**](https://arxiv.org/abs/2412.08156) | Arxiv 2024 | 2024/12/11 | None | --- | T→I |
-|[**BAMBA: A Bimodal Adversarial Multi-Round Black-Box Jailbreak Attacker for LVLMs**](https://arxiv.org/abs/2412.05892) | Arxiv 2024 | 2024/12/8 | None | --- | T→I |
 |[**In-Context Experience Replay Facilitates Safety Red-Teaming of Text-to-Image Diffusion Models**](https://arxiv.org/abs/2411.16769) | Arxiv 2024 | 2024/11/25 | None | Output Level | T→I |
 |[**Unfiltered and Unseen: Universal Multimodal Jailbreak Attacks on Text-to-Image Model Defenses**](https://openreview.net/forum?id=sshYEYQ82L) | Openreview | 2024/11/13 | None | --- | T→I |
 |[**AdvI2I: Adversarial Image Attack on Image-to-Image Diffusion models**](https://arxiv.org/abs/2410.21471) | Arxiv 2024 | 2024/10/28 | [Github](https://github.com/Spinozaaa/AdvI2I) | Encoder Level | T→I |
@@ -214,10 +214,12 @@ Below are the papers related to jailbreak defense.
 ## Jailbreak Defense of Any-to-Vision Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy | Multimodal Model |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[**AEIOU: A Unified Defense Framework against NSFW Prompts in Text-to-Image Models**](https://arxiv.org/abs/2412.18123) | Arxiv 2024 | 2024/12/24 | None | --- | T→I |
 |[**SafeCFG: Redirecting Harmful Classifier-Free Guidance for Safe Generation**](https://arxiv.org/abs/2412.16039) | Arxiv 2024 | 2024/12/20 | [Github](https://github.com/Visualignment/SafetyDPO) | --- | T→I |
 |[**SafetyDPO: Scalable Safety Alignment for Text-to-Image Generation**](https://arxiv.org/abs/2412.10493) | Arxiv 2024 | 2024/12/13 | [Github](https://github.com/Visualignment/SafetyDPO) | --- | T→I |
 |[**TraSCE: Trajectory Steering for Concept Erasure**](https://arxiv.org/abs/2412.07658) | Arxiv 2024 | 2024/12/10 | None | --- | T→I |
 |[**Buster: Incorporating Backdoor Attacks into Text Encoder to Mitigate NSFW Content Generation**](https://arxiv.org/abs/2412.07249) | Arxiv 2024 | 2024/12/10 | [Github](https://github.com/anubhav1997/TraSCE/) | --- | T→I |
+|[**Safeguarding Text-to-Image Generation via Inference-Time Prompt-Noise Optimization**](https://arxiv.org/abs/2412.03876) | Arxiv 2024 | 2024/12/05 | None | --- | T→I |
 |[**Safety Alignment Backfires: Preventing the Re-emergence of Suppressed Concepts in Fine-tuned Text-to-Image Diffusion Models**](https://arxiv.org/abs/2412.00357) | Arxiv 2024 | 2024/11/30 | None | --- | T→I |
 |[**Safety Without Semantic Disruptions: Editing-free Safe Image Generation via Context-preserving Dual Latent Reconstruction**](https://arxiv.org/abs/2411.13982) | Arxiv 2024 | 2024/11/21 | None | --- | T→I |
 |[**Safe Text-to-Image Generation:Simply Sanitize the Prompt Embedding**](https://arxiv.org/abs/2411.10329) | Arxiv 2024 | 2024/11/15 | None | Encoder Level | T→I |
