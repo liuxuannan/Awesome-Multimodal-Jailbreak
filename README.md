@@ -101,7 +101,7 @@ Below are the papers related to jailbreak attacks.
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
 |[**Divide and Conquer: A Hybrid Strategy Defeats Multimodal Large Language Models**](https://arxiv.org/abs/2412.16555) | Arxiv 2024 | 2024/12/21 | None | --- | I+T+A→T |
 |[**Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models**](https://arxiv.org/abs/2412.05934) | Arxiv 2024 | 2024/12/8 | None | --- | I+T→T |
-|[**BAMBA: A Bimodal Adversarial Multi-Round Black-Box Jailbreak Attacker for LVLMs**](https://arxiv.org/abs/2412.05892) | Arxiv 2024 | 2024/12/8 | None | --- | I+T→T |
+|[**PBI-Attack: Prior-Guided Bimodal Interactive Black-Box Jailbreak Attack for Toxicity Maximization**](https://arxiv.org/abs/2412.05892) | Arxiv 2024 | 2024/12/8 | None | --- | I+T→T |
 |[**Jailbreak Large Vision-Language Models Through Multi-Modal Linkage**](https://arxiv.org/abs/2412.00473) | Arxiv 2024 | 2024/11/30 | [Github](https://github.com/wangyu-ovo/MML) | --- | I+T→T |
 |[**Safe + Safe = Unsafe? Exploring How Safe Images Can Be Exploited to Jailbreak Large Vision-Language Models**](https://arxiv.org/abs/2411.11496) | Arxiv 2024 | 2024/11/18 | None | Output Level | I+T→T |
 |[**IDEATOR: Jailbreaking Large Vision-Language Models Using Themselves**](https://arxiv.org/abs/2411.00827) | Arxiv 2024 | 2024/11/15 | None | Output Level | I+T→T |
@@ -186,6 +186,7 @@ Below are the papers related to jailbreak defense.
 ## Jailbreak Defense of Any-to-Text Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy | Multimodal Model |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[**Spot Risks Before Speaking! Unraveling Safety Attention Heads in Large Vision-Language Models**](https://arxiv.org/abs/2501.02029) | Arxiv 2025 | 2025/01/03 | [Github](https://github.com/Ziwei-Zheng/SAHs) | --- | I+T→T |
 |[**Defending LVLMs Against Vision Attacks through Partial-Perception Supervision**](https://arxiv.org/abs/2412.12722) | Arxiv 2024 | 2024/12/17 | None | --- | I+T→T |
 |[**Immune: Improving Safety Against Jailbreaks in Multi-modal LLMs via Inference-Time Alignment**](https://arxiv.org/abs/2411.18688) | Arxiv 2024 | 2024/11/27 | None | Output Level | I+T→T |
 |[**Steering Away from Harm: An Adaptive Approach to Defending Vision Language Model Against Jailbreaks**](https://arxiv.org/abs/2411.16721) | Arxiv 2024 | 2024/11/23 | None | Generator Level | I+T→T |
@@ -214,8 +215,10 @@ Below are the papers related to jailbreak defense.
 ## Jailbreak Defense of Any-to-Vision Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy | Multimodal Model |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[**PromptGuard: Soft Prompt-Guided Unsafe Content Moderation for Text-to-Image Models**](https://arxiv.org/abs/2501.03544) | Arxiv 2025 | 2025/01/07 | [Homepage](https://prompt-guard.github.io/) | --- | T→I |
+|[**DuMo: Dual Encoder Modulation Network for Precise Concept Erasure**](https://arxiv.org/abs/2501.01125) | AAAI 2025 | 2025/01/02 | [Github](https://github.com/Maplebb/DuMo) | --- | T→I |
 |[**AEIOU: A Unified Defense Framework against NSFW Prompts in Text-to-Image Models**](https://arxiv.org/abs/2412.18123) | Arxiv 2024 | 2024/12/24 | None | --- | T→I |
-|[**SafeCFG: Redirecting Harmful Classifier-Free Guidance for Safe Generation**](https://arxiv.org/abs/2412.16039) | Arxiv 2024 | 2024/12/20 | [Github](https://github.com/Visualignment/SafetyDPO) | --- | T→I |
+|[**SafeCFG: Redirecting Harmful Classifier-Free Guidance for Safe Generation**](https://arxiv.org/abs/2412.16039) | Arxiv 2024 | 2024/12/20 | None | --- | T→I |
 |[**SafetyDPO: Scalable Safety Alignment for Text-to-Image Generation**](https://arxiv.org/abs/2412.10493) | Arxiv 2024 | 2024/12/13 | [Github](https://github.com/Visualignment/SafetyDPO) | --- | T→I |
 |[**TraSCE: Trajectory Steering for Concept Erasure**](https://arxiv.org/abs/2412.07658) | Arxiv 2024 | 2024/12/10 | None | --- | T→I |
 |[**Buster: Incorporating Backdoor Attacks into Text Encoder to Mitigate NSFW Content Generation**](https://arxiv.org/abs/2412.07249) | Arxiv 2024 | 2024/12/10 | [Github](https://github.com/anubhav1997/TraSCE/) | --- | T→I |
