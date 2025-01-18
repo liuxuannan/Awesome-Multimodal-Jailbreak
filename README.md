@@ -99,6 +99,7 @@ Below are the papers related to jailbreak attacks.
 ## Jailbreak Attack of Any-to-Text Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy |  Multimodal Model|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[**Jailbreaking Multimodal Large Language Models via Shuffle Inconsistency**](https://arxiv.org/abs/2501.04931) | Arxiv 2025 | 2025/1/09 | None | --- | I+T→T |
 |[**Divide and Conquer: A Hybrid Strategy Defeats Multimodal Large Language Models**](https://arxiv.org/abs/2412.16555) | Arxiv 2024 | 2024/12/21 | None | --- | I+T+A→T |
 |[**Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models**](https://arxiv.org/abs/2412.05934) | Arxiv 2024 | 2024/12/8 | None | --- | I+T→T |
 |[**PBI-Attack: Prior-Guided Bimodal Interactive Black-Box Jailbreak Attack for Toxicity Maximization**](https://arxiv.org/abs/2412.05892) | Arxiv 2024 | 2024/12/8 | None | --- | I+T→T |
@@ -115,6 +116,7 @@ Below are the papers related to jailbreak attacks.
 |[**Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt**](https://arxiv.org/abs/2406.04031) | Arxiv 2024 | 2024/06/06 | [Github](https://github.com/NY1024/BAP-Jailbreak-Vision-Language-Models-via-Bi-Modal-Adversarial-Prompt) | Generator Level | I+T→T |
 |[**Efficient LLM-Jailbreaking by Introducing Visual Modality**](https://arxiv.org/abs/2405.20015) | Arxiv 2024 | 2024/05/30 | None | Generator Level | I+T→T |
 |[**White-box Multimodal Jailbreaks Against Large Vision-Language Models**](https://arxiv.org/abs/2405.17894) | ACM Multimedia 2024 | 2024/05/28 | None | Generator Level | I+T→T |
+|[**Medical MLLM is Vulnerable: Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models**](https://arxiv.org/abs/2405.20775) | Arxiv 2024 | 2024/05/26 | [Github](https://github.com/dirtycomputer/O2M_attack) | --- | I+T→T |
 |[**Visual-RolePlay: Universal Jailbreak Attack on MultiModal Large Language Models via Role-playing Image Character**](https://arxiv.org/abs/2405.20773) | Arxiv 2024 | 2024/05/25 | None | Input Level | I+T→T |
 |[**Images are Achilles' Heel of Alignment: Exploiting Visual Vulnerabilities for Jailbreaking Multimodal Large Language Models**](https://arxiv.org/abs/2403.09792) | ECCV 2024 | 2024/05/14 | [Github](https://github.com/RUCAIBox/HADES)| Generator Level | I+T→T |
 |[**Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast**](https://arxiv.org/abs/2402.08567) | ICML 2024 | 2024/02/13 | [Github](https://github.com/sail-sg/Agent-Smith) | Generator Level | I+T→T |
@@ -211,10 +213,10 @@ Below are the papers related to jailbreak defense.
 
 
 
-
 ## Jailbreak Defense of Any-to-Vision Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy | Multimodal Model |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[**CROPS: Model-Agnostic Training-Free Framework for Safe Image Synthesis with Latent Diffusion Models**](https://arxiv.org/abs/2501.05359) | Arxiv 2025 | 2025/01/09 | [Homepage](https://prompt-guard.github.io/) | --- | T→I |
 |[**PromptGuard: Soft Prompt-Guided Unsafe Content Moderation for Text-to-Image Models**](https://arxiv.org/abs/2501.03544) | Arxiv 2025 | 2025/01/07 | [Homepage](https://prompt-guard.github.io/) | --- | T→I |
 |[**DuMo: Dual Encoder Modulation Network for Precise Concept Erasure**](https://arxiv.org/abs/2501.01125) | AAAI 2025 | 2025/01/02 | [Github](https://github.com/Maplebb/DuMo) | --- | T→I |
 |[**AEIOU: A Unified Defense Framework against NSFW Prompts in Text-to-Image Models**](https://arxiv.org/abs/2412.18123) | Arxiv 2024 | 2024/12/24 | None | --- | T→I |
