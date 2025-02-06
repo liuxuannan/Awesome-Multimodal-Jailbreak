@@ -218,7 +218,7 @@ Below are the papers related to jailbreak defense.
 |[**Safety fine-tuning at (almost) no cost: A baseline for vision large language models**](https://arxiv.org/abs/2402.02207) | ICML 2024 | 2024/02/03 | [Github](https://github.com/ys-zong/VLGuard) | Generator Level | I+T→T |
 |[**Inferaligner: Inference-time alignment for harmlessness through cross-model guidance**](https://arxiv.org/abs/2401.11206) | EMNLP 2024 | 2024/01/20 | [Github](https://github.com/Jihuai-wpy/InferAligner) | Generator Level | I+T→T |
 |[**Mllm-protector: Ensuring mllm’s safety without hurting performance**](https://arxiv.org/abs/2401.02906) | EMNLP 2024 | 2024/01/05 | [Github](https://github.com/pipilurj/MLLM-protector) | Output Level | I+T→T |
-|[**Jailguard: A universal detection framework for llm prompt-based attacks**](https://arxiv.org/abs/2312.10766) | Arxiv 2023 | 2023/12/17 | None | Output Level | I+T→T |
+|[**Jailguard: A universal detection framework for llm prompt-based attacks**](https://arxiv.org/abs/2312.10766) | Arxiv 2023 | 2023/12/17 | [Github](https://github.com/shiningrain/JailGuard) | Output Level | I+T→T |
 |[**Safety-tuned llamas: Lessons from improving the safety of large language models that follow instructions**](https://arxiv.org/abs/2309.07875) | ICLR 2024 | 2023/09/14 | [Github](https://github.com/vinid/safety-tuned-llamas) | Generator Level | I+T→T |
 
 
