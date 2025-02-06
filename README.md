@@ -148,7 +148,7 @@ Below are the papers related to jailbreak attacks.
 |[**Chain-of-Jailbreak Attack for Image Generation Models via Editing Step by Step**](https://arxiv.org/abs/2410.03869) | Arxiv 2024 | 2024/10/4 | None | Output Level | T→I |
 |[**ColJailBreak: Collaborative Generation and Editing for Jailbreaking Text-to-Image Deep Generation**](https://openreview.net/forum?id=eGIzeTmAtE) | NeurIPS 2024 | 2024/9/25 | [Github](https://github.com/tsingqguo/coljailbreak) | Input Level | T→I |
 |[**HTS-Attack: Heuristic Token Search for Jailbreaking Text-to-Image Models**](https://arxiv.org/abs/2408.13896) | Arxiv 2024 | 2024/08/25 | None | Output Level | T→I |
-|[**Perception-guided Jailbreak against Text-to-Image Models**](https://arxiv.org/abs/2408.10848) | Arxiv 2024 | 2024/08/20 | None | Input Level | T→I |
+|[**Perception-guided Jailbreak against Text-to-Image Models**](https://arxiv.org/abs/2408.10848) | AAAI 2025 | 2024/08/20 | None | Input Level | T→I |
 |[**DiffZOO: A Purely Query-Based Black-Box Attack for Red-teaming Text-to-Image Generative Model via Zeroth Order Optimization**](https://arxiv.org/abs/2408.11071) | Arxiv 2024 | 2024/08/18 | None | Output Level | T→I |
 |[**Jailbreaking Prompt Attack: A Controllable Adversarial Attack against Diffusion Models**](https://arxiv.org/abs/2404.02928) | Arxiv 2024 | 2024/08/02 | None | Encoder Level | T→I |
 |[**Jailbreaking Text-to-Image Models with LLM-Based Agents**](https://arxiv.org/abs/2408.00523) | Arxiv 2024 | 2024/08/01 | None | Output Level | T→I |
