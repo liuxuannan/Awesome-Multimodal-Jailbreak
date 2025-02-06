@@ -205,7 +205,7 @@ Below are the papers related to jailbreak defense.
 |[**Uniguard: Towards universal safety guardrails for jailbreak attacks on multimodal large language models**](https://arxiv.org/abs/2411.01703) | Arxiv 2024 | 2024/11/03 | None | Input Level | I+T→T |
 |[**Effective and Efficient Adversarial Detection for Vision-Language Models via A Single Vector**](https://arxiv.org/abs/2410.22888) | Arxiv 2024 | 2024/10/30 | None | Generator Level | I+T→T |
 |[**BlueSuffix: Reinforced Blue Teaming for Vision-Language Models Against Jailbreak Attacks**](https://arxiv.org/abs/2410.20971) | Arxiv 2024 | 2024/10/28 | None | Input Level | I+T→T |
-|[**Information-theoretical principled trade-off between jailbreakability and stealthiness on vision language models**](https://arxiv.org/abs/2410.01438) | Arxiv 2024 | 2024/10/02 | None | Input Level | I+T→T |
+|[**The Great Contradiction Showdown: How Jailbreak and Stealth Wrestle in Vision-Language Models?**](https://arxiv.org/abs/2410.01438) | Arxiv 2024 | 2024/10/02 | None | Input Level | I+T→T |
 |[**CoCA: Regaining Safety-awareness of Multimodal Large Language Models with Constitutional Calibration**](https://arxiv.org/abs/2409.11365) | COLM 2024 | 2024/9/17 | None | Output Level | I+T→T |
 |[**Securing Vision-Language Models with a Robust Encoder Against Jailbreak and Adversarial Attacks**](https://arxiv.org/abs/2409.07353) | Arxiv 2024 | 2024/09/11 | None | Encoder Level | I+T→T |
 |[**Bathe: Defense against the jailbreak attack in multimodal large language models by treating harmful instruction as backdoor trigger**](https://arxiv.org/abs/2408.09093) | Arxiv 2024 | 2024/08/17 | None | Generator Level | I+T→T |
