@@ -99,7 +99,7 @@ Below are the papers related to jailbreak attacks.
 ## Jailbreak Attack of Any-to-Text Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy |  Multimodal Model|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
-|[**From Compliance to Exploitation: Jailbreak Prompt Attacks on Multimodal LLMs**](https://arxiv.org/abs/2502.00718) | Arxiv 2025 | 2025/02/02 | None | --- | A+T→T |
+|[**From Compliance to Exploitation: Jailbreak Prompt Attacks on Multimodal LLMs**](https://arxiv.org/abs/2502.00735) | Arxiv 2025 | 2025/02/02 | None | --- | A+T→T |
 |[**"I am bad": Interpreting Stealthy, Universal and Robust Audio Jailbreaks in Audio-Language Models**](https://arxiv.org/abs/2502.00718) | Arxiv 2025 | 2025/02/02 | None | --- | A+T→T |
 |[**Tune In, Act Up: Exploring the Impact of Audio Modality-Specific Edits on Large Audio Language Models in Jailbreak**](https://arxiv.org/abs/2501.13772) | Arxiv 2025 | 2025/01/23 | None | --- | A+T→T |
 |[**Jailbreaking Multimodal Large Language Models via Shuffle Inconsistency**](https://arxiv.org/abs/2501.04931) | Arxiv 2025 | 2025/01/09 | None | --- | I+T→T |
