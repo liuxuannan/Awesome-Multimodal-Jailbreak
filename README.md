@@ -228,7 +228,7 @@ Below are the papers related to jailbreak defense.
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
 |[**Distorting Embedding Space for Safety: A Defense Mechanism for Adversarially Robust Diffusion Models**](https://arxiv.org/abs/2501.18877) | Arxiv 2025 | 2025/01/30 | [Github](https://github.com/aei13/DES) | --- | T→I |
 |[**CE-SDWV: Effective and Efficient Concept Erasure for Text-to-Image Diffusion Models via a Semantic-Driven Word Vocabulary**](https://arxiv.org/abs/2501.15562) | Arxiv 2025 | 2025/01/26 | None | --- | T→I |
-|[**CROPS: Model-Agnostic Training-Free Framework for Safe Image Synthesis with Latent Diffusion Models**](https://arxiv.org/abs/2501.05359) | Arxiv 2025 | 2025/01/09 | [Homepage](https://prompt-guard.github.io/) | --- | T→I |
+|[**CROPS: Model-Agnostic Training-Free Framework for Safe Image Synthesis with Latent Diffusion Models**](https://arxiv.org/abs/2501.05359) | Arxiv 2025 | 2025/01/09 | None | --- | T→I |
 |[**PromptGuard: Soft Prompt-Guided Unsafe Content Moderation for Text-to-Image Models**](https://arxiv.org/abs/2501.03544) | Arxiv 2025 | 2025/01/07 | [Homepage](https://prompt-guard.github.io/) | --- | T→I |
 |[**DuMo: Dual Encoder Modulation Network for Precise Concept Erasure**](https://arxiv.org/abs/2501.01125) | AAAI 2025 | 2025/01/02 | [Github](https://github.com/Maplebb/DuMo) | --- | T→I |
 |[**AEIOU: A Unified Defense Framework against NSFW Prompts in Text-to-Image Models**](https://arxiv.org/abs/2412.18123) | Arxiv 2024 | 2024/12/24 | None | --- | T→I |
