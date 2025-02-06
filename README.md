@@ -240,7 +240,7 @@ Below are the papers related to jailbreak defense.
 |[**Safety Alignment Backfires: Preventing the Re-emergence of Suppressed Concepts in Fine-tuned Text-to-Image Diffusion Models**](https://arxiv.org/abs/2412.00357) | Arxiv 2024 | 2024/11/30 | None | --- | T→I |
 |[**Safety Without Semantic Disruptions: Editing-free Safe Image Generation via Context-preserving Dual Latent Reconstruction**](https://arxiv.org/abs/2411.13982) | Arxiv 2024 | 2024/11/21 | None | --- | T→I |
 |[**Safe Text-to-Image Generation:Simply Sanitize the Prompt Embedding**](https://arxiv.org/abs/2411.10329) | Arxiv 2024 | 2024/11/15 | None | Encoder Level | T→I |
-|[**Safree: Training-free and adaptive guard for safe text-to-image and video generation**](https://arxiv.org/abs/2410.12761) | Arxiv 2024 | 2024/10/16 | None | Generator Level | T→I/T→V |
+|[**Safree: Training-free and adaptive guard for safe text-to-image and video generation**](https://arxiv.org/abs/2410.12761) | ICLR 2025 | 2024/10/16 | [Github](https://github.com/jaehong31/SAFREE) | Generator Level | T→I/T→V |
 |[**Shielddiff: Suppressing sexual content generation from diffusion models through reinforcement learning**](https://arxiv.org/abs/2410.05309) | Arxiv 2024 | 2024/10/04 | None | Generator Level | T→I |
 |[**Dark miner: Defend against unsafe generation for text-to-image diffusion models**](https://arxiv.org/html/2409.17682) | Arxiv 2024 | 2024/09/26 | None | Generator Level | T→I |
 |[**Score forgetting distillation: A swift, data-free method for machine unlearning in diffusion models**](https://arxiv.org/abs/2409.11219) | Arxiv 2024 | 2024/09/17 | None | Generator Level | T→I |
