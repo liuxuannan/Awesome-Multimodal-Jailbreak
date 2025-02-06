@@ -162,7 +162,7 @@ Below are the papers related to jailbreak attacks.
 |[**Ring-A-Bell! How Reliable are Concept Removal Methods for Diffusion Models?**](https://arxiv.org/abs/2310.10012) | ICLR 2024 | 2023/10/16 | [Github]( https://github.com/chiayi-hsu/Ring-A-Bell) | Encoder Level | T→I |
 |[**SurrogatePrompt: Bypassing the Safety Filter of Text-To-Image Models via Substitution**](https://arxiv.org/abs/2309.14122) | CCS 2024 | 2023/09/25 | None | Input Level | T→I |
 |[**Prompting4Debugging: Red-Teaming Text-to-Image Diffusion Models by Finding Problematic Prompts**](https://arxiv.org/abs/2309.06135) | ICML 2024 | 2023/09/12 | [Github](https://github.com/joycenerd/P4D) | Generator Level | T→I |
-|[**SneakyPrompt: Jailbreaking Text-to-image Generative Models**](https://arxiv.org/abs/2305.12082) | Symposium on Security and Privacy 2024 | 2023/05/20 | [Github](https://github.com/Yuchen413/texT→Image_safety) | Output Level | T→I |
+|[**SneakyPrompt: Jailbreaking Text-to-image Generative Models**](https://arxiv.org/abs/2305.12082) | Symposium on Security and Privacy 2024 | 2023/05/20 | [Github](https://github.com/Yuchen413/text2image_safety) | Output Level | T→I |
 |[**Red-Teaming the Stable Diffusion Safety Filter**](https://arxiv.org/abs/2210.04610) | NeurIPSW 2022 | 2022/10/03 | None | Input Level | T→I |
 
 
