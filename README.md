@@ -245,7 +245,7 @@ Below are the papers related to jailbreak defense.
 |[**Dark miner: Defend against unsafe generation for text-to-image diffusion models**](https://arxiv.org/html/2409.17682) | Arxiv 2024 | 2024/09/26 | None | Generator Level | T→I |
 |[**Score forgetting distillation: A swift, data-free method for machine unlearning in diffusion models**](https://arxiv.org/abs/2409.11219) | Arxiv 2024 | 2024/09/17 | None | Generator Level | T→I |
 |[**EIUP: A Training-Free Approach to Erase Non-Compliant Concepts Conditioned on Implicit Unsafe Prompts**](https://arxiv.org/abs/2408.01014) | Arxiv 2024 | 2024/08/02 | None | Generator Level | T→I |
-|[**Direct Unlearning Optimization for Robust and Safe Text-to-Image Models**](https://arxiv.org/abs/2407.21035) | ICML GenLaw workshop 2024 | 2024/07/17 | None | Generator Level | T→I |
+|[**Direct Unlearning Optimization for Robust and Safe Text-to-Image Models**](https://arxiv.org/abs/2407.21035) | NeurIPS 2024 | 2024/07/17 | [Github](https://github.com/naver-ai/DUO) | Generator Level | T→I |
 |[**Reliable and Efficient Concept Erasure of Text-to-Image Diffusion Models**](https://arxiv.org/abs/2407.12383) | ECCV 2024 | 2024/07/17 | [Github](https://github.com/CharlesGong12/RECE) | Generator Level | T→I |
 |[**Conceptprune: Concept editing in diffusion models via skilled neuron pruning**](https://arxiv.org/abs/2405.19237) | Arxiv 2024 | 2024/05/29 | [Github](https://github.com/ruchikachavhan/concept-prune) | Generator Level | T→I |
 |[**Pruning for Robust Concept Erasing in Diffusion Models**](https://arxiv.org/abs/2405.16534) | Arxiv 2024 | 2024/05/26 | None | Generator Level | T→I |
