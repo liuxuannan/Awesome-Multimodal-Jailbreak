@@ -99,7 +99,12 @@ Below are the papers related to jailbreak attacks.
 ## Jailbreak Attack of Any-to-Text Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy |  Multimodal Model|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
-|[**From Compliance to Exploitation: Jailbreak Prompt Attacks on Multimodal LLMs**](https://arxiv.org/abs/2502.00735) | Arxiv 2025 | 2025/02/02 | None | --- | A+T→T |
+|[**Utilizing Jailbreak Probability to Attack and Safeguard Multimodal LLMs**](https://arxiv.org/abs/2503.06989) | Arxiv 2025 | 2025/03/10 | None | --- | I+T→T |
+|[**Can't See the Forest for the Trees: Benchmarking Multimodal Safety Awareness for Multimodal LLMs**](https://arxiv.org/abs/2502.11184) | Arxiv 2025 | 2025/02/16 | None | --- | I+T→T |
+|[**FC-Attack: Jailbreaking Large Vision-Language Models via Auto-Generated Flowcharts**](https://arxiv.org/abs/2502.21059) | Arxiv 2025 | 2025/02/28 | None | --- | I+T→T |
+|[**ELITE: Enhanced Language-Image Toxicity Evaluation for Safety**](https://arxiv.org/abs/2502.04757) | Arxiv 2025 | 2025/02/07 | None | --- | I+T→T |
+|[**Distraction is All You Need for Multimodal Large Language Model Jailbreaking**](https://arxiv.org/abs/2502.10794) | CVPR 2025 | 2025/02/15 | None | --- | I+T→T |
+|[**`Do as I say not as I do': A Semi-Automated Approach for Jailbreak Prompt Attack against Multimodal LLMs**](https://arxiv.org/abs/2502.00735) | Arxiv 2025 | 2025/02/02 | None | --- | A+T→T |
 |[**"I am bad": Interpreting Stealthy, Universal and Robust Audio Jailbreaks in Audio-Language Models**](https://arxiv.org/abs/2502.00718) | Arxiv 2025 | 2025/02/02 | None | --- | A+T→T |
 |[**Tune In, Act Up: Exploring the Impact of Audio Modality-Specific Edits on Large Audio Language Models in Jailbreak**](https://arxiv.org/abs/2501.13772) | Arxiv 2025 | 2025/01/23 | None | --- | A+T→T |
 |[**Jailbreaking Multimodal Large Language Models via Shuffle Inconsistency**](https://arxiv.org/abs/2501.04931) | Arxiv 2025 | 2025/01/09 | None | --- | I+T→T |
@@ -139,6 +144,7 @@ Below are the papers related to jailbreak attacks.
 ## Jailbreak Attack of Any-to-Vision Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy | Multimodal Model |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[**Unified Prompt Attack Against Text-to-Image Generation Models**](https://arxiv.org/abs/2502.16423) | TPAMI 2025 | 2024/02/23 | None | --- | T→I |
 |[**CogMorph: Cognitive Morphing Attacks for Text-to-Image Models**](https://arxiv.org/abs/2501.11815) | Arxiv 2025 | 2024/01/21 | None | --- | T→I |
 |[**FameBias: Embedding Manipulation Bias Attack in Text-to-Image Models**](https://arxiv.org/abs/2412.18302) | Arxiv 2024 | 2024/12/24 | None | --- | T→I |
 |[**Antelope: Potent and Concealed Jailbreak Attack Strategy**](https://arxiv.org/abs/2412.08156) | Arxiv 2024 | 2024/12/11 | None | --- | T→I |
@@ -194,6 +200,12 @@ Below are the papers related to jailbreak defense.
 ## Jailbreak Defense of Any-to-Text Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy | Multimodal Model |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[**Hyperbolic Safety-Aware Vision-Language Models**](https://arxiv.org/abs/2503.12127) | CVPR 2025 | 2025/03/15 | [Github](https://github.com/aimagelab/HySAC) | --- | I+T→T |
+|[**Utilizing Jailbreak Probability to Attack and Safeguard Multimodal LLMs**](https://arxiv.org/abs/2503.06989) | Arxiv 2025 | 2025/03/10 | None | --- | I+T→T |
+|[**Adversarial Training for Multimodal Large Language Models against Jailbreak Attacks**](https://arxiv.org/abs/2503.04833) | Arxiv 2025 | 2025/03/05 | None | --- | I+T→T |
+|[**HiddenDetect: Detecting Jailbreak Attacks against Large Vision-Language Models via Monitoring Hidden States**](https://arxiv.org/abs/2502.14744) | Arxiv 2025 | 2025/02/20 | [Github](https://github.com/leigest519/HiddenDetect) | --- | I+T→T |
+|[**SafeEraser: Enhancing Safety in Multimodal Large Language Models through Multimodal Machine Unlearning**](https://arxiv.org/abs/2502.12520) | Arxiv 2025 | 2025/02/18 | None | --- | I+T→T |
+|[**Understanding and Rectifying Safety Perception Distortion in VLMs**](https://arxiv.org/abs/2502.13095) | Arxiv 2025 | 2025/02/18 | None | --- | I+T→T |
 |[**Towards Robust Multimodal Large Language Models Against Jailbreak Attacks**](https://arxiv.org/abs/2502.00653) | Arxiv 2025 | 2025/02/02 | None | --- | I+T→T |
 |[**Rethinking Bottlenecks in Safety Fine-Tuning of Vision Language Models**](https://arxiv.org/abs/2501.18533) | Arxiv 2025 | 2025/01/30 | None | --- | I+T→T |
 |[**Internal Activation Revision: Safeguarding Vision Language Models Without Parameter Update**](https://arxiv.org/abs/2501.16378) | Arxiv 2025 | 2025/01/24 | None | --- | I+T→T |
@@ -226,6 +238,11 @@ Below are the papers related to jailbreak defense.
 ## Jailbreak Defense of Any-to-Vision Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy | Multimodal Model |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[**Hyperbolic Safety-Aware Vision-Language Models**](https://arxiv.org/abs/2503.12127) | CVPR 2025 | 2025/03/15 | [Github](https://github.com/aimagelab/HySAC) | --- | T→I |
+|[**Distorting Embedding Space for Safety: A Defense Mechanism for Adversarially Robust Diffusion Models**](https://arxiv.org/abs/2503.07389) | Arxiv 2025 | 2025/03/10 | [Github](https://github.com/ddgoodgood/TRCE) | --- | T→I |
+|[**Comprehensive Assessment and Analysis for NSFW Content Erasure in Text-to-Image Diffusion Models**](https://arxiv.org/abs/2502.12527) | Arxiv 2025 | 2025/02/18 | None | --- | T→I |
+|[**Training-Free Safe Denoisers for Safe Use of Diffusion Models**](https://arxiv.org/abs/2502.08011) | Arxiv 2025 | 2025/02/11 | None | --- | T→I |
+|[**Beautiful Images, Toxic Words: Understanding and Addressing Offensive Text in Generated Images**](https://arxiv.org/abs/2502.05066) | Arxiv 2025 | 2025/02/07 | None | --- | T→I |
 |[**Distorting Embedding Space for Safety: A Defense Mechanism for Adversarially Robust Diffusion Models**](https://arxiv.org/abs/2501.18877) | Arxiv 2025 | 2025/01/30 | [Github](https://github.com/aei13/DES) | --- | T→I |
 |[**CE-SDWV: Effective and Efficient Concept Erasure for Text-to-Image Diffusion Models via a Semantic-Driven Word Vocabulary**](https://arxiv.org/abs/2501.15562) | Arxiv 2025 | 2025/01/26 | None | --- | T→I |
 |[**CROPS: Model-Agnostic Training-Free Framework for Safe Image Synthesis with Latent Diffusion Models**](https://arxiv.org/abs/2501.05359) | Arxiv 2025 | 2025/01/09 | None | --- | T→I |
