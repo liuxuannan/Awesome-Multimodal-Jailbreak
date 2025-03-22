@@ -212,7 +212,7 @@ Below are the papers related to jailbreak defense.
 |[**MSTS: A Multimodal Safety Test Suite for Vision-Language Models**](https://arxiv.org/abs/2501.10057) | Arxiv 2025 | 2025/01/17 | [Github](https://github.com/paul-rottger/msts-multimodal-safety) | --- | I+T→T |
 |[**Spot Risks Before Speaking! Unraveling Safety Attention Heads in Large Vision-Language Models**](https://arxiv.org/abs/2501.02029) | Arxiv 2025 | 2025/01/03 | [Github](https://github.com/Ziwei-Zheng/SAHs) | --- | I+T→T |
 |[**Defending LVLMs Against Vision Attacks through Partial-Perception Supervision**](https://arxiv.org/abs/2412.12722) | Arxiv 2024 | 2024/12/17 | None | --- | I+T→T |
-|[**Immune: Improving Safety Against Jailbreaks in Multi-modal LLMs via Inference-Time Alignment**](https://arxiv.org/abs/2411.18688) | Arxiv 2024 | 2024/11/27 | None | Output Level | I+T→T |
+|[**Immune: Improving Safety Against Jailbreaks in Multi-modal LLMs via Inference-Time Alignment**](https://arxiv.org/abs/2411.18688) | CVPR 2025 | 2024/11/27 | None | Output Level | I+T→T |
 |[**Steering Away from Harm: An Adaptive Approach to Defending Vision Language Model Against Jailbreaks**](https://arxiv.org/abs/2411.16721) | Arxiv 2024 | 2024/11/23 | [Github](https://github.com/ASTRAL-Group/ASTRA) | Generator Level | I+T→T |
 |[**Uniguard: Towards universal safety guardrails for jailbreak attacks on multimodal large language models**](https://arxiv.org/abs/2411.01703) | Arxiv 2024 | 2024/11/03 | None | Input Level | I+T→T |
 |[**Effective and Efficient Adversarial Detection for Vision-Language Models via A Single Vector**](https://arxiv.org/abs/2410.22888) | Arxiv 2024 | 2024/10/30 | None | Generator Level | I+T→T |
