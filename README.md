@@ -99,7 +99,10 @@ Below are the papers related to jailbreak attacks.
 ## Jailbreak Attack of Any-to-Text Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy |  Multimodal Model|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[**Making Every Step Effective: Jailbreaking Large Vision-Language Models Through Hierarchical KV Equalization**](https://arxiv.org/abs/2503.11750) | Arxiv 2025 | 2025/03/14 | None | --- | I+T→T |
+|[**ExtremeAIGC: Benchmarking LMM Vulnerability to AI-Generated Extremist Content**](https://arxiv.org/abs/2503.09964) | Arxiv 2025 | 2025/03/13 | None | --- | I+T→T |
 |[**Utilizing Jailbreak Probability to Attack and Safeguard Multimodal LLMs**](https://arxiv.org/abs/2503.06989) | Arxiv 2025 | 2025/03/10 | None | --- | I+T→T |
+|[**EigenShield: Causal Subspace Filtering via Random Matrix Theory for Adversarially Robust Vision-Language Models**](https://arxiv.org/abs/2502.14976) | Arxiv 2025 | 2025/02/20 | None | --- | I+T→T |
 |[**Can't See the Forest for the Trees: Benchmarking Multimodal Safety Awareness for Multimodal LLMs**](https://arxiv.org/abs/2502.11184) | Arxiv 2025 | 2025/02/16 | None | --- | I+T→T |
 |[**FC-Attack: Jailbreaking Large Vision-Language Models via Auto-Generated Flowcharts**](https://arxiv.org/abs/2502.21059) | Arxiv 2025 | 2025/02/28 | None | --- | I+T→T |
 |[**ELITE: Enhanced Language-Image Toxicity Evaluation for Safety**](https://arxiv.org/abs/2502.04757) | Arxiv 2025 | 2025/02/07 | None | --- | I+T→T |
@@ -112,6 +115,12 @@ Below are the papers related to jailbreak attacks.
 |[**Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models**](https://arxiv.org/abs/2412.05934) | Arxiv 2024 | 2024/12/8 | [Github](https://github.com/MaTengSYSU/HIMRD-jailbreak) | --- | I+T→T |
 |[**PBI-Attack: Prior-Guided Bimodal Interactive Black-Box Jailbreak Attack for Toxicity Maximization**](https://arxiv.org/abs/2412.05892) | Arxiv 2024 | 2024/12/8 | None | --- | I+T→T |
 |[**Jailbreak Large Vision-Language Models Through Multi-Modal Linkage**](https://arxiv.org/abs/2412.00473) | Arxiv 2024 | 2024/11/30 | [Github](https://github.com/wangyu-ovo/MML) | --- | I+T→T |
+|[**The VLLM Safety Paradox: Dual Ease in Jailbreak Attack and Defense**](https://arxiv.org/abs/2411.08410) | Arxiv 2024 | 2024/11/13 | None | --- | I+T→T |
+|[**MMJ-Bench : A Comprehensive Study on Jailbreak Attacks and Defenses for Multimodal Large Language Models**](https://arxiv.org/abs/2408.08464) | Arxiv 2024 | 2024/08/16 | None | --- | I+T→T |
+|[**Failures to Find Transferable Image Jailbreaks Between Vision-Language Models**](https://arxiv.org/abs/2407.15211) | Arxiv 2024 | 2024/07/21 | None | --- | I+T→T |
+|[**MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models**](https://arxiv.org/abs/2406.07594) | Arxiv 2024 | 2024/06/11 | [Github](https://github.com/Carol-gutianle/MLLMGuard) | --- | I+T→T |
+|[**Unveiling the Safety of GPT-4o: An Empirical Study using Jailbreak Attacks**](https://arxiv.org/abs/2406.06302) | Arxiv 2024 | 2024/06/10 | [Github](https://github.com/NY1024/Jailbreak_GPT4o) | --- | I+T→T |
+|[**Red Teaming GPT-4V: Are GPT-4V Safe Against Uni/Multi-Modal Jailbreak Attacks?**](https://arxiv.org/abs/2404.03411) | Arxiv 2024 | 2024/04/04 | [Github](https://github.com/chenxshuo/RedTeamingGPT4V) | --- | I+T→T |
 |[**VLSBench: Unveiling Visual Leakage in Multimodal Safety**](https://arxiv.org/abs/2411.19939) | Arxiv 2024 | 2024/11/29 | [Homepage](https://hxhcreate.github.io/vlsbench.github.io/) | Input Level | I+T→T |
 |[**Safe + Safe = Unsafe? Exploring How Safe Images Can Be Exploited to Jailbreak Large Vision-Language Models**](https://arxiv.org/abs/2411.11496) | Arxiv 2024 | 2024/11/18 | None | Output Level | I+T→T |
 |[**IDEATOR: Jailbreaking Large Vision-Language Models Using Themselves**](https://arxiv.org/abs/2411.00827) | Arxiv 2024 | 2024/11/15 | None | Output Level | I+T→T |
@@ -144,10 +153,12 @@ Below are the papers related to jailbreak attacks.
 ## Jailbreak Attack of Any-to-Vision Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy | Multimodal Model |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[**Jailbreaking Safeguarded Text-to-Image Models via Large Language Models**](https://arxiv.org/abs/2503.01839) | Arxiv 2025 | 2025/03/03 | None | --- | T→I |
 |[**Unified Prompt Attack Against Text-to-Image Generation Models**](https://arxiv.org/abs/2502.16423) | TPAMI 2025 | 2024/02/23 | None | --- | T→I |
 |[**CogMorph: Cognitive Morphing Attacks for Text-to-Image Models**](https://arxiv.org/abs/2501.11815) | Arxiv 2025 | 2024/01/21 | None | --- | T→I |
 |[**FameBias: Embedding Manipulation Bias Attack in Text-to-Image Models**](https://arxiv.org/abs/2412.18302) | Arxiv 2024 | 2024/12/24 | None | --- | T→I |
 |[**Antelope: Potent and Concealed Jailbreak Attack Strategy**](https://arxiv.org/abs/2412.08156) | Arxiv 2024 | 2024/12/11 | None | --- | T→I |
+|[**Multimodal Pragmatic Jailbreak on Text-to-image Models**](https://arxiv.org/abs/2409.19149) | Arxiv 2024 | 2024/09/27 | None | --- | T→I |
 |[**In-Context Experience Replay Facilitates Safety Red-Teaming of Text-to-Image Diffusion Models**](https://arxiv.org/abs/2411.16769) | Arxiv 2024 | 2024/11/25 | None | Output Level | T→I |
 |[**Unfiltered and Unseen: Universal Multimodal Jailbreak Attacks on Text-to-Image Model Defenses**](https://openreview.net/forum?id=sshYEYQ82L) | Openreview | 2024/11/13 | None | --- | T→I |
 |[**AdvI2I: Adversarial Image Attack on Image-to-Image Diffusion models**](https://arxiv.org/abs/2410.21471) | Arxiv 2024 | 2024/10/28 | [Github](https://github.com/Spinozaaa/AdvI2I) | Encoder Level | T→I |
@@ -201,17 +212,20 @@ Below are the papers related to jailbreak defense.
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy | Multimodal Model |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
 |[**Hyperbolic Safety-Aware Vision-Language Models**](https://arxiv.org/abs/2503.12127) | CVPR 2025 | 2025/03/15 | [Github](https://github.com/aimagelab/HySAC) | --- | I+T→T |
+|[**Tit-for-Tat: Safeguarding Large Vision-Language Models Against Jailbreak Attacks via Adversarial Defense**](https://arxiv.org/abs/2503.11619) | Arxiv 2025 | 2025/03/14 | None | --- | I+T→T |
 |[**Utilizing Jailbreak Probability to Attack and Safeguard Multimodal LLMs**](https://arxiv.org/abs/2503.06989) | Arxiv 2025 | 2025/03/10 | None | --- | I+T→T |
 |[**Adversarial Training for Multimodal Large Language Models against Jailbreak Attacks**](https://arxiv.org/abs/2503.04833) | Arxiv 2025 | 2025/03/05 | None | --- | I+T→T |
 |[**HiddenDetect: Detecting Jailbreak Attacks against Large Vision-Language Models via Monitoring Hidden States**](https://arxiv.org/abs/2502.14744) | Arxiv 2025 | 2025/02/20 | [Github](https://github.com/leigest519/HiddenDetect) | --- | I+T→T |
 |[**SafeEraser: Enhancing Safety in Multimodal Large Language Models through Multimodal Machine Unlearning**](https://arxiv.org/abs/2502.12520) | Arxiv 2025 | 2025/02/18 | None | --- | I+T→T |
 |[**Understanding and Rectifying Safety Perception Distortion in VLMs**](https://arxiv.org/abs/2502.13095) | Arxiv 2025 | 2025/02/18 | None | --- | I+T→T |
+|[**Adversary-Aware DPO: Enhancing Safety Alignment in Vision Language Models via Adversarial Training**](https://arxiv.org/abs/2502.11455) | Arxiv 2025 | 2025/02/17 | None | --- | I+T→T |
 |[**Towards Robust Multimodal Large Language Models Against Jailbreak Attacks**](https://arxiv.org/abs/2502.00653) | Arxiv 2025 | 2025/02/02 | None | --- | I+T→T |
 |[**Rethinking Bottlenecks in Safety Fine-Tuning of Vision Language Models**](https://arxiv.org/abs/2501.18533) | Arxiv 2025 | 2025/01/30 | None | --- | I+T→T |
 |[**Internal Activation Revision: Safeguarding Vision Language Models Without Parameter Update**](https://arxiv.org/abs/2501.16378) | Arxiv 2025 | 2025/01/24 | None | --- | I+T→T |
 |[**MSTS: A Multimodal Safety Test Suite for Vision-Language Models**](https://arxiv.org/abs/2501.10057) | Arxiv 2025 | 2025/01/17 | [Github](https://github.com/paul-rottger/msts-multimodal-safety) | --- | I+T→T |
 |[**Spot Risks Before Speaking! Unraveling Safety Attention Heads in Large Vision-Language Models**](https://arxiv.org/abs/2501.02029) | Arxiv 2025 | 2025/01/03 | [Github](https://github.com/Ziwei-Zheng/SAHs) | --- | I+T→T |
 |[**Defending LVLMs Against Vision Attacks through Partial-Perception Supervision**](https://arxiv.org/abs/2412.12722) | Arxiv 2024 | 2024/12/17 | None | --- | I+T→T |
+|[**VLMGuard: Defending VLMs against Malicious Prompts via Unlabeled Data**](https://arxiv.org/abs/2410.00296) | Arxiv 2024 | 2024/10/01 | None | --- | I+T→T |
 |[**Immune: Improving Safety Against Jailbreaks in Multi-modal LLMs via Inference-Time Alignment**](https://arxiv.org/abs/2411.18688) | CVPR 2025 | 2024/11/27 | None | Output Level | I+T→T |
 |[**Steering Away from Harm: An Adaptive Approach to Defending Vision Language Model Against Jailbreaks**](https://arxiv.org/abs/2411.16721) | Arxiv 2024 | 2024/11/23 | [Github](https://github.com/ASTRAL-Group/ASTRA) | Generator Level | I+T→T |
 |[**Uniguard: Towards universal safety guardrails for jailbreak attacks on multimodal large language models**](https://arxiv.org/abs/2411.01703) | Arxiv 2024 | 2024/11/03 | None | Input Level | I+T→T |
@@ -240,6 +254,7 @@ Below are the papers related to jailbreak defense.
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
 |[**Hyperbolic Safety-Aware Vision-Language Models**](https://arxiv.org/abs/2503.12127) | CVPR 2025 | 2025/03/15 | [Github](https://github.com/aimagelab/HySAC) | --- | T→I |
 |[**Distorting Embedding Space for Safety: A Defense Mechanism for Adversarially Robust Diffusion Models**](https://arxiv.org/abs/2503.07389) | Arxiv 2025 | 2025/03/10 | [Github](https://github.com/ddgoodgood/TRCE) | --- | T→I |
+|[**SafeText: Safe Text-to-image Models via Aligning the Text Encoder**](https://arxiv.org/abs/2502.20623) | Arxiv 2025 | 2025/02/28 | None | --- | T→I |
 |[**Comprehensive Assessment and Analysis for NSFW Content Erasure in Text-to-Image Diffusion Models**](https://arxiv.org/abs/2502.12527) | Arxiv 2025 | 2025/02/18 | None | --- | T→I |
 |[**Training-Free Safe Denoisers for Safe Use of Diffusion Models**](https://arxiv.org/abs/2502.08011) | Arxiv 2025 | 2025/02/11 | None | --- | T→I |
 |[**Beautiful Images, Toxic Words: Understanding and Addressing Offensive Text in Generated Images**](https://arxiv.org/abs/2502.05066) | Arxiv 2025 | 2025/02/07 | None | --- | T→I |
