@@ -117,7 +117,7 @@ Below are the papers related to jailbreak attacks.
 |[**Jailbreak Large Vision-Language Models Through Multi-Modal Linkage**](https://arxiv.org/abs/2412.00473) | Arxiv 2024 | 2024/11/30 | [Github](https://github.com/wangyu-ovo/MML) | --- | I+T→T |
 |[**The VLLM Safety Paradox: Dual Ease in Jailbreak Attack and Defense**](https://arxiv.org/abs/2411.08410) | Arxiv 2024 | 2024/11/13 | None | --- | I+T→T |
 |[**MMJ-Bench : A Comprehensive Study on Jailbreak Attacks and Defenses for Multimodal Large Language Models**](https://arxiv.org/abs/2408.08464) | Arxiv 2024 | 2024/08/16 | None | --- | I+T→T |
-|[**Failures to Find Transferable Image Jailbreaks Between Vision-Language Models**](https://arxiv.org/abs/2407.15211) | Arxiv 2024 | 2024/07/21 | None | --- | I+T→T |
+|[**Failures to Find Transferable Image Jailbreaks Between Vision-Language Models**](https://arxiv.org/abs/2407.15211) | NeurIPS 2024 Workshops | 2024/07/21 | None | --- | I+T→T |
 |[**MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models**](https://arxiv.org/abs/2406.07594) | NeurIPS 2024 | 2024/06/11 | [Github](https://github.com/Carol-gutianle/MLLMGuard) | --- | I+T→T |
 |[**Unveiling the Safety of GPT-4o: An Empirical Study using Jailbreak Attacks**](https://arxiv.org/abs/2406.06302) | Arxiv 2024 | 2024/06/10 | [Github](https://github.com/NY1024/Jailbreak_GPT4o) | --- | I+T→T |
 |[**Red Teaming GPT-4V: Are GPT-4V Safe Against Uni/Multi-Modal Jailbreak Attacks?**](https://arxiv.org/abs/2404.03411) | Arxiv 2024 | 2024/04/04 | [Github](https://github.com/chenxshuo/RedTeamingGPT4V) | --- | I+T→T |
