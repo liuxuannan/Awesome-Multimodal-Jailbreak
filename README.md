@@ -257,6 +257,7 @@ Below are the papers related to jailbreak defense.
 ## Jailbreak Defense of Any-to-Vision Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy | Multimodal Model |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+|**I2VGuard: Safeguarding Images against Misuse in Diffusion-based Image-to-Video Models** | CVPR 2025 | --- | None | --- | --- |
 |[**Hyperbolic Safety-Aware Vision-Language Models**](https://arxiv.org/abs/2503.12127) | CVPR 2025 | 2025/03/15 | [Github](https://github.com/aimagelab/HySAC) | --- | T→I |
 |[**Distorting Embedding Space for Safety: A Defense Mechanism for Adversarially Robust Diffusion Models**](https://arxiv.org/abs/2503.07389) | Arxiv 2025 | 2025/03/10 | [Github](https://github.com/ddgoodgood/TRCE) | --- | T→I |
 |[**SafeText: Safe Text-to-image Models via Aligning the Text Encoder**](https://arxiv.org/abs/2502.20623) | Arxiv 2025 | 2025/02/28 | None | --- | T→I |
