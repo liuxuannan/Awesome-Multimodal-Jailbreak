@@ -100,7 +100,7 @@ Below are the papers related to jailbreak attacks.
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy |  Multimodal Model|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
 |[**PiCo: Jailbreaking Multimodal Large Language Models via Pictorial Code Contextualization**](https://arxiv.org/abs/2504.01444) | Arxiv 2025 | 2025/04/02 | None | --- | I+T→T |
-|[**Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy**](https://arxiv.org/abs/2503.20823) | CVPR 2025 | 2025/03/26 | None | [Github](https://github.com/naver-ai/JOOD) | I+T→T |
+|[**Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy**](https://arxiv.org/abs/2503.20823) | CVPR 2025 | 2025/03/26 | [Github](https://github.com/naver-ai/JOOD) | None | I+T→T |
 |[**MIRAGE: Multimodal Immersive Reasoning and Guided Exploration for Red-Team Jailbreak Attacks**](https://arxiv.org/abs/2503.19134) | Arxiv 2025 | 2025/03/24 | None | --- | I+T→T |
 |[**Making Every Step Effective: Jailbreaking Large Vision-Language Models Through Hierarchical KV Equalization**](https://arxiv.org/abs/2503.11750) | Arxiv 2025 | 2025/03/14 | None | --- | I+T→T |
 |[**ExtremeAIGC: Benchmarking LMM Vulnerability to AI-Generated Extremist Content**](https://arxiv.org/abs/2503.09964) | Arxiv 2025 | 2025/03/13 | None | --- | I+T→T |
