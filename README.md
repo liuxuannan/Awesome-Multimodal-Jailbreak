@@ -157,6 +157,7 @@ Below are the papers related to jailbreak attacks.
 ## Jailbreak Attack of Any-to-Vision Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy | Multimodal Model |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[**Mind the Trojan Horse: Image Prompt Adapter Enabling Scalable and Deceptive Jailbreaking**](https://arxiv.org/abs/2504.05838) | Arxiv 2025 | 2025/04/08 | [Github](https://github.com/fhdnskfbeuv/attackIPA) | --- | T→I |
 |[**Jailbreaking Safeguarded Text-to-Image Models via Large Language Models**](https://arxiv.org/abs/2503.01839) | Arxiv 2025 | 2025/03/03 | None | --- | T→I |
 |[**Unified Prompt Attack Against Text-to-Image Generation Models**](https://arxiv.org/abs/2502.16423) | TPAMI 2025 | 2024/02/23 | None | --- | T→I |
 |[**CogMorph: Cognitive Morphing Attacks for Text-to-Image Models**](https://arxiv.org/abs/2501.11815) | Arxiv 2025 | 2024/01/21 | None | --- | T→I |
