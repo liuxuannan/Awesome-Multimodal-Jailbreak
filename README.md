@@ -99,7 +99,7 @@ Below are the papers related to jailbreak attacks.
 ## Jailbreak Attack of Any-to-Text Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy |  Multimodal Model|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
-|[**SafeMLRM: Demystifying Safety in Multi-modal Large Reasoning Models**](https://arxiv.org/abs/2504.08813) | Arxiv 2025 | 2025/04/09 | None | [Github](https://github.com/fangjf1/OpenSafeMLRM) | I+T→T |
+|[**SafeMLRM: Demystifying Safety in Multi-modal Large Reasoning Models**](https://arxiv.org/abs/2504.08813) | Arxiv 2025 | 2025/04/09 | [Github](https://github.com/fangjf1/OpenSafeMLRM) | --- | I+T→T |
 |[**PiCo: Jailbreaking Multimodal Large Language Models via Pictorial Code Contextualization**](https://arxiv.org/abs/2504.01444) | Arxiv 2025 | 2025/04/02 | None | --- | I+T→T |
 |[**Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy**](https://arxiv.org/abs/2503.20823) | CVPR 2025 | 2025/03/26 | [Github](https://github.com/naver-ai/JOOD) | --- | I+T→T |
 |[**MIRAGE: Multimodal Immersive Reasoning and Guided Exploration for Red-Team Jailbreak Attacks**](https://arxiv.org/abs/2503.19134) | Arxiv 2025 | 2025/03/24 | None | --- | I+T→T |
