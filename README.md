@@ -245,7 +245,7 @@ Below are the papers related to jailbreak defense.
 |[**Defending LVLMs Against Vision Attacks through Partial-Perception Supervision**](https://arxiv.org/abs/2412.12722) | Arxiv 2024 | 2024/12/17 | None | --- | I+T→T |
 |[**VLMGuard: Defending VLMs against Malicious Prompts via Unlabeled Data**](https://arxiv.org/abs/2410.00296) | Arxiv 2024 | 2024/10/01 | None | --- | I+T→T |
 |[**Immune: Improving Safety Against Jailbreaks in Multi-modal LLMs via Inference-Time Alignment**](https://arxiv.org/abs/2411.18688) | CVPR 2025 | 2024/11/27 | [Github](https://github.com/itsvaibhav01/Immune) | Output Level | I+T→T |
-|[**Steering Away from Harm: An Adaptive Approach to Defending Vision Language Model Against Jailbreaks**](https://arxiv.org/abs/2411.16721) | Arxiv 2024 | 2024/11/23 | [Github](https://github.com/ASTRAL-Group/ASTRA) | Generator Level | I+T→T |
+|[**Steering Away from Harm: An Adaptive Approach to Defending Vision Language Model Against Jailbreaks**](https://arxiv.org/abs/2411.16721) | CVPR 2025 | 2024/11/23 | [Github](https://github.com/ASTRAL-Group/ASTRA) | Generator Level | I+T→T |
 |[**Uniguard: Towards universal safety guardrails for jailbreak attacks on multimodal large language models**](https://arxiv.org/abs/2411.01703) | Arxiv 2024 | 2024/11/03 | None | Input Level | I+T→T |
 |[**Effective and Efficient Adversarial Detection for Vision-Language Models via A Single Vector**](https://arxiv.org/abs/2410.22888) | Arxiv 2024 | 2024/10/30 | None | Generator Level | I+T→T |
 |[**BlueSuffix: Reinforced Blue Teaming for Vision-Language Models Against Jailbreak Attacks**](https://arxiv.org/abs/2410.20971) | ICLR 2025 | 2024/10/28 | None | Input Level | I+T→T |
