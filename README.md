@@ -297,7 +297,7 @@ Below are the papers related to jailbreak defense.
 |[**Safree: Training-free and adaptive guard for safe text-to-image and video generation**](https://arxiv.org/abs/2410.12761) | ICLR 2025 | 2024/10/16 | [Github](https://github.com/jaehong31/SAFREE) | Generator Level | T→I/T→V |
 |[**Shielddiff: Suppressing sexual content generation from diffusion models through reinforcement learning**](https://arxiv.org/abs/2410.05309) | Arxiv 2024 | 2024/10/04 | None | Generator Level | T→I |
 |[**Dark miner: Defend against unsafe generation for text-to-image diffusion models**](https://arxiv.org/html/2409.17682) | Arxiv 2024 | 2024/09/26 | None | Generator Level | T→I |
-|[**Score forgetting distillation: A swift, data-free method for machine unlearning in diffusion models**](https://arxiv.org/abs/2409.11219) | Arxiv 2024 | 2024/09/17 | None | Generator Level | T→I |
+|[**Score forgetting distillation: A swift, data-free method for machine unlearning in diffusion models**](https://arxiv.org/abs/2409.11219) | ICLR 2025 | 2024/09/17 | None | Generator Level | T→I |
 |[**EIUP: A Training-Free Approach to Erase Non-Compliant Concepts Conditioned on Implicit Unsafe Prompts**](https://arxiv.org/abs/2408.01014) | Arxiv 2024 | 2024/08/02 | None | Generator Level | T→I |
 |[**Direct Unlearning Optimization for Robust and Safe Text-to-Image Models**](https://arxiv.org/abs/2407.21035) | NeurIPS 2024 | 2024/07/17 | [Github](https://github.com/naver-ai/DUO) | Generator Level | T→I |
 |[**Reliable and Efficient Concept Erasure of Text-to-Image Diffusion Models**](https://arxiv.org/abs/2407.12383) | ECCV 2024 | 2024/07/17 | [Github](https://github.com/CharlesGong12/RECE) | Generator Level | T→I |
