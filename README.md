@@ -233,7 +233,7 @@ Below are the papers related to jailbreak defense.
 |[**Tit-for-Tat: Safeguarding Large Vision-Language Models Against Jailbreak Attacks via Adversarial Defense**](https://arxiv.org/abs/2503.11619) | Arxiv 2025 | 2025/03/14 | None | --- | I+T→T |
 |[**Utilizing Jailbreak Probability to Attack and Safeguard Multimodal LLMs**](https://arxiv.org/abs/2503.06989) | Arxiv 2025 | 2025/03/10 | None | --- | I+T→T |
 |[**Adversarial Training for Multimodal Large Language Models against Jailbreak Attacks**](https://arxiv.org/abs/2503.04833) | Arxiv 2025 | 2025/03/05 | None | --- | I+T→T |
-|[**HiddenDetect: Detecting Jailbreak Attacks against Large Vision-Language Models via Monitoring Hidden States**](https://arxiv.org/abs/2502.14744) | Arxiv 2025 | 2025/02/20 | [Github](https://github.com/leigest519/HiddenDetect) | --- | I+T→T |
+|[**HiddenDetect: Detecting Jailbreak Attacks against Large Vision-Language Models via Monitoring Hidden States**](https://arxiv.org/abs/2502.14744) | ACL 2025 | 2025/02/20 | [Github](https://github.com/leigest519/HiddenDetect) | --- | I+T→T |
 |[**SafeEraser: Enhancing Safety in Multimodal Large Language Models through Multimodal Machine Unlearning**](https://arxiv.org/abs/2502.12520) | Arxiv 2025 | 2025/02/18 | None | --- | I+T→T |
 |[**Understanding and Rectifying Safety Perception Distortion in VLMs**](https://arxiv.org/abs/2502.13095) | Arxiv 2025 | 2025/02/18 | None | --- | I+T→T |
 |[**Adversary-Aware DPO: Enhancing Safety Alignment in Vision Language Models via Adversarial Training**](https://arxiv.org/abs/2502.11455) | Arxiv 2025 | 2025/02/17 | None | --- | I+T→T |
