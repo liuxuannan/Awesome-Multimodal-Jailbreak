@@ -228,7 +228,7 @@ Below are the papers related to jailbreak defense.
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy | Multimodal Model |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
 |[**Do We Really Need Curated Malicious Data for Safety Alignment in Multi-modal Large Language Models?**](https://arxiv.org/abs/2504.10000) | CVPR 2025 | 2025/04/14 | None | --- | I+T→T |
-|[**JailDAM: Jailbreak Detection with Adaptive Memory for Vision-Language Model**](https://arxiv.org/abs/2504.03770) | Arxiv 2025 | 2025/04/3 | None | [Github](https://github.com/ShenzheZhu/JailDAM) | I+T→T |
+|[**JailDAM: Jailbreak Detection with Adaptive Memory for Vision-Language Model**](https://arxiv.org/abs/2504.03770) | Arxiv 2025 | 2025/04/3 | [Github](https://github.com/ShenzheZhu/JailDAM) | --- | I+T→T |
 |[**Hyperbolic Safety-Aware Vision-Language Models**](https://arxiv.org/abs/2503.12127) | CVPR 2025 | 2025/03/15 | [Github](https://github.com/aimagelab/HySAC) | --- | I+T→T |
 |[**Tit-for-Tat: Safeguarding Large Vision-Language Models Against Jailbreak Attacks via Adversarial Defense**](https://arxiv.org/abs/2503.11619) | Arxiv 2025 | 2025/03/14 | None | --- | I+T→T |
 |[**Utilizing Jailbreak Probability to Attack and Safeguard Multimodal LLMs**](https://arxiv.org/abs/2503.06989) | Arxiv 2025 | 2025/03/10 | None | --- | I+T→T |
