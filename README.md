@@ -185,7 +185,7 @@ Below are the papers related to jailbreak attacks.
 |[**DiffZOO: A Purely Query-Based Black-Box Attack for Red-teaming Text-to-Image Generative Model via Zeroth Order Optimization**](https://arxiv.org/abs/2408.11071) | NAACL 2025 | 2024/08/18 | [Github](https://github.com/CherryBlueberry/DiffZOO) | Output Level | T→I |
 |[**Jailbreaking Prompt Attack: A Controllable Adversarial Attack against Diffusion Models**](https://arxiv.org/abs/2404.02928) | Arxiv 2024 | 2024/08/02 | None | Encoder Level | T→I |
 |[**Jailbreaking Text-to-Image Models with LLM-Based Agents**](https://arxiv.org/abs/2408.00523) | Arxiv 2024 | 2024/08/01 | None | Output Level | T→I |
-|[**Automatic Jailbreaking of the Text-to-Image Generative AI Systems**](https://arxiv.org/abs/2405.16567) | Arxiv 2024 | 2024/05/26 | None | Output Level | T→I |
+|[**Automatic Jailbreaking of the Text-to-Image Generative AI Systems**](https://arxiv.org/abs/2405.16567) | ICML 2024 Workshop NextGenAISafety | 2024/05/26 | [Github](https://github.com/Kim-Minseon/APGP) | Output Level | T→I |
 |[**UPAM: Unified Prompt Attack in Text-to-Image Generation Models Against Both Textual Filters and Visual Checkers**](https://arxiv.org/abs/2405.11336) | ICML 2024 | 2024/05/18 | None | Input Level | T→I |
 |[**BSPA: Exploring Black-box Stealthy Prompt Attacks against Image Generators**](https://arxiv.org/abs/2402.15218) | Arxiv 2024 | 2024/02/23 | None | Input Level | T→I |
 |[**Harnessing LLM to Attack LLM-Guarded Text-to-Image Models**](https://arxiv.org/abs/2312.07130) | Arxiv 2023 | 2023/12/12 | [Github](https://github.com/researchcode001/Divide-and-Conquer-Attack) | Input Level | T→I |
