@@ -238,7 +238,7 @@ Below are the papers related to jailbreak defense.
 |[**Understanding and Rectifying Safety Perception Distortion in VLMs**](https://arxiv.org/abs/2502.13095) | Arxiv 2025 | 2025/02/18 | None | --- | I+T→T |
 |[**Adversary-Aware DPO: Enhancing Safety Alignment in Vision Language Models via Adversarial Training**](https://arxiv.org/abs/2502.11455) | Arxiv 2025 | 2025/02/17 | None | --- | I+T→T |
 |[**Towards Robust Multimodal Large Language Models Against Jailbreak Attacks**](https://arxiv.org/abs/2502.00653) | Arxiv 2025 | 2025/02/02 | None | --- | I+T→T |
-|[**Rethinking Bottlenecks in Safety Fine-Tuning of Vision Language Models**](https://arxiv.org/abs/2501.18533) | Arxiv 2025 | 2025/01/30 | None | --- | I+T→T |
+|[**Rethinking Bottlenecks in Safety Fine-Tuning of Vision Language Models**](https://arxiv.org/abs/2501.18533) | Arxiv 2025 | 2025/01/30 | [Github](https://github.com/DripNowhy/MIS) | --- | I+T→T |
 |[**Internal Activation Revision: Safeguarding Vision Language Models Without Parameter Update**](https://arxiv.org/abs/2501.16378) | Arxiv 2025 | 2025/01/24 | None | --- | I+T→T |
 |[**MSTS: A Multimodal Safety Test Suite for Vision-Language Models**](https://arxiv.org/abs/2501.10057) | Arxiv 2025 | 2025/01/17 | [Github](https://github.com/paul-rottger/msts-multimodal-safety) | --- | I+T→T |
 |[**Spot Risks Before Speaking! Unraveling Safety Attention Heads in Large Vision-Language Models**](https://arxiv.org/abs/2501.02029) | Arxiv 2025 | 2025/01/03 | [Github](https://github.com/Ziwei-Zheng/SAHs) | --- | I+T→T |
