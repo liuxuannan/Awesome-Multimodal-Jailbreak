@@ -253,7 +253,7 @@ Below are the papers related to jailbreak defense.
 |[**CoCA: Regaining Safety-awareness of Multimodal Large Language Models with Constitutional Calibration**](https://arxiv.org/abs/2409.11365) | COLM 2024 | 2024/9/17 | None | Output Level | I+T→T |
 |[**Securing Vision-Language Models with a Robust Encoder Against Jailbreak and Adversarial Attacks**](https://arxiv.org/abs/2409.07353) | Arxiv 2024 | 2024/09/11 | None | Encoder Level | I+T→T |
 |[**Bathe: Defense against the jailbreak attack in multimodal large language models by treating harmful instruction as backdoor trigger**](https://arxiv.org/abs/2408.09093) | Arxiv 2024 | 2024/08/17 | None | Generator Level | I+T→T |
-|[**Defending jailbreak attack in vlms via cross-modality information detector**](https://arxiv.org/html/2407.21659v2) | Arxiv 2024 | 2024/07/31 | [Github](https://github.com/pandragonxiii/cider) | Encoder Level | I+T→T |
+|[**Cross-modality Information Check for Detecting Jailbreaking in Multimodal Large Language Models**](https://arxiv.org/abs/2407.21659v4) | EMNLP 2024 Findings | 2024/07/31 | [Github](https://github.com/pandragonxiii/cider) | Encoder Level | I+T→T |
 |[**Sim-clip: Unsupervised siamese adversarial fine-tuning for robust and semantically-rich vision-language models**](https://arxiv.org/abs/2407.14971) | Arxiv 2024 | 2024/07/20 | [Github](https://github.com/speedlab-git/SimCLIP) | Encoder Level | I+T→T |
 |[**Cross-modal safety alignment: Is textual unlearning all you need?**](https://arxiv.org/abs/2406.02575) | Arxiv 2024 | 2024/05/27 | None | Generator Level | I+T→T |
 |[**Safety alignment for vision language models**](https://arxiv.org/abs/2405.13581) | Arxiv 2024 | 2024/05/22 | None | Generator Level | I+T→T |
