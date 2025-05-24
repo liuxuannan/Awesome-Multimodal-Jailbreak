@@ -295,7 +295,7 @@ Below are the papers related to jailbreak defense.
 |[**Safety Without Semantic Disruptions: Editing-free Safe Image Generation via Context-preserving Dual Latent Reconstruction**](https://arxiv.org/abs/2411.13982) | Arxiv 2024 | 2024/11/21 | None | --- | T→I |
 |[**Safe Text-to-Image Generation:Simply Sanitize the Prompt Embedding**](https://arxiv.org/abs/2411.10329) | Arxiv 2024 | 2024/11/15 | None | Encoder Level | T→I |
 |[**Safree: Training-free and adaptive guard for safe text-to-image and video generation**](https://arxiv.org/abs/2410.12761) | ICLR 2025 | 2024/10/16 | [Github](https://github.com/jaehong31/SAFREE) | Generator Level | T→I/T→V |
-|[**Shielddiff: Suppressing sexual content generation from diffusion models through reinforcement learning**](https://arxiv.org/abs/2410.05309) | Arxiv 2024 | 2024/10/04 | None | Generator Level | T→I |
+|[**Shielddiff: Suppressing sexual content generation from diffusion models through reinforcement learning**](https://arxiv.org/abs/2410.05309) | Arxiv 2024 | 2024/10/04 | [Github](https://github.com/DongHan9722/ShieldDiff) | Generator Level | T→I |
 |[**Dark miner: Defend against unsafe generation for text-to-image diffusion models**](https://arxiv.org/html/2409.17682) | Arxiv 2024 | 2024/09/26 | None | Generator Level | T→I |
 |[**Score forgetting distillation: A swift, data-free method for machine unlearning in diffusion models**](https://arxiv.org/abs/2409.11219) | ICLR 2025 | 2024/09/17 | None | Generator Level | T→I |
 |[**EIUP: A Training-Free Approach to Erase Non-Compliant Concepts Conditioned on Implicit Unsafe Prompts**](https://arxiv.org/abs/2408.01014) | Arxiv 2024 | 2024/08/02 | None | Generator Level | T→I |
@@ -311,7 +311,7 @@ Below are the papers related to jailbreak defense.
 |[**Salun: Empowering machine unlearning via gradient-based weight saliency in both image classification and generation**](https://arxiv.org/abs/2310.12508) | ICLR 2024 | 2024/04/04 | [Github](https://github.com/OPTML-Group/Unlearn-Saliency) | Generator Level | T→I |
 |[**GuardT→I: Defending Text-to-Image Models from Adversarial Prompts**](https://arxiv.org/abs/2403.01446) | NeurIPS 2024 | 2024/03/03 | None | Encoder Level | T→I |
 |[**Universal prompt optimizer for safe text-to-image generation**](https://arxiv.org/abs/2402.10882) | NAACL 2024 | 2024/02/16 | [Github](https://github.com/Wu-Zongyu/POSI) | Input Level | T→I |
-|[**Erasediff: Erasing data influence in diffusion models**](https://arxiv.org/abs/2401.05779) | Arxiv 2024 | 2024/01/11 | None | Generator Level | T→I |
+|[**Erasediff: Erasing data influence in diffusion models**](https://arxiv.org/abs/2401.05779) | Arxiv 2024 | 2024/01/11 | [Github](https://github.com/JingWu321/EraseDiff) | Generator Level | T→I |
 |[**Localization and manipulation of immoral visual cues for safe text-to-image generation**](https://openaccess.thecvf.com/content/WACV2024/papers/Park_Localization_and_Manipulation_of_Immoral_Visual_Cues_for_Safe_Text-to-Image_WACV_2024_paper.pdf) | WACV 2024 | 2024/01/01 | None | Output Level | T→I |
 |[**Receler: Reliable concept erasing of text-to-image diffusion models via lightweight erasers**](https://arxiv.org/abs/2311.17717) | ECCV 2024 | 2023/11/29 | [Github](https://github.com/jasper0314-huang/Receler) | Generator Level | T→I |
 |[**Self-discovering interpretable diffusion latent directions for responsible text-to-image generation**](https://arxiv.org/abs/2311.17216) | CVPR 2024 | 2023/11/28 | [Github](https://github.com/hangligit/InterpretDiffusion) | Encoder Level | T→I |
