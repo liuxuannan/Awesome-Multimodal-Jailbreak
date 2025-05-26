@@ -227,6 +227,7 @@ Below are the papers related to jailbreak defense.
 ## Jailbreak Defense of Any-to-Text Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy | Multimodal Model |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[**DREAM: Disentangling Risks to Enhance Safety Alignment in Multimodal Large Language Models**](https://arxiv.org/abs/2504.18053) | Arxiv 2025 | 2025/04/25 | [Github](https://github.com/Kizna1ver/DREAM) | --- | I+T→T |
 |[**Do We Really Need Curated Malicious Data for Safety Alignment in Multi-modal Large Language Models?**](https://arxiv.org/abs/2504.10000) | CVPR 2025 | 2025/04/14 | None | --- | I+T→T |
 |[**JailDAM: Jailbreak Detection with Adaptive Memory for Vision-Language Model**](https://arxiv.org/abs/2504.03770) | Arxiv 2025 | 2025/04/3 | [Github](https://github.com/ShenzheZhu/JailDAM) | --- | I+T→T |
 |[**Tit-for-Tat: Safeguarding Large Vision-Language Models Against Jailbreak Attacks via Adversarial Defense**](https://arxiv.org/abs/2503.11619) | Arxiv 2025 | 2025/03/14 | None | --- | I+T→T |
