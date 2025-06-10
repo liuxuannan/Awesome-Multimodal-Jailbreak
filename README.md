@@ -320,7 +320,7 @@ Below are the papers related to jailbreak defense.
 |[**Implicit concept removal of diffusion models**](https://arxiv.org/abs/2310.05873) | ECCV 2024 | 2023/10/09 | None | Input Level | T→I |
 |[**Unified concept editing in diffusion models**](https://arxiv.org/abs/2308.14761) | WACV 2024 | 2023/08/25 | [Github](https://github.com/rohitgandikota/unified-concept-editing) | Generator Level | T→I |
 |[**Towards safe self-distillation of internet-scale text-to-image diffusion models**](https://arxiv.org/abs/2307.05977) | ICML 2023 Workshop on Challenges in Deployable Generative AI | 2023/07/12 | [Github](https://github.com/nannullna/safe-diffusion) | Generator Level | T→I |
-|[**Forget-Me-Not: Learning to Forget in Text-to-Image Diffusion Models**](https://arxiv.org/abs/2303.17591) | CVPR 2024 | 2023/05/30 | [Github](https://github.com/SHI-Labs/Forget-Me-Not) | Generator Level | T→I |
+|[**Forget-Me-Not: Learning to Forget in Text-to-Image Diffusion Models**](https://arxiv.org/abs/2303.17591) | CVPR Workshop 2024 | 2023/05/30 | [Github](https://github.com/SHI-Labs/Forget-Me-Not) | Generator Level | T→I |
 |[**Erasing concepts from diffusion models**](https://arxiv.org/abs/2303.07345) | ICCV 2023 | 2023/05/13 | [Github](https://github.com/rohitgandikota/erasing) | Generator Level | T→I |
 |[**Safe Latent Diffusion: Mitigating Inappropriate Degeneration in Diffusion Models**](https://arxiv.org/abs/2211.05105) | CVPR 2023 | 2022/11/09 | [Github](https://github.com/ml-research/safe-latent-diffusion) | Generator Level | T→I |
 
