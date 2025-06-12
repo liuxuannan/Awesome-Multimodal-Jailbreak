@@ -99,6 +99,8 @@ Below are the papers related to jailbreak attacks.
 ## Jailbreak Attack of Any-to-Text Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy |  Multimodal Model|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[**VSCBench: Bridging the Gap in Vision-Language Model Safety Calibration**](https://arxiv.org/abs/2505.20362) | Arxiv 2025 | 2025/05/26 | [Github](https://github.com/jiahuigeng/VSCBench) | --- | I+T→T |
+|[**JailBound: Jailbreaking Internal Safety Boundaries of Vision-Language Models**](https://arxiv.org/abs/2505.19610) | Arxiv 2025 | 2025/05/26 | None | --- | I+T→T |
 |[**Jailbreak-AudioBench: In-Depth Evaluation and Analysis of Jailbreak Threats for Large Audio Language Models**](https://arxiv.org/abs/2501.13772) | Arxiv 2025 | 2025/05/26 | None | --- | A+T→T |
 |[**Video-SafetyBench: A Benchmark for Safety Evaluation of Video LVLMs**](https://arxiv.org/abs/2505.11842) | Arxiv 2025 | 2025/05/17 | [Homepage](https://liuxuannan.github.io/Video-SafetyBench.github.io/) | Input Level | V+T→T |
 |[**Think in Safety: Unveiling and Mitigating Safety Alignment Collapse in Multimodal Large Reasoning Model**](https://arxiv.org/abs/2505.06538) | Arxiv 2025 | 2025/05/10 | [Github](https://github.com/xinyuelou/Think-in-Safety) | --- | I+T→T |
