@@ -99,10 +99,18 @@ Below are the papers related to jailbreak attacks.
 ## Jailbreak Attack of Any-to-Text Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy |  Multimodal Model|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[**JPS: Jailbreak Multimodal Large Language Models with Collaborative Visual Perturbation and Textual Steering**](https://arxiv.org/abs/2508.05087) | ACM MM 2025 | 2025/08/07 | [Github](https://github.com/thu-coai/JPS) | --- | I+T→T |
+|[**Cross-Modal Obfuscation for Jailbreak Attacks on Large Vision-Language Models**](https://arxiv.org/abs/2506.16760) | Arxiv 2025 | 2025/07/20 | None | --- | I+T→T |
+|[**Innocence in the Crossfire: Roles of Skip Connections in Jailbreaking Visual Language Models**](https://arxiv.org/abs/2507.13761) | TMM 2025 | 2025/07/18 | None | --- | I+T→T |
+|[**Visual Contextual Attack: Jailbreaking MLLMs with Image-Driven Context Injection**](https://arxiv.org/abs/2507.02844) | Arxiv 2025 | 2025/07/03 | [Github](https://github.com/Dtc7w3PQ/Visco-Attack) | --- | I+T→T |
+|[**Align is not Enough: Multimodal Universal Jailbreak Attack against Multimodal Large Language Models**](http://arxiv.org/abs/2506.01307) | TCSVT 2025 | 2025/07/02 | [Github](https://github.com/Dtc7w3PQ/Visco-Attack) | --- | I+T→T |
 |[**VSCBench: Bridging the Gap in Vision-Language Model Safety Calibration**](https://arxiv.org/abs/2505.20362) | Arxiv 2025 | 2025/05/26 | [Github](https://github.com/jiahuigeng/VSCBench) | --- | I+T→T |
 |[**JailBound: Jailbreaking Internal Safety Boundaries of Vision-Language Models**](https://arxiv.org/abs/2505.19610) | Arxiv 2025 | 2025/05/26 | None | --- | I+T→T |
 |[**Jailbreak-AudioBench: In-Depth Evaluation and Analysis of Jailbreak Threats for Large Audio Language Models**](https://arxiv.org/abs/2501.13772) | Arxiv 2025 | 2025/05/26 | None | --- | A+T→T |
+|[**Audio Jailbreak Attacks: Exposing Vulnerabilities in SpeechGPT in a White-Box Framewor**](https://arxiv.org/abs/2505.18864) | Arxiv 2025 | 2025/05/24 | None | --- | I+T→T |
+|[**BadNAVer: Exploring Jailbreak Attacks On Vision-and-Language Navigation**](https://arxiv.org/abs/2505.16446) | Arxiv 2025 | 2025/05/22 | None | --- | I+T→T |
 |[**Video-SafetyBench: A Benchmark for Safety Evaluation of Video LVLMs**](https://arxiv.org/abs/2505.11842) | Arxiv 2025 | 2025/05/17 | [Homepage](https://liuxuannan.github.io/Video-SafetyBench.github.io/) | Input Level | V+T→T |
+|[**Implicit Jailbreak Attacks via Cross-Modal Information Concealment on Vision-Language Models**](https://arxiv.org/abs/2505.12443) | Arxiv 2025 | 2025/05/18 | None | --- | I+T→T |
 |[**Think in Safety: Unveiling and Mitigating Safety Alignment Collapse in Multimodal Large Reasoning Model**](https://arxiv.org/abs/2505.06538) | Arxiv 2025 | 2025/05/10 | [Github](https://github.com/xinyuelou/Think-in-Safety) | --- | I+T→T |
 |[**SafeMLRM: Demystifying Safety in Multi-modal Large Reasoning Models**](https://arxiv.org/abs/2504.08813) | Arxiv 2025 | 2025/04/09 | [Github](https://github.com/fangjf1/OpenSafeMLRM) | --- | I+T→T |
 |[**PiCo: Jailbreaking Multimodal Large Language Models via Pictorial Code Contextualization**](https://arxiv.org/abs/2504.01444) | Arxiv 2025 | 2025/04/02 | None | --- | I+T→T |
@@ -165,7 +173,12 @@ Below are the papers related to jailbreak attacks.
 ## Jailbreak Attack of Any-to-Vision Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy | Multimodal Model |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[**Universally Unfiltered and Unseen:Input-Agnostic Multimodal Jailbreaks against Text-to-Image Model Safeguards**](https://arxiv.org/abs/2508.05658) | ACM MM 2025 | 2025/07/30 | [Github](https://github.com/yszbb/U3-Attack) | --- | T→I |
+|[**From Seed to Harvest: Augmenting Human Creativity with AI for Red-teaming Text-to-Image Models**](https://arxiv.org/abs/2507.17922) | Arxiv 2025 | 2025/07/23 | None | --- | T→I |
+|[**PLA: Prompt Learning Attack against Text-to-Image Generative Models**](https://arxiv.org/abs/2508.03696) | ICCV 2025 | 2025/07/14 | None | --- | T→I |
+|[**GhostPrompt: Jailbreaking Text-to-image Generative Models based on Dynamic Optimization**](https://arxiv.org/abs/2505.18979) | Arxiv 2025 | 2025/05/25 | None | --- | T→I |
 |[**TokenProber: Jailbreaking Text-to-image Models via Fine-grained Word Impact Analysis**](https://arxiv.org/abs/2505.08804) | Arxiv 2025 | 2025/05/11 | None | --- | T→I |
+|[**T2V-OptJail: Discrete Prompt Optimization for Text-to-Video Jailbreak Attacks**](https://arxiv.org/abs/2505.06679) | Arxiv 2025 | 2025/05/10 | None | --- | T→V |
 |[**Inception: Jailbreak the Memory Mechanism of Text-to-Image Generation Systems**](https://arxiv.org/abs/2504.20376) | Arxiv 2025 | 2025/04/29 | None | --- | T→I |
 |[**Token-Level Constraint Boundary Search for Jailbreaking Text-to-Image Models**](https://arxiv.org/abs/2504.11106) | Arxiv 2025 | 2025/04/15 | None | --- | T→I |
 |[**Mind the Trojan Horse: Image Prompt Adapter Enabling Scalable and Deceptive Jailbreaking**](https://arxiv.org/abs/2504.05838) | CVPR 2025 Highlight | 2025/04/08 | [Github](https://github.com/fhdnskfbeuv/attackIPA) | --- | T→I |
@@ -229,6 +242,8 @@ Below are the papers related to jailbreak defense.
 ## Jailbreak Defense of Any-to-Text Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy | Multimodal Model |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[**Secure Tug-of-War (SecTOW): Iterative Defense-Attack Training with Reinforcement Learning for Multimodal Model Security**](https://arxiv.org/abs/2507.22037) | Arxiv 2025 | 2025/07/29 | None | --- | I+T→T |
+|[**SafePTR: Token-Level Jailbreak Defense in Multimodal LLMs via Prune-then-Restore Mechanism**](https://arxiv.org/abs/2507.01513) | Arxiv 2025 | 2025/07/02 | None | --- | I+T→T |
 |[**DREAM: Disentangling Risks to Enhance Safety Alignment in Multimodal Large Language Models**](https://arxiv.org/abs/2504.18053) | Arxiv 2025 | 2025/04/25 | [Github](https://github.com/Kizna1ver/DREAM) | --- | I+T→T |
 |[**Do We Really Need Curated Malicious Data for Safety Alignment in Multi-modal Large Language Models?**](https://arxiv.org/abs/2504.10000) | CVPR 2025 | 2025/04/14 | None | --- | I+T→T |
 |[**JailDAM: Jailbreak Detection with Adaptive Memory for Vision-Language Model**](https://arxiv.org/abs/2504.03770) | Arxiv 2025 | 2025/04/3 | [Github](https://github.com/ShenzheZhu/JailDAM) | --- | I+T→T |
@@ -272,6 +287,10 @@ Below are the papers related to jailbreak defense.
 ## Jailbreak Defense of Any-to-Vision Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy | Multimodal Model |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[**Seeing It Before It Happens: In-Generation NSFW Detection for Diffusion-Based Text-to-Image Models**](https://arxiv.org/abs/2508.03006) | Arxiv 2025 | 2025/08/05 | None | --- | T→I |
+|[**PromptSafe: Gated Prompt Tuning for Safe Text-to-Image Generation**](https://arxiv.org/abs/2508.01272) | Arxiv 2025 | 2025/08/02 | None | --- | T→I |
+|[**Wukong Framework for Not Safe For Work Detection in Text-to-Image systems**](https://arxiv.org/abs/2508.00591) | Arxiv 2025 | 2025/08/01 | None | --- | T→I |
+|[**NSFW-Classifier Guided Prompt Sanitization for Safe Text-to-Image Generation**](https://arxiv.org/abs/2506.18325) | Arxiv 2025 | 2025/07/23 | None | --- | T→I |
 |[**T2VShield: Model-Agnostic Jailbreak Defense for Text-to-Video Models**](https://arxiv.org/abs/2504.15512) | Arxiv 2025 | 2025/04/22 | None | --- | T→V |
 |[**Towards NSFW-Free Text-to-Image Generation via Safety-Constraint Direct Preference Optimization**](https://arxiv.org/abs/2504.14290) | Arxiv 2025 | 2025/04/19 | None | --- | T→I |
 |**I2VGuard: Safeguarding Images against Misuse in Diffusion-based Image-to-Video Models** | CVPR 2025 | --- | None | --- | T→V |
