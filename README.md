@@ -27,27 +27,33 @@ But we don't stop there; Our repository is constantly updated to ensure you have
 
 ## 🚀Table of Contents
 
-- [😈🛡️Awesome-Jailbreak-against-Multimodal-Generative-Models🛡️](#️Awesome-Jailbreak-against-Multimodal-Generative-Models)
+- [😈🛡️Awesome-Jailbreak-against-Multimodal-Generative-Models](#️awesome-jailbreak-against-multimodal-generative-models)
   - [🤗Introduction](#introduction)
   - [🚀Table of Contents](#table-of-contents)
-  - [🔥Multimodal Generative Models](#Multimodal-Generative-Models)
-    - [📑Any-to-Text Models (LLM Backbone)](#Any-to-Text-LLM-Backbone)
-    - [📖Any-to-Vision Models (Diffusion Backbone)](#Any-to-Vision-Diffusion-Backbone)
-    - [📰Any-to-Any Models (Unified Backbone)](#Any-to-Any-Unified-Backbone)
-  - [😈Jailbreak Attack](#Jailbreak-Attack)
-    - [📖Attack-Intro](#Attack-Intro)
-    - [📑Papers](#Papers)
+  - [🔥Multimodal Generative Models](#multimodal-generative-models)
+    - [📑Any-to-Text Models (LLM Backbone)](#any-to-text-models-llm-backbone)
+    - [📖Any-to-Vision (Diffusion Backbone)](#any-to-vision-diffusion-backbone)
+    - [📰Any-to-Any (Unified Backbone)](#any-to-any-unified-backbone)
+  - [😈JailBreak Attack](#jailbreak-attack)
+    - [📖Attack-Intro](#attack-intro)
+    - [📑Papers](#papers)
+  - [Jailbreak Attack of Any-to-Text Models](#jailbreak-attack-of-any-to-text-models)
+  - [Jailbreak Attack of Any-to-Vision Models](#jailbreak-attack-of-any-to-vision-models)
+  - [Jailbreak Attack of Any-to-Any Models](#jailbreak-attack-of-any-to-any-models)
   - [🛡️Jailbreak Defense](#️jailbreak-defense)
-    - [📖Defense-Intro](#Defense-Intro)
-    - [📑Papers](#Papers)
-  - [💯Evaluation](#Evaluation)
-    - [⭐️Datasets](#datasets)
-      - [Used to Any-to-Text Models](#Used-to-Any-to-Text-Models)
-      - [Used to Any-to-Vision Models](#Used-to-Any-to-Vision-Models)
-    - [📚Detectors](#detectors)
-      - [Used to Any-to-Text Models](#Used-to-Any-to-Text-Models)
-      - [Used to Any-to-Text Models](#Used-to-Any-to-Vision-Models)
-  - [😉Citation](#Citation)
+    - [📖Defense-Intro](#defense-intro)
+    - [📑Papers](#papers-1)
+  - [Jailbreak Defense of Any-to-Text Models](#jailbreak-defense-of-any-to-text-models)
+  - [Jailbreak Defense of Any-to-Vision Models](#jailbreak-defense-of-any-to-vision-models)
+  - [Jailbreak Defense of Any-to-Any Models](#jailbreak-defense-of-any-to-any-models)
+  - [💯Evaluation](#evaluation)
+    - [⭐️Evaluation Datasets](#️evaluation-datasets)
+      - [Used to Any-to-Text Models](#used-to-any-to-text-models)
+      - [Used to Any-to-Vision Models](#used-to-any-to-vision-models)
+    - [📚Evaluation Methods](#evaluation-methods)
+      - [Text Detector](#text-detector)
+      - [Image Detector](#image-detector)
+  - [😉Citation](#citation)
 
 
 
@@ -99,7 +105,7 @@ Below are the papers related to jailbreak attacks.
 ## Jailbreak Attack of Any-to-Text Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy |  Multimodal Model|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
-|[**Video-SafetyBench: A Benchmark for Safety Evaluation of Video LVLMs**](https://arxiv.org/abs/2505.11842) | Arxiv 2025 | 2025/05/17 | [Homepage](https://liuxuannan.github.io/Video-SafetyBench.github.io/) | Input Level | V+T→T |
+|[**Video-SafetyBench: A Benchmark for Safety Evaluation of Video LVLMs**](https://arxiv.org/abs/2505.11842) | NeurIPS 2025 | 2025/05/17 | [Homepage](https://liuxuannan.github.io/Video-SafetyBench.github.io/) | Input Level | V+T→T |
 |[**Towards Effective MLLM Jailbreaking Through Balanced On-Topicness and OOD-Intensity**](https://arxiv.org/abs/2508.09218) | Arxiv 2025 | 2025/08/11 | [Github](https://github.com/LumaLab-ai/BSD) | --- | I+T→T |
 |[**JPS: Jailbreak Multimodal Large Language Models with Collaborative Visual Perturbation and Textual Steering**](https://arxiv.org/abs/2508.05087) | ACM MM 2025 | 2025/08/07 | [Github](https://github.com/thu-coai/JPS) | --- | I+T→T |
 |[**PRISM: Programmatic Reasoning with Image Sequence Manipulation for LVLM Jailbreaking**](https://arxiv.org/abs/2507.21540) | Arxiv 2025 | 2025/07/29 | None | --- | I+T→T |
