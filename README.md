@@ -105,7 +105,7 @@ Below are the papers related to jailbreak attacks.
 ## Jailbreak Attack of Any-to-Text Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy |  Multimodal Model|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
-|[**The Shawshank Redemption of Embodied AI: Understanding and Benchmarking Indirect Environmental Jailbreaks**](https://arxiv.org/abs/2511.16347) | Arxiv 2025 | 2025/11/20 | None | Input Level | V+T→T |
+|[**The Shawshank Redemption of Embodied AI: Understanding and Benchmarking Indirect Environmental Jailbreaks**](https://arxiv.org/abs/2511.16347) | Arxiv 2025 | 2025/11/20 | None | --- | V+T→T |
 |[**Video-SafetyBench: A Benchmark for Safety Evaluation of Video LVLMs**](https://arxiv.org/abs/2505.11842) | NeurIPS 2025 | 2025/05/17 | [Homepage](https://liuxuannan.github.io/Video-SafetyBench.github.io/) | Input Level | V+T→T |
 |[**Towards Effective MLLM Jailbreaking Through Balanced On-Topicness and OOD-Intensity**](https://arxiv.org/abs/2508.09218) | Arxiv 2025 | 2025/08/11 | [Github](https://github.com/LumaLab-ai/BSD) | --- | I+T→T |
 |[**JPS: Jailbreak Multimodal Large Language Models with Collaborative Visual Perturbation and Textual Steering**](https://arxiv.org/abs/2508.05087) | ACM MM 2025 | 2025/08/07 | [Github](https://github.com/thu-coai/JPS) | --- | I+T→T |
