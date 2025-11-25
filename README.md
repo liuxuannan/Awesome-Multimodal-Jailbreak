@@ -105,6 +105,7 @@ Below are the papers related to jailbreak attacks.
 ## Jailbreak Attack of Any-to-Text Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy |  Multimodal Model|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[**Jailbreaking Large Vision Language Models in Intelligent Transportation Systems**](https://arxiv.org/abs/2511.13892) | Arxiv 2025 | 2025/11/17 | None | --- | I+T→T |
 |[**An Image Is Worth Ten Thousand Words: Verbose-Text Induction Attacks on VLMs**](https://arxiv.org/abs/2511.16163) | Arxiv 2025 | 2025/11/20 | None | --- | I+T→T |
 |[**The Shawshank Redemption of Embodied AI: Understanding and Benchmarking Indirect Environmental Jailbreaks**](https://arxiv.org/abs/2511.16347) | Arxiv 2025 | 2025/11/20 | None | --- | I+T→T |
 |[**Video-SafetyBench: A Benchmark for Safety Evaluation of Video LVLMs**](https://arxiv.org/abs/2505.11842) | NeurIPS 2025 | 2025/05/17 | [Homepage](https://liuxuannan.github.io/Video-SafetyBench.github.io/) | Input Level | V+T→T |
