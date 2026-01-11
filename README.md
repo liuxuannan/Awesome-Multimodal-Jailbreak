@@ -256,7 +256,7 @@ Below are the papers related to jailbreak defense.
 ## Jailbreak Defense of Any-to-Text Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy | Multimodal Model |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
-|[**Q-MLLM: Vector Quantization for Robust Multimodal Large Language Model Security**](https://arxiv.org/abs/2511.16229) | Arxiv 2025 | 2025/11/20 | [Github](https://github.com/Amadeuszhao/)QMLLM | --- | I+T→T |
+|[**Q-MLLM: Vector Quantization for Robust Multimodal Large Language Model Security**](https://arxiv.org/abs/2511.16229) | Arxiv 2025 | 2025/11/20 | [Github](https://github.com/Amadeuszhao/) | --- | I+T→T |
 |[**Learning to Detect Unknown Jailbreak Attacks in Large Vision-Language Models: A Unified and Accurate Approach**](https://arxiv.org/abs/2508.09201) | Arxiv 2025 | 2025/08/08 | None | --- | I+T→T |
 |[**Secure Tug-of-War (SecTOW): Iterative Defense-Attack Training with Reinforcement Learning for Multimodal Model Security**](https://arxiv.org/abs/2507.22037) | Arxiv 2025 | 2025/07/29 | None | --- | I+T→T |
 |[**SafePTR: Token-Level Jailbreak Defense in Multimodal LLMs via Prune-then-Restore Mechanism**](https://arxiv.org/abs/2507.01513) | Arxiv 2025 | 2025/07/02 | None | --- | I+T→T |
